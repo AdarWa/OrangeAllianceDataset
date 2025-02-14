@@ -1,0 +1,60 @@
+[
+  {
+    "match_key": "2425-ISR-SHQ2-Q006-1",
+    "event_key": "2425-ISR-SHQ2",
+    "tournament_level": 1,
+    "scheduled_time": "2025-01-29T16:05:00.000Z",
+    "match_name": "Quals 6",
+    "play_number": 1,
+    "field_number": "2",
+    "match_start_time": "2025-01-29T16:05:22.902Z",
+    "prestart_count": null,
+    "post_result_time": "2025-01-29T16:09:15.383Z",
+    "cycle_time": null,
+    "red_score": 151,
+    "blue_score": 8,
+    "red_penalty": 0,
+    "blue_penalty": 0,
+    "red_auto_score": 42,
+    "blue_auto_score": 0,
+    "red_tele_score": -1,
+    "blue_tele_score": -1,
+    "red_end_score": -1,
+    "blue_end_score": -1,
+    "video_url": "",
+    "participants": [
+      {
+        "match_participant_key": "2425-ISR-SHQ2-Q006-1-R1",
+        "match_key": "2425-ISR-SHQ2-Q006-1",
+        "team_key": "25041",
+        "station": 11,
+        "station_status": 1,
+        "ref_status": 0
+      },
+      {
+        "match_participant_key": "2425-ISR-SHQ2-Q006-1-R2",
+        "match_key": "2425-ISR-SHQ2-Q006-1",
+        "team_key": "9662",
+        "station": 12,
+        "station_status": 1,
+        "ref_status": 0
+      },
+      {
+        "match_participant_key": "2425-ISR-SHQ2-Q006-1-B1",
+        "match_key": "2425-ISR-SHQ2-Q006-1",
+        "team_key": "11567",
+        "station": 21,
+        "station_status": 1,
+        "ref_status": 0
+      },
+      {
+        "match_participant_key": "2425-ISR-SHQ2-Q006-1-B2",
+        "match_key": "2425-ISR-SHQ2-Q006-1",
+        "team_key": "15141",
+        "station": 22,
+        "station_status": 1,
+        "ref_status": 0
+      }
+    ]
+  }
+]

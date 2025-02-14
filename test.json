@@ -1,0 +1,30 @@
+{
+  "robot1": {
+    "team": "23849",
+    "auto_park": true,
+    "tele_ascent": 2
+  },
+  "robot2": {
+    "team": "19669",
+    "auto_park": true,
+    "tele_ascent": 1
+  },
+  "auto": {
+    "sample_net": 0,
+    "sample_low": 0,
+    "sample_high": 4,
+    "specimen_low": 0,
+    "specimen_high": 3
+  },
+  "teleop": {
+    "sample_net": 0,
+    "sample_low": 0,
+    "sample_high": 16,
+    "specimen_low": 0,
+    "specimen_high": 10
+  },
+  "foul_points": 0,
+  "auto_points": 68,
+  "teleop_points": 246,
+  "total_points": 329
+}
