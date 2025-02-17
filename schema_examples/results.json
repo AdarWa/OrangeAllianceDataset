@@ -1,0 +1,36 @@
+[
+    {
+      "rank_key": "2425-ISR-SHQ2-R14872",
+      "event_key": "2425-ISR-SHQ2",
+      "team_key": "14872",
+      "rank": 1,
+      "rank_change": 0,
+      "opr": 191.30163825461588,
+      "np_opr": 185.9577508556747,
+      "wins": 6,
+      "losses": 0,
+      "ties": 0,
+      "highest_qual_score": 278,
+      "ranking_points": 2,
+      "qualifying_points": 0,
+      "tie_breaker_points": 41.5,
+      "disqualified": 0,
+      "played": 6,
+      "team": {
+        "team_key": "14872",
+        "region_key": "ISR",
+        "league_key": "",
+        "team_number": 14872,
+        "team_name_short": "Orbit Knights",
+        "team_name_long": "Ort Binyamina",
+        "robot_name": "",
+        "last_active": "2425",
+        "city": "Binyamina",
+        "state_prov": "HA",
+        "zip_code": 3053905,
+        "country": "Israel",
+        "rookie_year": 2018,
+        "website": ""
+      }
+    }
+  ]

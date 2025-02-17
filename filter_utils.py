@@ -1,7 +1,7 @@
 import numpy as np
 from scipy.optimize import minimize
 
-def estimate_contributions(game_scores):
+def estimate_contribution(game_scores):
     game_scores = remove_lower_outliers(game_scores)
     def variance_objective(R1, scores):
         R2_scores = scores - R1
@@ -18,4 +18,4 @@ def remove_lower_outliers(data, threshold=3):
 # Just testing stuff
 if __name__ == "__main__":
     s = np.array([10, 224, 237, 229, 372, 152, 228, 170, 223, 266, 204, 262, 297, 324, 274, 233, 323, 350, 248, 249, 283, 214, 243, 234, 213, 325, 420, 254, 263, 263, 265, 400, 378, 405, 411, 362])
-    print(estimate_contributions(s))
+    print(estimate_contribution(s))

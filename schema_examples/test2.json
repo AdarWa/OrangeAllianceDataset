@@ -1,0 +1,23 @@
+{
+  "number": 9662,
+  "name": "Apollo",
+  "seniority": 11,
+  "has_website": true,
+  "estimated_contribution": 43.050000000000004,
+  "auto_park": 0,
+  "tele_ascent": 2,
+  "auto_sample_net": 0.16666666666666666,
+  "auto_sample_low": 0,
+  "auto_sample_high": 3,
+  "auto_specimen_low": 0,
+  "auto_specimen_high": 0.3333333333333333,
+  "teleop_sample_net": 2,
+  "teleop_sample_low": 0,
+  "teleop_sample_high": 5.833333333333333,
+  "teleop_specimen_low": 0,
+  "teleop_specimen_high": 2.3333333333333335,
+  "foul_points": 2.5,
+  "auto_points": 28.166666666666668,
+  "teleop_points": 81.5,
+  "total_points": 109.66666666666667
+}
