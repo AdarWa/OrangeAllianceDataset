@@ -16,4 +16,4 @@ With this dataset it is possible to further analyse FTC(FIRST Tech Challenge) te
 This dataset is not an official dataset of the Orange Alliance. It is independently compiled and maintained for educational and analytical purposes.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the GPL-3.0 License. See the [LICENSE](LICENSE) file for more details.
