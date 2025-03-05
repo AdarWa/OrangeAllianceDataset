@@ -1,4 +1,7 @@
 import utils
+import time
+import logging
+
 
 s = None
 KEY = utils.get_key()
@@ -11,7 +14,7 @@ def init(requests_type='cache'):
         s = requests_cache.CachedSession('orange_cache')
     elif requests_type == 'limiter':
         from requests_ratelimiter import LimiterSession
-        s = LimiterSession(per_minute=30)
+        s = LimiterSession(per_minute=33)
     elif requests_type == 'normal':
         import requests
         s = requests.Session()
@@ -21,41 +24,51 @@ def init(requests_type='cache'):
 
 
 def get_teams_data(country=None):
-    url = "https://theorangealliance.org/api/team"
-    if country:
-        url = f"https://theorangealliance.org/api/team?country={country}"
-    headers = {
-        "X-TOA-Key": KEY,
-        "X-Application-Origin": "example.com"
-    }
-    
-    response = s.get(url, headers=headers)
-    
-    if response.status_code == 200:
-        teams_data = response.json()
-        return teams_data
-    else:
-        print(f"Failed to retrieve data: {response.status_code}")
+    try:
+        url = "https://theorangealliance.org/api/team"
+        if country:
+            url = f"https://theorangealliance.org/api/team?country={country}"
+        headers = {
+            "X-TOA-Key": KEY,
+            "X-Application-Origin": "example.com"
+        }
+        
+        response = s.get(url, headers=headers)
+        
+        if response.status_code == 200:
+            teams_data = response.json()
+            for team in teams_data:
+                team['country'] = country
+            return teams_data
+        else:
+            logging.error(f"Failed to retrieve data: {response.status_code}")
+            return None
+    except Exception as e:
+        logging.error(f"Error getting teams data for country {country}: {str(e)}")
         return None
     
     
 def get_team_matches(team_number):
-    url = f"https://theorangealliance.org/api/team/{team_number}/matches/2425"
-    headers = {
-        "X-TOA-Key": KEY,
-        "X-Application-Origin": "example.com"
-    }
-    
-    response = s.get(url, headers=headers)
-    
-    if response.status_code == 200:
-        matches_data = response.json()
-        m = []
-        for match in matches_data:
-            m.append(match['match_key'])
-        return m
-    else:
-        print(f"Failed to retrieve data: {response.status_code}")
+    try:
+        url = f"https://theorangealliance.org/api/team/{team_number}/matches/2425"
+        headers = {
+            "X-TOA-Key": KEY,
+            "X-Application-Origin": "example.com"
+        }
+        
+        response = s.get(url, headers=headers)
+        
+        if response.status_code == 200:
+            matches_data = response.json()
+            m = []
+            for match in matches_data:
+                m.append(match['match_key'])
+            return m
+        else:
+            logging.error(f"Failed to retrieve data: {response.status_code}")
+            return None
+    except Exception as e:
+        logging.error(f"Error getting matches for team {team_number}: {str(e)}")
         return None
     
 def get_match_details(match_key):

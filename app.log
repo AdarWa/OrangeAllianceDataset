@@ -1,0 +1,2429 @@
+2025-03-04 22:32:32,289 - INFO - Starting...
+2025-03-04 22:32:43,014 - INFO - Team #13898 Aberhart Frostbyte started
+2025-03-04 22:33:48,130 - INFO - Team #13898 Aberhart Frostbyte done
+2025-03-04 22:33:48,897 - INFO - Team #27273 Sparkans Assemble started
+2025-03-04 22:34:54,502 - INFO - Team #27273 Sparkans Assemble done
+2025-03-04 22:34:55,023 - INFO - Team #14713 Crossing Park Cobras started
+2025-03-04 22:36:50,779 - INFO - Team #14713 Crossing Park Cobras done
+2025-03-04 22:36:51,248 - WARNING - No matches found for team #20427
+2025-03-04 22:36:51,706 - WARNING - No matches found for team #21319
+2025-03-04 22:36:52,165 - INFO - Team #25676 ASTRO-ARTEMIS started
+2025-03-04 22:37:42,395 - INFO - Team #25676 ASTRO-ARTEMIS done
+2025-03-04 22:37:43,714 - INFO - Team #5009 Helios started
+2025-03-04 22:38:48,514 - INFO - Team #5009 Helios done
+2025-03-04 22:38:49,049 - INFO - Team #24239 Corax Machina Ductus started
+2025-03-04 22:39:50,695 - INFO - Team #24239 Corax Machina Ductus done
+2025-03-04 22:39:51,231 - INFO - Team #22391 Bronco Bots-Team 2(girls) started
+2025-03-04 22:40:53,520 - INFO - Team #22391 Bronco Bots-Team 2(girls) done
+2025-03-04 22:40:54,043 - INFO - Team #23519 Arc Angels started
+2025-03-04 22:40:59,431 - INFO - Team #23519 Arc Angels done
+2025-03-04 22:40:59,901 - INFO - Team #20281 les LOUPS started
+2025-03-04 22:41:49,813 - INFO - Team #20281 les LOUPS done
+2025-03-04 22:41:50,348 - INFO - Team #22531 Scarlett Lancelittles started
+2025-03-04 22:42:58,495 - ERROR - Error getting results for team #22531: 'np_opr'
+2025-03-04 22:42:58,500 - INFO - Team #22531 Scarlett Lancelittles done
+2025-03-04 22:42:58,969 - INFO - Team #24302 Real Steel started
+2025-03-04 22:43:53,313 - INFO - Team #24302 Real Steel done
+2025-03-04 22:43:53,991 - WARNING - No matches found for team #20117
+2025-03-04 22:43:54,513 - WARNING - No matches found for team #22689
+2025-03-04 22:43:54,981 - WARNING - No matches found for team #27688
+2025-03-04 22:43:55,448 - WARNING - No matches found for team #16183
+2025-03-04 22:43:55,914 - WARNING - No matches found for team #27330
+2025-03-04 22:43:56,818 - WARNING - No matches found for team #24384
+2025-03-04 22:43:57,286 - WARNING - No matches found for team #19474
+2025-03-04 22:43:57,825 - INFO - Team #19468 Alpha Dogs Theta started
+2025-03-04 22:45:49,533 - INFO - Team #19468 Alpha Dogs Theta done
+2025-03-04 22:45:50,073 - INFO - Team #27819 Rundle Robotics Cascade started
+2025-03-04 22:46:59,961 - INFO - Team #27819 Rundle Robotics Cascade done
+2025-03-04 22:47:00,687 - INFO - Team #18844 Pr0Teens started
+2025-03-04 22:49:46,481 - INFO - Team #18844 Pr0Teens done
+2025-03-04 22:49:47,356 - INFO - Team #9999 The Ninejas started
+2025-03-04 22:51:52,592 - INFO - Team #9999 The Ninejas done
+2025-03-04 22:51:53,062 - INFO - Team #24987 THEORY2 started
+2025-03-04 22:51:59,280 - INFO - Team #24987 THEORY2 done
+2025-03-04 22:51:59,824 - INFO - Team #23273 Salisbury Robotics Black started
+2025-03-04 22:53:45,366 - INFO - Team #23273 Salisbury Robotics Black done
+2025-03-04 22:53:46,514 - WARNING - No matches found for team #19555
+2025-03-04 22:53:47,176 - INFO - Team #22111 Mecha Mustangs started
+2025-03-04 22:53:54,338 - ERROR - Error processing match 2425-BC-PMS-Q021-1 for team 22111: 'NoneType' object is not subscriptable
+2025-03-04 22:53:55,192 - ERROR - Error processing match 2425-BC-PMS-Q026-1 for team 22111: 'NoneType' object is not subscriptable
+2025-03-04 22:55:00,447 - INFO - Team #22111 Mecha Mustangs done
+2025-03-04 22:55:00,909 - WARNING - No matches found for team #21783
+2025-03-04 22:55:01,439 - INFO - Team #24701 Corsair started
+2025-03-04 22:56:48,391 - INFO - Team #24701 Corsair done
+2025-03-04 22:56:50,874 - WARNING - No matches found for team #27635
+2025-03-04 22:56:51,969 - WARNING - No matches found for team #24975
+2025-03-04 22:56:52,627 - WARNING - No matches found for team #26944
+2025-03-04 22:56:53,086 - WARNING - No matches found for team #24101
+2025-03-04 22:56:53,542 - WARNING - No matches found for team #21763
+2025-03-04 22:56:54,000 - INFO - Team #18808 Chemical X started
+2025-03-04 22:57:47,163 - INFO - Team #18808 Chemical X done
+2025-03-04 22:57:48,431 - INFO - Team #21397 Sonic Rover started
+2025-03-04 22:58:01,060 - INFO - Team #21397 Sonic Rover done
+2025-03-04 22:58:01,520 - INFO - Team #22101 Lambs Robotics started
+2025-03-04 22:58:55,595 - INFO - Team #22101 Lambs Robotics done
+2025-03-04 22:58:56,036 - WARNING - No matches found for team #22278
+2025-03-04 22:58:56,565 - INFO - Team #25811 Nose Creek CODE-iaks started
+2025-03-04 23:00:45,447 - INFO - Team #25811 Nose Creek CODE-iaks done
+2025-03-04 23:00:45,897 - INFO - Team #26107 Villaciraptors started
+2025-03-04 23:00:58,744 - INFO - Team #26107 Villaciraptors done
+2025-03-04 23:00:59,194 - INFO - Team #20273 TechnoDynamo started
+2025-03-04 23:01:05,644 - INFO - Team #20273 TechnoDynamo done
+2025-03-04 23:01:07,593 - ERROR - Failed to retrieve data: 502
+2025-03-04 23:01:07,594 - WARNING - No matches found for team #20105
+2025-03-04 23:01:08,049 - INFO - Team #19528 COMET TECH LANCERS started
+2025-03-04 23:02:02,122 - INFO - Team #19528 COMET TECH LANCERS done
+2025-03-04 23:02:02,642 - INFO - Team #24622 RAMBOTS Purple started
+2025-03-04 23:03:00,806 - INFO - Team #24622 RAMBOTS Purple done
+2025-03-04 23:03:01,383 - INFO - Team #22459 SJHS Gyro Falcons - Prometheus started
+2025-03-04 23:04:03,027 - INFO - Team #22459 SJHS Gyro Falcons - Prometheus done
+2025-03-04 23:04:03,485 - WARNING - No matches found for team #19472
+2025-03-04 23:04:04,368 - INFO - Team #27488 R3P2 Raccoons started
+2025-03-04 23:05:03,216 - INFO - Team #27488 R3P2 Raccoons done
+2025-03-04 23:05:03,717 - INFO - Team #22029 ASAP started
+2025-03-04 23:06:44,653 - INFO - Team #22029 ASAP done
+2025-03-04 23:06:45,496 - WARNING - No matches found for team #20693
+2025-03-04 23:06:46,139 - INFO - Team #24791 TWOSE - Sabercorns started
+2025-03-04 23:07:58,138 - INFO - Team #24791 TWOSE - Sabercorns done
+2025-03-04 23:07:58,821 - INFO - Team #24135 Cybertronic PenguinZ started
+2025-03-04 23:09:07,019 - INFO - Team #24135 Cybertronic PenguinZ done
+2025-03-04 23:09:07,455 - WARNING - No matches found for team #21744
+2025-03-04 23:09:08,116 - INFO - Team #22582 The Guardians of the Allen Key - WSS started
+2025-03-04 23:10:46,606 - INFO - Team #22582 The Guardians of the Allen Key - WSS done
+2025-03-04 23:10:51,325 - INFO - Team #27967 SJB LEGENDS started
+2025-03-04 23:11:00,527 - INFO - Team #27967 SJB LEGENDS done
+2025-03-04 23:11:00,980 - INFO - Team #18502 St. Pat's Celtic Ducksters started
+2025-03-04 23:11:04,325 - ERROR - Error processing match 2425-BC-PMS-Q017-1 for team 18502: 'NoneType' object is not subscriptable
+2025-03-04 23:11:05,757 - ERROR - Error processing match 2425-BC-PMS-Q023-1 for team 18502: 'NoneType' object is not subscriptable
+2025-03-04 23:11:07,005 - INFO - Team #18502 St. Pat's Celtic Ducksters done
+2025-03-04 23:11:07,473 - WARNING - No matches found for team #19534
+2025-03-04 23:11:08,121 - INFO - Team #20190 SJHS Gyro Falcons - Anglers started
+2025-03-04 23:12:59,633 - INFO - Team #20190 SJHS Gyro Falcons - Anglers done
+2025-03-04 23:13:00,090 - INFO - Team #27314 Quantum Quackers started
+2025-03-04 23:13:05,049 - INFO - Team #27314 Quantum Quackers done
+2025-03-04 23:13:05,915 - INFO - Team #19447 Team Titans 2: Electric Boogaloo started
+2025-03-04 23:14:03,535 - INFO - Team #19447 Team Titans 2: Electric Boogaloo done
+2025-03-04 23:14:04,001 - WARNING - No matches found for team #26822
+2025-03-04 23:14:04,527 - INFO - Team #27694 Botcats started
+2025-03-04 23:15:51,295 - INFO - Team #27694 Botcats done
+2025-03-04 23:15:51,979 - INFO - Team #26447 Blitz Bots started
+2025-03-04 23:16:55,338 - INFO - Team #26447 Blitz Bots done
+2025-03-04 23:16:55,994 - INFO - Team #27988 FMM Magic 11 started
+2025-03-04 23:17:56,471 - INFO - Team #27988 FMM Magic 11 done
+2025-03-04 23:17:56,911 - WARNING - No matches found for team #19138
+2025-03-04 23:17:59,009 - INFO - Team #27313 Tesla's Titans started
+2025-03-04 23:18:08,003 - INFO - Team #27313 Tesla's Titans done
+2025-03-04 23:18:08,472 - INFO - Team #20272 Express-O started
+2025-03-04 23:19:05,046 - INFO - Team #20272 Express-O done
+2025-03-04 23:19:05,505 - INFO - Team #26451 BGC Current started
+2025-03-04 23:19:52,701 - INFO - Team #26451 BGC Current done
+2025-03-04 23:19:53,165 - INFO - Team #27553 Woodroffe Tigers started
+2025-03-04 23:20:44,640 - INFO - Team #27553 Woodroffe Tigers done
+2025-03-04 23:20:45,500 - INFO - Team #27281 RoboRodents started
+2025-03-04 23:21:09,874 - INFO - Team #27281 RoboRodents done
+2025-03-04 23:21:10,337 - INFO - Team #22150 Northview Robotics started
+2025-03-04 23:22:03,669 - INFO - Team #22150 Northview Robotics done
+2025-03-04 23:22:05,443 - WARNING - No matches found for team #28506
+2025-03-04 23:22:07,178 - INFO - Team #27272 Sparkans Sharkans started
+2025-03-04 23:23:13,828 - INFO - Team #27272 Sparkans Sharkans done
+2025-03-04 23:23:14,290 - WARNING - No matches found for team #28041
+2025-03-04 23:23:14,812 - INFO - Team #15254 Facey Cyberflex started
+2025-03-04 23:25:01,492 - INFO - Team #15254 Facey Cyberflex done
+2025-03-04 23:25:03,713 - INFO - Team #16503 MDR TinBit started
+2025-03-04 23:25:09,913 - ERROR - Error processing match 2425-BC-PMS-Q020-1 for team 16503: 'NoneType' object is not subscriptable
+2025-03-04 23:25:10,623 - ERROR - Error processing match 2425-BC-PMS-Q024-1 for team 16503: 'NoneType' object is not subscriptable
+2025-03-04 23:25:11,326 - ERROR - Error processing match 2425-BC-PMS-Q028-1 for team 16503: 'NoneType' object is not subscriptable
+2025-03-04 23:25:14,519 - INFO - Team #16503 MDR TinBit done
+2025-03-04 23:25:15,033 - INFO - Team #22263 More Thunderbots started
+2025-03-04 23:26:11,830 - INFO - Team #22263 More Thunderbots done
+2025-03-04 23:26:13,857 - INFO - Team #20174 MDR Maximum Entropy started
+2025-03-04 23:26:47,135 - ERROR - Error processing match 2425-BC-PMS-Q019-1 for team 20174: 'NoneType' object is not subscriptable
+2025-03-04 23:26:51,856 - ERROR - Error processing match 2425-BC-PMS-Q023-1 for team 20174: 'NoneType' object is not subscriptable
+2025-03-04 23:26:53,185 - INFO - Team #20174 MDR Maximum Entropy done
+2025-03-04 23:26:55,362 - INFO - Team #19473 Royal Thunder Robotics started
+2025-03-04 23:27:19,172 - INFO - Team #19473 Royal Thunder Robotics done
+2025-03-04 23:27:19,713 - INFO - Team #24700 Buccaneers started
+2025-03-04 23:29:16,634 - INFO - Team #24700 Buccaneers done
+2025-03-04 23:29:17,157 - INFO - Team #27361 Octopi Robotics (Renert School) started
+2025-03-04 23:31:01,459 - INFO - Team #27361 Octopi Robotics (Renert School) done
+2025-03-04 23:31:03,767 - INFO - Team #16423 Storm started
+2025-03-04 23:32:19,087 - INFO - Team #16423 Storm done
+2025-03-04 23:32:19,537 - WARNING - No matches found for team #16494
+2025-03-04 23:32:19,989 - INFO - Team #24485 Victoria Park Panthers started
+2025-03-04 23:33:17,820 - INFO - Team #24485 Victoria Park Panthers done
+2025-03-04 23:33:18,287 - WARNING - No matches found for team #21761
+2025-03-04 23:33:18,752 - INFO - Team #27984 Viewmount Elves Robotics started
+2025-03-04 23:33:51,298 - INFO - Team #27984 Viewmount Elves Robotics done
+2025-03-04 23:33:52,005 - INFO - Team #26704 Mag-Wrath started
+2025-03-04 23:35:14,509 - INFO - Team #26704 Mag-Wrath done
+2025-03-04 23:35:16,266 - WARNING - No matches found for team #24898
+2025-03-04 23:35:17,194 - INFO - Team #27421 The Shepherds started
+2025-03-04 23:35:51,896 - INFO - Team #27421 The Shepherds done
+2025-03-04 23:35:52,608 - WARNING - No matches found for team #21481
+2025-03-04 23:35:53,310 - INFO - Team #24109 Tech Titans started
+2025-03-04 23:36:51,293 - INFO - Team #24109 Tech Titans done
+2025-03-04 23:36:52,024 - WARNING - No matches found for team #21784
+2025-03-04 23:36:52,601 - WARNING - No matches found for team #28507
+2025-03-04 23:36:53,504 - INFO - Team #18809 Atomic Liquitabs started
+2025-03-04 23:38:20,790 - INFO - Team #18809 Atomic Liquitabs done
+2025-03-04 23:38:21,245 - WARNING - No matches found for team #22543
+2025-03-04 23:38:21,683 - INFO - Team #26707 Genio101 started
+2025-03-04 23:38:56,141 - INFO - Team #26707 Genio101 done
+2025-03-04 23:38:56,686 - INFO - Team #21909 Robo-Tigers started
+2025-03-04 23:39:47,213 - INFO - Team #21909 Robo-Tigers done
+2025-03-04 23:39:51,341 - INFO - Team #27658 Wisigoths started
+2025-03-04 23:40:05,388 - INFO - Team #27658 Wisigoths done
+2025-03-04 23:40:06,315 - INFO - Team #21421 Eternity started
+2025-03-04 23:40:24,121 - INFO - Team #21421 Eternity done
+2025-03-04 23:40:24,588 - WARNING - No matches found for team #25549
+2025-03-04 23:40:25,053 - WARNING - No matches found for team #26236
+2025-03-04 23:40:42,617 - INFO - Team #25040 ALBOSTAN started
+2025-03-04 23:41:20,736 - INFO - Team #25040 ALBOSTAN done
+2025-03-04 23:41:21,249 - WARNING - No matches found for team #22764
+2025-03-04 23:41:21,708 - WARNING - No matches found for team #22645
+2025-03-04 23:41:22,149 - INFO - Team #26539 AstroNet started
+2025-03-04 23:42:20,971 - INFO - Team #26539 AstroNet done
+2025-03-04 23:42:21,500 - WARNING - No matches found for team #28493
+2025-03-04 23:42:22,023 - INFO - Team #24265 ROBONAUTS started
+2025-03-04 23:43:17,152 - INFO - Team #24265 ROBONAUTS done
+2025-03-04 23:43:18,064 - WARNING - No matches found for team #22642
+2025-03-04 23:43:19,025 - INFO - Team #21770 HFS started
+2025-03-04 23:44:16,219 - INFO - Team #21770 HFS done
+2025-03-04 23:44:17,256 - INFO - Team #11567 Supernova started
+2025-03-04 23:45:03,651 - INFO - Team #11567 Supernova done
+2025-03-04 23:45:05,436 - WARNING - No matches found for team #28107
+2025-03-04 23:45:06,380 - INFO - Team #20669 BFC started
+2025-03-04 23:46:23,017 - INFO - Team #20669 BFC done
+2025-03-04 23:46:23,483 - INFO - Team #15637 Fata Morgana started
+2025-03-04 23:47:24,312 - INFO - Team #15637 Fata Morgana done
+2025-03-04 23:47:24,952 - INFO - Team #11192 Black Tigers started
+2025-03-04 23:48:42,408 - INFO - Team #11192 Black Tigers done
+2025-03-04 23:48:44,719 - WARNING - No matches found for team #24550
+2025-03-04 23:48:45,581 - INFO - Team #26572 Mavericks started
+2025-03-04 23:49:25,312 - INFO - Team #26572 Mavericks done
+2025-03-04 23:49:25,845 - INFO - Team #28010 Nautilus started
+2025-03-04 23:50:44,674 - INFO - Team #28010 Nautilus done
+2025-03-04 23:50:45,517 - WARNING - No matches found for team #22681
+2025-03-04 23:50:46,603 - WARNING - No matches found for team #22752
+2025-03-04 23:50:47,331 - INFO - Team #12016 MISHMASH started
+2025-03-04 23:51:56,992 - INFO - Team #12016 MISHMASH done
+2025-03-04 23:51:57,500 - INFO - Team #14028 Orbit 10 started
+2025-03-04 23:52:55,341 - INFO - Team #14028 Orbit 10 done
+2025-03-04 23:52:56,186 - WARNING - No matches found for team #25007
+2025-03-04 23:52:56,931 - INFO - Team #11443 ATOMIX 11443 started
+2025-03-04 23:54:03,673 - INFO - Team #11443 ATOMIX 11443 done
+2025-03-04 23:54:05,439 - WARNING - No matches found for team #11803
+2025-03-04 23:54:06,359 - INFO - Team #14029 Orbit Vikings started
+2025-03-04 23:55:23,031 - INFO - Team #14029 Orbit Vikings done
+2025-03-04 23:55:24,363 - WARNING - No matches found for team #24559
+2025-03-04 23:55:25,838 - INFO - Team #21850 Desert Machinery started
+2025-03-04 23:56:16,696 - INFO - Team #21850 Desert Machinery done
+2025-03-04 23:56:17,209 - INFO - Team #22993 BarnYard started
+2025-03-04 23:57:06,620 - INFO - Team #22993 BarnYard done
+2025-03-04 23:57:14,548 - INFO - Team #27263 Gilbotix started
+2025-03-04 23:57:57,603 - INFO - Team #27263 Gilbotix done
+2025-03-04 23:57:59,184 - INFO - Team #25125 Symple started
+2025-03-04 23:58:52,500 - INFO - Team #25125 Symple done
+2025-03-04 23:58:52,962 - WARNING - No matches found for team #12797
+2025-03-04 23:58:53,424 - WARNING - No matches found for team #17019
+2025-03-04 23:58:55,666 - INFO - Team #21953 Dalia Engineers started
+2025-03-05 00:00:18,035 - INFO - Team #21953 Dalia Engineers done
+2025-03-05 00:00:20,813 - INFO - Team #28428 M&M started
+2025-03-05 00:01:32,068 - INFO - Team #28428 M&M done
+2025-03-05 00:01:32,531 - INFO - Team #27844 The sharks started
+2025-03-05 00:02:23,987 - INFO - Team #27844 The sharks done
+2025-03-05 00:02:26,055 - INFO - Team #19967 AIS Talons started
+2025-03-05 00:03:23,986 - INFO - Team #19967 AIS Talons done
+2025-03-05 00:03:26,049 - INFO - Team #22644 RayLadies started
+2025-03-05 00:04:16,216 - INFO - Team #22644 RayLadies done
+2025-03-05 00:04:17,248 - INFO - Team #12989 Super Cow started
+2025-03-05 00:05:00,224 - INFO - Team #12989 Super Cow done
+2025-03-05 00:05:01,596 - INFO - Team #17106 PlanTech started
+2025-03-05 00:05:53,592 - INFO - Team #17106 PlanTech done
+2025-03-05 00:05:55,433 - INFO - Team #26608 alhelan started
+2025-03-05 00:07:03,684 - INFO - Team #26608 alhelan done
+2025-03-05 00:07:05,453 - INFO - Team #21957 Orion started
+2025-03-05 00:07:56,180 - INFO - Team #21957 Orion done
+2025-03-05 00:07:56,964 - WARNING - No matches found for team #24498
+2025-03-05 00:07:58,109 - INFO - Team #26611 alhelan started
+2025-03-05 00:08:51,309 - INFO - Team #26611 alhelan done
+2025-03-05 00:08:52,173 - INFO - Team #21656 Fireflies started
+2025-03-05 00:09:51,310 - INFO - Team #21656 Fireflies done
+2025-03-05 00:09:53,965 - INFO - Team #14872 Orbit Knights started
+2025-03-05 00:10:56,941 - INFO - Team #14872 Orbit Knights done
+2025-03-05 00:10:59,132 - INFO - Team #24321 MoONA Divers started
+2025-03-05 00:11:51,320 - INFO - Team #24321 MoONA Divers done
+2025-03-05 00:11:52,409 - INFO - Team #23704 Prime Force started
+2025-03-05 00:12:33,985 - INFO - Team #23704 Prime Force done
+2025-03-05 00:12:43,898 - WARNING - No matches found for team #21954
+2025-03-05 00:12:44,723 - WARNING - No matches found for team #20426
+2025-03-05 00:12:46,226 - INFO - Team #11635 Quack Attack started
+2025-03-05 00:13:33,986 - INFO - Team #11635 Quack Attack done
+2025-03-05 00:13:42,522 - INFO - Team #15141 AM.I.T ASHDOD started
+2025-03-05 00:14:23,977 - INFO - Team #15141 AM.I.T ASHDOD done
+2025-03-05 00:14:25,833 - INFO - Team #11226 Black Thunder started
+2025-03-05 00:15:21,216 - INFO - Team #11226 Black Thunder done
+2025-03-05 00:15:23,099 - WARNING - No matches found for team #24191
+2025-03-05 00:15:24,307 - INFO - Team #28640 Beit-ruth started
+2025-03-05 00:16:14,524 - INFO - Team #28640 Beit-ruth done
+2025-03-05 00:16:16,279 - WARNING - No matches found for team #20668
+2025-03-05 00:16:17,267 - WARNING - No matches found for team #23821
+2025-03-05 00:16:18,081 - WARNING - No matches found for team #23754
+2025-03-05 00:16:19,095 - INFO - Team #17056 Mechanic Makers started
+2025-03-05 00:17:03,674 - INFO - Team #17056 Mechanic Makers done
+2025-03-05 00:17:05,462 - WARNING - No matches found for team #21795
+2025-03-05 00:17:06,738 - INFO - Team #9662 Apollo started
+2025-03-05 00:17:59,547 - INFO - Team #9662 Apollo done
+2025-03-05 00:18:00,352 - INFO - Team #25037 ACHVA started
+2025-03-05 00:18:54,373 - INFO - Team #25037 ACHVA done
+2025-03-05 00:18:55,006 - WARNING - No matches found for team #23822
+2025-03-05 00:18:56,172 - INFO - Team #25262 givatayim started
+2025-03-05 00:19:46,086 - INFO - Team #25262 givatayim done
+2025-03-05 00:19:48,813 - INFO - Team #28029 Beit Hatzayar started
+2025-03-05 00:20:28,772 - INFO - Team #28029 Beit Hatzayar done
+2025-03-05 00:20:32,364 - INFO - Team #26233 Super Cow started
+2025-03-05 00:21:42,399 - INFO - Team #26233 Super Cow done
+2025-03-05 00:21:44,967 - INFO - Team #23422 Shamir started
+2025-03-05 00:22:58,740 - INFO - Team #23422 Shamir done
+2025-03-05 00:22:59,239 - INFO - Team #15298 RoboTen started
+2025-03-05 00:24:06,626 - INFO - Team #15298 RoboTen done
+2025-03-05 00:24:14,630 - INFO - Team #16473 SciFighters started
+2025-03-05 00:25:06,634 - INFO - Team #16473 SciFighters done
+2025-03-05 00:25:14,637 - INFO - Team #19766 Ace Elephants started
+2025-03-05 00:26:07,442 - INFO - Team #19766 Ace Elephants done
+2025-03-05 00:26:14,637 - INFO - Team #18735 RinGoStar started
+2025-03-05 00:27:02,890 - INFO - Team #18735 RinGoStar done
+2025-03-05 00:27:04,342 - INFO - Team #25041 NOF HA'RIM started
+2025-03-05 00:28:06,713 - INFO - Team #25041 NOF HA'RIM done
+2025-03-05 00:28:14,551 - INFO - Team #25038 GILAM started
+2025-03-05 00:29:02,654 - INFO - Team #25038 GILAM done
+2025-03-05 00:29:03,397 - WARNING - No matches found for team #22643
+2025-03-05 00:29:04,806 - WARNING - No matches found for team #23688
+2025-03-05 00:29:05,276 - INFO - Team #12363 OrangeFox started
+2025-03-05 00:30:27,622 - INFO - Team #12363 OrangeFox done
+2025-03-05 00:30:28,834 - WARNING - No matches found for team #28308
+2025-03-05 00:30:32,189 - INFO - Team #13452 BTJ started
+2025-03-05 00:31:19,729 - INFO - Team #13452 BTJ done
+2025-03-05 00:31:21,270 - WARNING - No matches found for team #11744
+2025-03-05 00:31:23,087 - WARNING - No matches found for team #17182
+2025-03-05 00:31:24,102 - INFO - Team #13146 Makers Assemble started
+2025-03-05 00:32:14,530 - INFO - Team #13146 Makers Assemble done
+2025-03-05 00:32:16,288 - WARNING - No matches found for team #22734
+2025-03-05 00:32:17,998 - WARNING - No matches found for team #21796
+2025-03-05 00:32:18,533 - INFO - Team #23644 Skeleton Army started
+2025-03-05 00:33:29,203 - INFO - Team #23644 Skeleton Army done
+2025-03-05 00:33:32,125 - WARNING - No matches found for team #28096
+2025-03-05 00:33:33,055 - WARNING - No matches found for team #18273
+2025-03-05 00:33:34,156 - WARNING - No matches found for team #14869
+2025-03-05 00:33:42,508 - INFO - Team #25036 B'EIT HA'NNAR started
+2025-03-05 00:34:24,033 - INFO - Team #25036 B'EIT HA'NNAR done
+2025-03-05 00:34:25,855 - INFO - Team #19000 Everglow started
+2025-03-05 00:35:18,426 - INFO - Team #19000 Everglow done
+2025-03-05 00:35:19,234 - WARNING - No matches found for team #23705
+2025-03-05 00:35:21,432 - WARNING - No matches found for team #11808
+2025-03-05 00:35:23,105 - WARNING - No matches found for team #22144
+2025-03-05 00:35:24,030 - WARNING - No matches found for team #12817
+2025-03-05 00:35:25,858 - INFO - Team #18268 SYCATECH started
+2025-03-05 00:36:33,964 - INFO - Team #18268 SYCATECH done
+2025-03-05 00:36:42,448 - WARNING - No matches found for team #23706
+2025-03-05 00:36:44,726 - WARNING - No matches found for team #23637
+2025-03-05 00:36:46,143 - INFO - Team #12201 TATOOINE started
+2025-03-05 00:37:27,617 - INFO - Team #12201 TATOOINE done
+2025-03-05 00:37:28,865 - INFO - Team #22646 Mitspe Yam/מצפה ים started
+2025-03-05 00:39:00,458 - INFO - Team #22646 Mitspe Yam/מצפה ים done
+2025-03-05 00:39:01,608 - WARNING - No matches found for team #20363
+2025-03-05 00:39:07,575 - INFO - Team #15811 boosteam started
+2025-03-05 00:39:46,091 - INFO - Team #15811 boosteam done
+2025-03-05 00:39:48,643 - INFO - Team #23632 ACID LIMES started
+2025-03-05 00:40:42,423 - INFO - Team #23632 ACID LIMES done
+2025-03-05 00:40:44,732 - INFO - Team #22947 Hydra started
+2025-03-05 00:41:13,007 - INFO - Team #22947 Hydra done
+2025-03-05 00:41:13,724 - WARNING - No matches found for team #24597
+2025-03-05 00:41:14,270 - INFO - Team #27995 SpaceMonkeys started
+2025-03-05 00:42:11,945 - INFO - Team #27995 SpaceMonkeys done
+2025-03-05 00:42:13,180 - INFO - Team #18833 Megiddo Lions started
+2025-03-05 00:43:18,427 - INFO - Team #18833 Megiddo Lions done
+2025-03-05 00:43:19,524 - INFO - Team #19066 AiCitizens started
+2025-03-05 00:45:16,027 - ERROR - Error getting results for team #19066: 'np_opr'
+2025-03-05 00:45:16,030 - INFO - Team #19066 AiCitizens done
+2025-03-05 00:45:16,856 - INFO - Team #19073 The Emperor RO124 started
+2025-03-05 00:47:32,446 - ERROR - Error getting results for team #19073: 'np_opr'
+2025-03-05 00:47:32,450 - INFO - Team #19073 The Emperor RO124 done
+2025-03-05 00:47:33,326 - INFO - Team #19084 Zenith started
+2025-03-05 00:49:28,051 - ERROR - Error getting results for team #19084: 'np_opr'
+2025-03-05 00:49:28,055 - INFO - Team #19084 Zenith done
+2025-03-05 00:49:28,821 - INFO - Team #21476 ViCyber started
+2025-03-05 00:50:43,086 - ERROR - Error getting results for team #21476: 'np_opr'
+2025-03-05 00:50:43,090 - INFO - Team #21476 ViCyber done
+2025-03-05 00:50:44,798 - INFO - Team #24308 EchoPulse started
+2025-03-05 00:52:17,440 - ERROR - Error getting results for team #24308: 'np_opr'
+2025-03-05 00:52:17,444 - INFO - Team #24308 EchoPulse done
+2025-03-05 00:52:18,119 - INFO - Team #19148 StefTech started
+2025-03-05 00:53:48,910 - ERROR - Error getting results for team #19148: 'np_opr'
+2025-03-05 00:53:48,914 - INFO - Team #19148 StefTech done
+2025-03-05 00:53:57,765 - WARNING - No matches found for team #28408
+2025-03-05 00:53:58,960 - INFO - Team #19052 Trojan.EXE started
+2025-03-05 00:55:46,519 - ERROR - Error getting results for team #19052: 'np_opr'
+2025-03-05 00:55:46,523 - INFO - Team #19052 Trojan.EXE done
+2025-03-05 00:55:48,583 - INFO - Team #22552 ToTheStars Robotics started
+2025-03-05 00:56:17,373 - ERROR - Error getting results for team #22552: list index out of range
+2025-03-05 00:56:17,377 - INFO - Team #22552 ToTheStars Robotics done
+2025-03-05 00:56:17,909 - INFO - Team #27655 Redbots Racing started
+2025-03-05 00:57:42,829 - ERROR - Error getting results for team #27655: 'np_opr'
+2025-03-05 00:57:42,834 - INFO - Team #27655 Redbots Racing done
+2025-03-05 00:57:44,817 - INFO - Team #22017 Eu codez started
+2025-03-05 00:59:21,062 - ERROR - Error getting results for team #22017: 'np_opr'
+2025-03-05 00:59:21,067 - INFO - Team #22017 Eu codez done
+2025-03-05 00:59:21,509 - WARNING - No matches found for team #28933
+2025-03-05 00:59:23,088 - WARNING - No matches found for team #22084
+2025-03-05 00:59:24,107 - INFO - Team #15966 Esentza Revolution started
+2025-03-05 01:00:32,515 - ERROR - Error getting results for team #15966: 'np_opr'
+2025-03-05 01:00:32,519 - INFO - Team #15966 Esentza Revolution done
+2025-03-05 01:00:33,144 - INFO - Team #19151 TECHNO-MAISTER started
+2025-03-05 01:02:15,709 - ERROR - Error getting results for team #19151: 'np_opr'
+2025-03-05 01:02:15,714 - INFO - Team #19151 TECHNO-MAISTER done
+2025-03-05 01:02:17,375 - INFO - Team #21028 The Eagles RO143 started
+2025-03-05 01:03:58,059 - ERROR - Error getting results for team #21028: 'np_opr'
+2025-03-05 01:03:58,063 - INFO - Team #21028 The Eagles RO143 done
+2025-03-05 01:03:58,669 - INFO - Team #20963 ROBOKEY started
+2025-03-05 01:05:21,434 - ERROR - Error getting results for team #20963: 'np_opr'
+2025-03-05 01:05:21,438 - INFO - Team #20963 ROBOKEY done
+2025-03-05 01:05:21,910 - WARNING - No matches found for team #19102
+2025-03-05 01:05:22,731 - INFO - Team #19119 InfotronX started
+2025-03-05 01:08:00,954 - ERROR - Error getting results for team #19119: 'np_opr'
+2025-03-05 01:08:00,957 - INFO - Team #19119 InfotronX done
+2025-03-05 01:08:01,912 - INFO - Team #23205 RoboDojo started
+2025-03-05 01:10:17,700 - ERROR - Error getting results for team #23205: 'np_opr'
+2025-03-05 01:10:17,704 - INFO - Team #23205 RoboDojo done
+2025-03-05 01:10:18,536 - INFO - Team #19056 PrimeTech started
+2025-03-05 01:12:43,192 - ERROR - Error getting results for team #19056: 'np_opr'
+2025-03-05 01:12:43,196 - INFO - Team #19056 PrimeTech done
+2025-03-05 01:12:45,013 - INFO - Team #19128 RoboDac Dacia started
+2025-03-05 01:14:29,305 - ERROR - Error getting results for team #19128: 'np_opr'
+2025-03-05 01:14:29,309 - INFO - Team #19128 RoboDac Dacia done
+2025-03-05 01:14:32,186 - INFO - Team #21050 MasterMinds started
+2025-03-05 01:15:45,261 - ERROR - Error getting results for team #21050: 'np_opr'
+2025-03-05 01:15:45,264 - INFO - Team #21050 MasterMinds done
+2025-03-05 01:15:47,100 - INFO - Team #19088 BROBOTS started
+2025-03-05 01:17:32,472 - ERROR - Error getting results for team #19088: 'np_opr'
+2025-03-05 01:17:32,475 - INFO - Team #19088 BROBOTS done
+2025-03-05 01:17:33,677 - INFO - Team #20912 Harambe Cartel started
+2025-03-05 01:20:13,157 - ERROR - Error getting results for team #20912: 'np_opr'
+2025-03-05 01:20:13,161 - INFO - Team #20912 Harambe Cartel done
+2025-03-05 01:20:13,686 - WARNING - No matches found for team #28406
+2025-03-05 01:20:14,703 - INFO - Team #28260 Coral Tech started
+2025-03-05 01:22:11,242 - ERROR - Error getting results for team #28260: 'np_opr'
+2025-03-05 01:22:11,245 - INFO - Team #28260 Coral Tech done
+2025-03-05 01:22:12,726 - INFO - Team #19067 BIONIC ROYALS started
+2025-03-05 01:23:32,893 - ERROR - Error getting results for team #19067: 'np_opr'
+2025-03-05 01:23:32,897 - INFO - Team #19067 BIONIC ROYALS done
+2025-03-05 01:23:33,710 - INFO - Team #19094 WizzTech started
+2025-03-05 01:25:58,430 - ERROR - Error getting results for team #19094: 'np_opr'
+2025-03-05 01:25:58,434 - INFO - Team #19094 WizzTech done
+2025-03-05 01:25:58,964 - INFO - Team #25145 ILC Robotix started
+2025-03-05 01:27:25,197 - ERROR - Error getting results for team #25145: 'np_opr'
+2025-03-05 01:27:25,201 - INFO - Team #25145 ILC Robotix done
+2025-03-05 01:27:26,040 - INFO - Team #21972 LTASrob started
+2025-03-05 01:29:19,852 - ERROR - Error getting results for team #21972: 'np_opr'
+2025-03-05 01:29:19,856 - INFO - Team #21972 LTASrob done
+2025-03-05 01:29:20,665 - INFO - Team #19104 CyberPunk Robotics started
+2025-03-05 01:31:46,626 - ERROR - Error getting results for team #19104: 'np_opr'
+2025-03-05 01:31:46,629 - INFO - Team #19104 CyberPunk Robotics done
+2025-03-05 01:31:48,854 - INFO - Team #19076 RoboticsTrav started
+2025-03-05 01:33:24,699 - ERROR - Error getting results for team #19076: 'np_opr'
+2025-03-05 01:33:24,703 - INFO - Team #19076 RoboticsTrav done
+2025-03-05 01:33:25,818 - INFO - Team #20954 STIM DC started
+2025-03-05 01:34:59,694 - ERROR - Error getting results for team #20954: 'np_opr'
+2025-03-05 01:34:59,699 - INFO - Team #20954 STIM DC done
+2025-03-05 01:35:00,170 - INFO - Team #21088 Momentum started
+2025-03-05 01:36:26,583 - ERROR - Error getting results for team #21088: 'np_opr'
+2025-03-05 01:36:26,587 - INFO - Team #21088 Momentum done
+2025-03-05 01:36:28,637 - INFO - Team #20972 VOLTA CIRCUITS started
+2025-03-05 01:38:20,705 - ERROR - Error getting results for team #20972: 'np_opr'
+2025-03-05 01:38:20,706 - INFO - Team #20972 VOLTA CIRCUITS done
+2025-03-05 01:38:22,277 - WARNING - No matches found for team #21089
+2025-03-05 01:38:24,018 - INFO - Team #22941 Brute Force started
+2025-03-05 01:39:59,445 - ERROR - Error getting results for team #22941: 'np_opr'
+2025-03-05 01:39:59,448 - INFO - Team #22941 Brute Force done
+2025-03-05 01:40:00,420 - INFO - Team #25538 ARRA started
+2025-03-05 01:42:59,451 - ERROR - Error getting results for team #25538: 'np_opr'
+2025-03-05 01:42:59,455 - INFO - Team #25538 ARRA done
+2025-03-05 01:42:59,896 - WARNING - No matches found for team #28375
+2025-03-05 01:43:00,432 - INFO - Team #19110 R0B0SMART started
+2025-03-05 01:43:37,592 - ERROR - Error processing match 2425-ROU-VM2-Q001-1 for team 19110: 'NoneType' object is not subscriptable
+2025-03-05 01:44:26,085 - ERROR - Error getting results for team #19110: 'np_opr'
+2025-03-05 01:44:26,088 - INFO - Team #19110 R0B0SMART done
+2025-03-05 01:44:28,362 - INFO - Team #24279 ElectRoBot started
+2025-03-05 01:45:17,653 - ERROR - Error getting results for team #24279: 'np_opr'
+2025-03-05 01:45:17,657 - INFO - Team #24279 ElectRoBot done
+2025-03-05 01:45:18,162 - WARNING - No matches found for team #22118
+2025-03-05 01:45:19,118 - INFO - Team #19131 Evolution started
+2025-03-05 01:46:42,973 - ERROR - Error getting results for team #19131: 'np_opr'
+2025-03-05 01:46:42,977 - INFO - Team #19131 Evolution done
+2025-03-05 01:46:44,740 - WARNING - No matches found for team #21073
+2025-03-05 01:46:46,140 - WARNING - No matches found for team #23204
+2025-03-05 01:46:48,660 - INFO - Team #23161 CyberLIS76 started
+2025-03-05 01:48:32,632 - ERROR - Error getting results for team #23161: 'np_opr'
+2025-03-05 01:48:32,636 - INFO - Team #23161 CyberLIS76 done
+2025-03-05 01:48:34,775 - WARNING - No matches found for team #22440
+2025-03-05 01:48:35,828 - INFO - Team #19256 CyberMoon started
+2025-03-05 01:50:37,524 - ERROR - Error processing match 2425-ROU-VLT-Q030-1 for team 19256: 'NoneType' object is not subscriptable
+2025-03-05 01:51:17,586 - ERROR - Error getting results for team #19256: 'np_opr'
+2025-03-05 01:51:17,590 - INFO - Team #19256 CyberMoon done
+2025-03-05 01:51:18,446 - INFO - Team #20925 HYPERCUBE started
+2025-03-05 01:53:13,037 - ERROR - Error getting results for team #20925: 'np_opr'
+2025-03-05 01:53:13,041 - INFO - Team #20925 HYPERCUBE done
+2025-03-05 01:53:13,900 - INFO - Team #15989 RoboTitans started
+2025-03-05 01:55:02,012 - ERROR - Error getting results for team #15989: 'np_opr'
+2025-03-05 01:55:02,015 - INFO - Team #15989 RoboTitans done
+2025-03-05 01:55:02,708 - WARNING - No matches found for team #21976
+2025-03-05 01:55:07,533 - WARNING - No matches found for team #25278
+2025-03-05 01:55:10,907 - WARNING - No matches found for team #26042
+2025-03-05 01:55:12,676 - WARNING - No matches found for team #24374
+2025-03-05 01:55:13,960 - INFO - Team #19068 ABSO-TECH started
+2025-03-05 01:57:35,666 - ERROR - Error getting results for team #19068: 'np_opr'
+2025-03-05 01:57:35,669 - INFO - Team #19068 ABSO-TECH done
+2025-03-05 01:57:36,342 - INFO - Team #19292 TeamPhoenix started
+2025-03-05 01:59:19,984 - ERROR - Error getting results for team #19292: 'np_opr'
+2025-03-05 01:59:19,987 - INFO - Team #19292 TeamPhoenix done
+2025-03-05 01:59:20,450 - WARNING - No matches found for team #24268
+2025-03-05 01:59:22,276 - WARNING - No matches found for team #22461
+2025-03-05 01:59:24,312 - INFO - Team #19176 Broboți started
+2025-03-05 02:02:01,507 - ERROR - Error getting results for team #19176: 'np_opr'
+2025-03-05 02:02:01,510 - INFO - Team #19176 Broboți done
+2025-03-05 02:02:02,044 - INFO - Team #24964 AstraDynamiX started
+2025-03-05 02:03:13,187 - ERROR - Error getting results for team #24964: 'np_opr'
+2025-03-05 02:03:13,191 - INFO - Team #24964 AstraDynamiX done
+2025-03-05 02:03:13,666 - WARNING - No matches found for team #20880
+2025-03-05 02:03:15,900 - INFO - Team #19111 TITUR0B0 started
+2025-03-05 02:04:36,037 - ERROR - Error getting results for team #19111: 'np_opr'
+2025-03-05 02:04:36,041 - INFO - Team #19111 TITUR0B0 done
+2025-03-05 02:04:36,966 - INFO - Team #19079 PHOENIX started
+2025-03-05 02:06:58,136 - ERROR - Error getting results for team #19079: 'np_opr'
+2025-03-05 02:06:58,139 - INFO - Team #19079 PHOENIX done
+2025-03-05 02:06:59,910 - WARNING - No matches found for team #24470
+2025-03-05 02:07:00,705 - INFO - Team #20237 LTCDMNrobotics started
+2025-03-05 02:08:26,101 - ERROR - Error getting results for team #20237: 'np_opr'
+2025-03-05 02:08:26,105 - INFO - Team #20237 LTCDMNrobotics done
+2025-03-05 02:08:28,626 - INFO - Team #17965 BOLTS AND GEARS started
+2025-03-05 02:10:20,803 - ERROR - Error getting results for team #17965: 'np_opr'
+2025-03-05 02:10:20,806 - INFO - Team #17965 BOLTS AND GEARS done
+2025-03-05 02:10:22,296 - WARNING - No matches found for team #25789
+2025-03-05 02:10:23,973 - WARNING - No matches found for team #22103
+2025-03-05 02:10:25,256 - WARNING - No matches found for team #22824
+2025-03-05 02:10:25,751 - WARNING - No matches found for team #22171
+2025-03-05 02:10:28,364 - WARNING - No matches found for team #24269
+2025-03-05 02:10:29,568 - INFO - Team #19085 IDeaL Electronics started
+2025-03-05 02:12:31,019 - ERROR - Error getting results for team #19085: 'np_opr'
+2025-03-05 02:12:31,022 - INFO - Team #19085 IDeaL Electronics done
+2025-03-05 02:12:31,727 - INFO - Team #14270 Quantum Robotics started
+2025-03-05 02:15:05,756 - ERROR - Error getting results for team #14270: 'np_opr'
+2025-03-05 02:15:05,759 - INFO - Team #14270 Quantum Robotics done
+2025-03-05 02:15:07,817 - INFO - Team #14278 Xeo started
+2025-03-05 02:17:20,181 - ERROR - Error getting results for team #14278: 'np_opr'
+2025-03-05 02:17:20,184 - INFO - Team #14278 Xeo done
+2025-03-05 02:17:20,639 - WARNING - No matches found for team #21056
+2025-03-05 02:17:21,431 - INFO - Team #19091 The Resistance started
+2025-03-05 02:19:43,126 - ERROR - Error getting results for team #19091: 'np_opr'
+2025-03-05 02:19:43,129 - INFO - Team #19091 The Resistance done
+2025-03-05 02:19:45,017 - INFO - Team #19047 RavenTech_HD started
+2025-03-05 02:22:07,546 - ERROR - Error getting results for team #19047: 'np_opr'
+2025-03-05 02:22:07,550 - INFO - Team #19047 RavenTech_HD done
+2025-03-05 02:22:08,085 - INFO - Team #21031 roLERbot started
+2025-03-05 02:23:30,585 - ERROR - Error getting results for team #21031: 'np_opr'
+2025-03-05 02:23:30,589 - INFO - Team #21031 roLERbot done
+2025-03-05 02:23:31,492 - WARNING - No matches found for team #19092
+2025-03-05 02:23:32,429 - WARNING - No matches found for team #25451
+2025-03-05 02:23:34,151 - WARNING - No matches found for team #11022
+2025-03-05 02:23:35,502 - INFO - Team #19211 Virtual Wolves started
+2025-03-05 02:25:50,510 - ERROR - Error getting results for team #19211: 'np_opr'
+2025-03-05 02:25:50,514 - INFO - Team #19211 Virtual Wolves done
+2025-03-05 02:25:57,792 - INFO - Team #27850 0x0 Squad started
+2025-03-05 02:31:06,673 - ERROR - Error processing match 2425-ROU-SLT-Q022-1 for team 27850: 'NoneType' object is not subscriptable
+2025-03-05 02:31:10,466 - ERROR - Error getting results for team #27850: list index out of range
+2025-03-05 02:31:10,471 - INFO - Team #27850 0x0 Squad done
+2025-03-05 02:31:10,900 - INFO - Team #19139 SnakeTech started
+2025-03-05 02:32:16,888 - ERROR - Error getting results for team #19139: 'np_opr'
+2025-03-05 02:32:16,893 - INFO - Team #19139 SnakeTech done
+2025-03-05 02:32:17,331 - WARNING - No matches found for team #24267
+2025-03-05 02:32:17,778 - WARNING - No matches found for team #28407
+2025-03-05 02:32:18,470 - INFO - Team #22114 TeoretiKa started
+2025-03-05 02:34:16,752 - ERROR - Error getting results for team #22114: 'np_opr'
+2025-03-05 02:34:16,756 - INFO - Team #22114 TeoretiKa done
+2025-03-05 02:34:17,470 - INFO - Team #21996 AtomicBots started
+2025-03-05 02:36:16,145 - ERROR - Error getting results for team #21996: 'np_opr'
+2025-03-05 02:36:16,149 - INFO - Team #21996 AtomicBots done
+2025-03-05 02:36:16,807 - INFO - Team #19097 Quasar.Robotics started
+2025-03-05 02:38:21,835 - ERROR - Error getting results for team #19097: 'np_opr'
+2025-03-05 02:38:21,838 - INFO - Team #19097 Quasar.Robotics done
+2025-03-05 02:38:22,286 - WARNING - No matches found for team #17243
+2025-03-05 02:39:07,136 - WARNING - No matches found for team #28416
+2025-03-05 02:39:07,871 - INFO - Team #18160 4D-Robotics started
+2025-03-05 02:40:22,027 - ERROR - Error getting results for team #18160: 'np_opr'
+2025-03-05 02:40:22,031 - INFO - Team #18160 4D-Robotics done
+2025-03-05 02:40:22,490 - WARNING - No matches found for team #19065
+2025-03-05 02:40:22,953 - INFO - Team #24554 AVOCADO ROBOTICS started
+2025-03-05 02:41:19,530 - ERROR - Error getting results for team #24554: 'np_opr'
+2025-03-05 02:41:19,534 - INFO - Team #24554 AVOCADO ROBOTICS done
+2025-03-05 02:41:20,200 - INFO - Team #19044 Peppers started
+2025-03-05 02:43:16,745 - ERROR - Error getting results for team #19044: 'np_opr'
+2025-03-05 02:43:16,750 - INFO - Team #19044 Peppers done
+2025-03-05 02:43:17,383 - INFO - Team #20732 ATLAS_CNB_192 started
+2025-03-05 02:45:22,233 - ERROR - Error getting results for team #20732: 'np_opr'
+2025-03-05 02:45:22,237 - INFO - Team #20732 ATLAS_CNB_192 done
+2025-03-05 02:45:22,675 - INFO - Team #19143 HEX started
+2025-03-05 02:47:18,654 - ERROR - Error getting results for team #19143: 'np_opr'
+2025-03-05 02:47:18,656 - INFO - Team #19143 HEX done
+2025-03-05 02:47:19,198 - INFO - Team #21071 SkyLine started
+2025-03-05 02:48:26,392 - ERROR - Error getting results for team #21071: 'np_opr'
+2025-03-05 02:48:26,396 - INFO - Team #21071 SkyLine done
+2025-03-05 02:48:26,856 - WARNING - No matches found for team #22584
+2025-03-05 02:48:27,301 - WARNING - No matches found for team #21047
+2025-03-05 02:48:28,075 - INFO - Team #19075 Clockworks started
+2025-03-05 02:51:17,593 - ERROR - Error getting results for team #19075: 'np_opr'
+2025-03-05 02:51:17,596 - INFO - Team #19075 Clockworks done
+2025-03-05 02:51:19,116 - WARNING - No matches found for team #19212
+2025-03-05 02:51:19,743 - INFO - Team #19059 ArtRobotix started
+2025-03-05 02:52:28,414 - ERROR - Error getting results for team #19059: 'np_opr'
+2025-03-05 02:52:28,417 - INFO - Team #19059 ArtRobotix done
+2025-03-05 02:52:29,132 - INFO - Team #17844 RUBIX started
+2025-03-05 02:55:16,558 - ERROR - Error getting results for team #17844: 'np_opr'
+2025-03-05 02:55:16,561 - INFO - Team #17844 RUBIX done
+2025-03-05 02:55:17,156 - INFO - Team #23478 DynaByte started
+2025-03-05 02:56:26,273 - ERROR - Error getting results for team #23478: 'np_opr'
+2025-03-05 02:56:26,277 - INFO - Team #23478 DynaByte done
+2025-03-05 02:56:26,725 - INFO - Team #14277 QUBE. started
+2025-03-05 02:58:07,976 - ERROR - Error getting results for team #14277: 'np_opr'
+2025-03-05 02:58:07,979 - INFO - Team #14277 QUBE. done
+2025-03-05 02:58:08,600 - INFO - Team #23203 Light Bulb Robotics started
+2025-03-05 03:00:07,961 - ERROR - Error getting results for team #23203: 'np_opr'
+2025-03-05 03:00:07,965 - INFO - Team #23203 Light Bulb Robotics done
+2025-03-05 03:00:08,689 - INFO - Team #24909 StarLight started
+2025-03-05 03:03:08,810 - ERROR - Error getting results for team #24909: 'np_opr'
+2025-03-05 03:03:08,813 - INFO - Team #24909 StarLight done
+2025-03-05 03:03:09,744 - INFO - Team #19103 Kronbot started
+2025-03-05 03:04:30,756 - ERROR - Error getting results for team #19103: 'np_opr'
+2025-03-05 03:04:30,761 - INFO - Team #19103 Kronbot done
+2025-03-05 03:04:31,266 - INFO - Team #19101 Tech-X started
+2025-03-05 03:06:09,604 - ERROR - Error getting results for team #19101: 'np_opr'
+2025-03-05 03:06:09,607 - INFO - Team #19101 Tech-X done
+2025-03-05 03:06:10,258 - INFO - Team #24155 BlueSpace started
+2025-03-05 03:07:31,938 - ERROR - Error getting results for team #24155: 'np_opr'
+2025-03-05 03:07:31,942 - INFO - Team #24155 BlueSpace done
+2025-03-05 03:07:32,588 - INFO - Team #19048 ROBOPAPIU started
+2025-03-05 03:12:36,433 - ERROR - Error processing match 2425-ROU-NM2-Q006-1 for team 19048: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-03-05 03:14:40,313 - ERROR - Error getting results for team #19048: 'np_opr'
+2025-03-05 03:14:40,316 - INFO - Team #19048 ROBOPAPIU done
+2025-03-05 03:14:40,773 - WARNING - No matches found for team #22980
+2025-03-05 03:14:41,492 - INFO - Team #19071 SmartCluster started
+2025-03-05 03:15:55,243 - ERROR - Error getting results for team #19071: 'np_opr'
+2025-03-05 03:15:55,247 - INFO - Team #19071 SmartCluster done
+2025-03-05 03:15:55,973 - INFO - Team #15996 BrickBot started
+2025-03-05 03:18:40,451 - ERROR - Error getting results for team #15996: 'np_opr'
+2025-03-05 03:18:40,455 - INFO - Team #15996 BrickBot done
+2025-03-05 03:18:41,796 - INFO - Team #24637 Black Phantoms started
+2025-03-05 03:21:39,074 - ERROR - Error getting results for team #24637: 'np_opr'
+2025-03-05 03:21:39,077 - INFO - Team #24637 Black Phantoms done
+2025-03-05 03:21:39,807 - INFO - Team #19074 Extropy started
+2025-03-05 03:22:58,526 - ERROR - Error getting results for team #19074: 'np_opr'
+2025-03-05 03:22:58,529 - INFO - Team #19074 Extropy done
+2025-03-05 03:22:59,455 - INFO - Team #17881 RiverWolves started
+2025-03-05 03:24:48,975 - ERROR - Error getting results for team #17881: 'np_opr'
+2025-03-05 03:24:48,977 - INFO - Team #17881 RiverWolves done
+2025-03-05 03:24:49,662 - INFO - Team #20135 Meeral Robotics started
+2025-03-05 03:26:52,956 - ERROR - Error getting results for team #20135: 'np_opr'
+2025-03-05 03:26:52,957 - INFO - Team #20135 Meeral Robotics done
+2025-03-05 03:26:53,414 - WARNING - No matches found for team #29033
+2025-03-05 03:26:54,147 - INFO - Team #19105 DecebalTech started
+2025-03-05 03:28:57,414 - ERROR - Error getting results for team #19105: 'np_opr'
+2025-03-05 03:28:57,416 - INFO - Team #19105 DecebalTech done
+2025-03-05 03:28:57,941 - INFO - Team #19100 Future Tech started
+2025-03-05 03:30:49,408 - ERROR - Error getting results for team #19100: 'np_opr'
+2025-03-05 03:30:49,411 - INFO - Team #19100 Future Tech done
+2025-03-05 03:30:50,123 - INFO - Team #19117 Robo-Sapiens started
+2025-03-05 03:32:48,181 - ERROR - Error getting results for team #19117: 'np_opr'
+2025-03-05 03:32:48,185 - INFO - Team #19117 Robo-Sapiens done
+2025-03-05 03:32:48,635 - INFO - Team #20985 Wafy started
+2025-03-05 03:33:55,524 - ERROR - Error getting results for team #20985: 'np_opr'
+2025-03-05 03:33:55,528 - INFO - Team #20985 Wafy done
+2025-03-05 03:33:56,257 - INFO - Team #15991 Gamma started
+2025-03-05 03:35:58,266 - ERROR - Error getting results for team #15991: 'np_opr'
+2025-03-05 03:35:58,269 - INFO - Team #15991 Gamma done
+2025-03-05 03:35:59,255 - INFO - Team #21097 Dragonfly started
+2025-03-05 03:37:55,490 - ERROR - Error getting results for team #21097: 'np_opr'
+2025-03-05 03:37:55,493 - INFO - Team #21097 Dragonfly done
+2025-03-05 03:37:56,243 - INFO - Team #19062 Phantom Robotics started
+2025-03-05 03:40:43,499 - ERROR - Error getting results for team #19062: 'np_opr'
+2025-03-05 03:40:43,501 - INFO - Team #19062 Phantom Robotics done
+2025-03-05 03:40:45,728 - INFO - Team #22590 MechaByte started
+2025-03-05 03:41:49,331 - ERROR - Error getting results for team #22590: 'np_opr'
+2025-03-05 03:41:49,334 - INFO - Team #22590 MechaByte done
+2025-03-05 03:41:50,433 - INFO - Team #24310 EXOROS started
+2025-03-05 03:43:47,730 - ERROR - Error getting results for team #24310: 'np_opr'
+2025-03-05 03:43:47,734 - INFO - Team #24310 EXOROS done
+2025-03-05 03:43:48,257 - WARNING - No matches found for team #25526
+2025-03-05 03:43:49,451 - WARNING - No matches found for team #22148
+2025-03-05 03:43:50,142 - INFO - Team #17860 Helix started
+2025-03-05 03:45:39,806 - ERROR - Error getting results for team #17860: 'np_opr'
+2025-03-05 03:45:39,810 - INFO - Team #17860 Helix done
+2025-03-05 03:45:41,223 - INFO - Team #24478 EngiNeerds started
+2025-03-05 03:47:59,832 - ERROR - Error getting results for team #24478: 'np_opr'
+2025-03-05 03:47:59,835 - INFO - Team #24478 EngiNeerds done
+2025-03-05 03:48:00,628 - INFO - Team #12560 Soft Hoarders started
+2025-03-05 03:50:48,574 - ERROR - Error getting results for team #12560: 'np_opr'
+2025-03-05 03:50:48,578 - INFO - Team #12560 Soft Hoarders done
+2025-03-05 03:50:49,494 - INFO - Team #25558 ARAMA.TECH started
+2025-03-05 03:52:02,068 - ERROR - Error getting results for team #25558: 'np_opr'
+2025-03-05 03:52:02,072 - INFO - Team #25558 ARAMA.TECH done
+2025-03-05 03:52:02,528 - WARNING - No matches found for team #20329
+2025-03-05 03:52:03,228 - INFO - Team #19095 WireKnights started
+2025-03-05 03:54:06,751 - ERROR - Error getting results for team #19095: 'np_opr'
+2025-03-05 03:54:06,754 - INFO - Team #19095 WireKnights done
+2025-03-05 03:54:07,561 - INFO - Team #25916 EngiNeerds NextGen started
+2025-03-05 03:56:42,995 - ERROR - Error getting results for team #25916: 'np_opr'
+2025-03-05 03:56:42,999 - INFO - Team #25916 EngiNeerds NextGen done
+2025-03-05 03:56:43,460 - WARNING - No matches found for team #17624
+2025-03-05 03:56:45,942 - INFO - Team #17962 Ro2D2 started
+2025-03-05 03:58:48,719 - ERROR - Error getting results for team #17962: 'np_opr'
+2025-03-05 03:58:48,724 - INFO - Team #17962 Ro2D2 done
+2025-03-05 03:58:50,017 - INFO - Team #21087 Velocity started
+2025-03-05 04:00:15,064 - ERROR - Error getting results for team #21087: 'np_opr'
+2025-03-05 04:00:15,068 - INFO - Team #21087 Velocity done
+2025-03-05 04:00:15,713 - INFO - Team #19342 Clever Core started
+2025-03-05 04:02:13,862 - ERROR - Error getting results for team #19342: 'np_opr'
+2025-03-05 04:02:13,867 - INFO - Team #19342 Clever Core done
+2025-03-05 04:02:14,315 - WARNING - No matches found for team #27660
+2025-03-05 04:02:14,969 - INFO - Team #20965 BIT-MO started
+2025-03-05 04:04:10,695 - ERROR - Error getting results for team #20965: 'np_opr'
+2025-03-05 04:04:10,699 - INFO - Team #20965 BIT-MO done
+2025-03-05 04:04:11,710 - INFO - Team #24345 SPARKTECH started
+2025-03-05 04:05:51,133 - ERROR - Error getting results for team #24345: 'np_opr'
+2025-03-05 04:05:51,137 - INFO - Team #24345 SPARKTECH done
+2025-03-05 04:05:52,288 - WARNING - No matches found for team #22390
+2025-03-05 04:05:55,486 - WARNING - No matches found for team #25478
+2025-03-05 04:05:56,351 - WARNING - No matches found for team #23068
+2025-03-05 04:06:02,781 - INFO - Team #19043 CyLiis started
+2025-03-05 04:07:47,709 - ERROR - Error getting results for team #19043: 'np_opr'
+2025-03-05 04:07:47,714 - INFO - Team #19043 CyLiis done
+2025-03-05 04:07:48,320 - INFO - Team #19086 Robocorns RO004 started
+2025-03-05 04:09:12,603 - ERROR - Error getting results for team #19086: 'np_opr'
+2025-03-05 04:09:12,606 - INFO - Team #19086 Robocorns RO004 done
+2025-03-05 04:09:13,058 - INFO - Team #19147 Blizzard Eye started
+2025-03-05 04:10:18,949 - ERROR - Error getting results for team #19147: 'np_opr'
+2025-03-05 04:10:18,953 - INFO - Team #19147 Blizzard Eye done
+2025-03-05 04:10:19,419 - WARNING - No matches found for team #20960
+2025-03-05 04:10:36,907 - INFO - Team #23158 Republic Of Danube started
+2025-03-05 04:10:56,271 - ERROR - Error getting results for team #23158: list index out of range
+2025-03-05 04:10:56,276 - INFO - Team #23158 Republic Of Danube done
+2025-03-05 04:11:02,812 - INFO - Team #27247 Poladroid started
+2025-03-05 04:12:50,100 - ERROR - Error getting results for team #27247: 'np_opr'
+2025-03-05 04:12:50,103 - INFO - Team #27247 Poladroid done
+2025-03-05 04:12:50,985 - INFO - Team #25871 SolarSparks Robotics started
+2025-03-05 04:14:46,499 - ERROR - Error getting results for team #25871: 'np_opr'
+2025-03-05 04:14:46,503 - INFO - Team #25871 SolarSparks Robotics done
+2025-03-05 04:14:46,957 - WARNING - No matches found for team #22973
+2025-03-05 04:14:48,160 - INFO - Team #22586 CNapSys started
+2025-03-05 04:16:49,265 - ERROR - Error getting results for team #22586: 'np_opr'
+2025-03-05 04:16:49,270 - INFO - Team #22586 CNapSys done
+2025-03-05 04:16:49,735 - WARNING - No matches found for team #23783
+2025-03-05 04:16:50,444 - INFO - Team #24399 ToastedMinds started
+2025-03-05 04:18:42,628 - ERROR - Error getting results for team #24399: 'np_opr'
+2025-03-05 04:18:42,631 - INFO - Team #24399 ToastedMinds done
+2025-03-05 04:18:43,457 - INFO - Team #21030 MasterBots started
+2025-03-05 04:20:15,047 - ERROR - Error getting results for team #21030: 'np_opr'
+2025-03-05 04:20:15,051 - INFO - Team #21030 MasterBots done
+2025-03-05 04:20:18,053 - INFO - Team #23486 Seramitae started
+2025-03-05 04:21:43,895 - ERROR - Error getting results for team #23486: 'np_opr'
+2025-03-05 04:21:43,899 - INFO - Team #23486 Seramitae done
+2025-03-05 04:21:45,723 - INFO - Team #22998 CYB3RG0DS started
+2025-03-05 04:23:18,639 - ERROR - Error getting results for team #22998: 'np_opr'
+2025-03-05 04:23:18,642 - INFO - Team #22998 CYB3RG0DS done
+2025-03-05 04:23:19,990 - INFO - Team #21455 RoSophia started
+2025-03-05 04:25:51,375 - ERROR - Error getting results for team #21455: 'np_opr'
+2025-03-05 04:25:51,379 - INFO - Team #21455 RoSophia done
+2025-03-05 04:25:51,887 - INFO - Team #23576 ORION started
+2025-03-05 04:27:04,809 - ERROR - Error getting results for team #23576: 'np_opr'
+2025-03-05 04:27:04,814 - INFO - Team #23576 ORION done
+2025-03-05 04:27:05,709 - WARNING - No matches found for team #28190
+2025-03-05 04:27:07,209 - WARNING - No matches found for team #22680
+2025-03-05 04:27:08,071 - WARNING - No matches found for team #21070
+2025-03-05 04:27:09,700 - WARNING - No matches found for team #22001
+2025-03-05 04:27:15,022 - INFO - Team #16166 Watt'S Up started
+2025-03-05 04:30:08,686 - ERROR - Error getting results for team #16166: 'np_opr'
+2025-03-05 04:30:08,690 - INFO - Team #16166 Watt'S Up done
+2025-03-05 04:30:10,133 - INFO - Team #17713 Delta Force started
+2025-03-05 04:32:39,892 - ERROR - Error getting results for team #17713: 'np_opr'
+2025-03-05 04:32:39,895 - INFO - Team #17713 Delta Force done
+2025-03-05 04:32:40,932 - WARNING - No matches found for team #23271
+2025-03-05 04:32:42,338 - INFO - Team #28083 Seramitae Novus started
+2025-03-05 04:34:10,325 - ERROR - Error getting results for team #28083: 'np_opr'
+2025-03-05 04:34:10,329 - INFO - Team #28083 Seramitae Novus done
+2025-03-05 04:34:15,527 - INFO - Team #19049 High Five started
+2025-03-05 04:36:18,604 - ERROR - Error getting results for team #19049: 'np_opr'
+2025-03-05 04:36:18,607 - INFO - Team #19049 High Five done
+2025-03-05 04:36:19,924 - INFO - Team #19058 Modus Vivendi started
+2025-03-05 04:38:43,362 - ERROR - Error getting results for team #19058: 'np_opr'
+2025-03-05 04:38:43,365 - INFO - Team #19058 Modus Vivendi done
+2025-03-05 04:38:43,879 - INFO - Team #19090 TEHROCUZ started
+2025-03-05 04:39:57,667 - ERROR - Error getting results for team #19090: 'np_opr'
+2025-03-05 04:39:57,670 - INFO - Team #19090 TEHROCUZ done
+2025-03-05 04:40:02,538 - WARNING - No matches found for team #25181
+2025-03-05 04:40:04,517 - INFO - Team #21034 TEAM ORIGINALS started
+2025-03-05 04:41:47,081 - ERROR - Error getting results for team #21034: 'np_opr'
+2025-03-05 04:41:47,085 - INFO - Team #21034 TEAM ORIGINALS done
+2025-03-05 04:41:47,520 - INFO - Team #21169 CyberLions started
+2025-03-05 04:42:30,389 - ERROR - Error getting results for team #21169: 'np_opr'
+2025-03-05 04:42:30,393 - INFO - Team #21169 CyberLions done
+2025-03-05 04:42:36,111 - INFO - Team #19120 AlphaBit started
+2025-03-05 04:44:19,995 - ERROR - Error getting results for team #19120: 'np_opr'
+2025-03-05 04:44:19,998 - INFO - Team #19120 AlphaBit done
+2025-03-05 04:44:21,380 - WARNING - No matches found for team #17855
+2025-03-05 04:44:23,636 - INFO - Team #21033 HYPE started
+2025-03-05 04:45:50,573 - ERROR - Error getting results for team #21033: 'np_opr'
+2025-03-05 04:45:50,578 - INFO - Team #21033 HYPE done
+2025-03-05 04:45:51,345 - INFO - Team #17875 Code Warriors started
+2025-03-05 04:48:18,416 - ERROR - Error getting results for team #17875: 'np_opr'
+2025-03-05 04:48:18,420 - INFO - Team #17875 Code Warriors done
+2025-03-05 04:48:19,659 - WARNING - No matches found for team #28399
+2025-03-05 04:48:21,635 - INFO - Team #19093 Infinity Bolts started
+2025-03-05 04:50:30,339 - ERROR - Error getting results for team #19093: 'np_opr'
+2025-03-05 04:50:30,342 - INFO - Team #19093 Infinity Bolts done
+2025-03-05 04:50:35,907 - INFO - Team #20691 Andromeda started
+2025-03-05 04:51:53,148 - ERROR - Error getting results for team #20691: 'np_opr'
+2025-03-05 04:51:53,151 - INFO - Team #20691 Andromeda done
+2025-03-05 04:51:53,836 - INFO - Team #17870 PERPETUUM MOBILE started
+2025-03-05 04:54:02,874 - ERROR - Error getting results for team #17870: 'np_opr'
+2025-03-05 04:54:02,877 - INFO - Team #17870 PERPETUUM MOBILE done
+2025-03-05 04:54:04,427 - WARNING - No matches found for team #23220
+2025-03-05 04:54:05,720 - WARNING - No matches found for team #24266
+2025-03-05 04:54:07,262 - INFO - Team #19083 North East Dynamics started
+2025-03-05 04:55:21,894 - ERROR - Error getting results for team #19083: 'np_opr'
+2025-03-05 04:55:21,898 - INFO - Team #19083 North East Dynamics done
+2025-03-05 04:55:23,996 - WARNING - No matches found for team #19063
+2025-03-05 04:55:26,765 - WARNING - No matches found for team #19235
+2025-03-05 04:55:30,047 - WARNING - No matches found for team #19108
+2025-03-05 04:55:36,083 - WARNING - No matches found for team #25445
+2025-03-05 04:55:40,640 - INFO - Team #26075 Vampire Robotics started
+2025-03-05 04:56:54,764 - ERROR - Error getting results for team #26075: 'np_opr'
+2025-03-05 04:56:54,768 - INFO - Team #26075 Vampire Robotics done
+2025-03-05 04:56:56,048 - WARNING - No matches found for team #28409
+2025-03-05 04:56:57,269 - WARNING - No matches found for team #23234
+2025-03-05 04:57:02,546 - WARNING - No matches found for team #20957
+2025-03-05 04:57:04,467 - WARNING - No matches found for team #12632
+2025-03-05 04:57:05,771 - INFO - Team #21044 Epsilon started
+2025-03-05 04:58:20,052 - ERROR - Error getting results for team #21044: 'np_opr'
+2025-03-05 04:58:20,055 - INFO - Team #21044 Epsilon done
+2025-03-05 04:58:21,459 - INFO - Team #24037 Start Code started
+2025-03-05 04:59:57,482 - ERROR - Error getting results for team #24037: 'np_opr'
+2025-03-05 04:59:57,485 - INFO - Team #24037 Start Code done
+2025-03-05 04:59:58,211 - INFO - Team #19115 B-Robo started
+2025-03-05 05:02:30,439 - ERROR - Error getting results for team #19115: 'np_opr'
+2025-03-05 05:02:30,443 - INFO - Team #19115 B-Robo done
+2025-03-05 05:02:36,121 - INFO - Team #27846 Star_B1T0 started
+2025-03-05 05:04:49,610 - ERROR - Error getting results for team #27846: 'np_opr'
+2025-03-05 05:04:49,614 - INFO - Team #27846 Star_B1T0 done
+2025-03-05 05:04:50,877 - INFO - Team #24928 HYPERION started
+2025-03-05 05:06:09,491 - ERROR - Error getting results for team #24928: 'np_opr'
+2025-03-05 05:06:09,495 - INFO - Team #24928 HYPERION done
+2025-03-05 05:06:10,386 - INFO - Team #19109 RaSky started
+2025-03-05 05:08:44,153 - ERROR - Error getting results for team #19109: 'np_opr'
+2025-03-05 05:08:44,156 - INFO - Team #19109 RaSky done
+2025-03-05 05:08:45,727 - INFO - Team #24530 ElectroB0tics started
+2025-03-05 05:10:03,802 - ERROR - Error getting results for team #24530: 'np_opr'
+2025-03-05 05:10:03,805 - INFO - Team #24530 ElectroB0tics done
+2025-03-05 05:10:04,726 - INFO - Team #19064 Dragonic Force started
+2025-03-05 05:12:00,243 - ERROR - Error getting results for team #19064: 'np_opr'
+2025-03-05 05:12:00,247 - INFO - Team #19064 Dragonic Force done
+2025-03-05 05:12:00,776 - INFO - Team #18338 StarTech started
+2025-03-05 05:13:46,550 - ERROR - Error getting results for team #18338: 'np_opr'
+2025-03-05 05:13:46,554 - INFO - Team #18338 StarTech done
+2025-03-05 05:13:47,329 - INFO - Team #15993 infO(1)Robotics started
+2025-03-05 05:15:07,742 - ERROR - Error processing match 2425-ROU-SLT-Q018-1 for team 15993: 'NoneType' object is not subscriptable
+2025-03-05 05:16:07,591 - ERROR - Error getting results for team #15993: 'np_opr'
+2025-03-05 05:16:07,594 - INFO - Team #15993 infO(1)Robotics done
+2025-03-05 05:16:08,930 - INFO - Team #19112 UNDEFINED started
+2025-03-05 05:18:28,034 - ERROR - Error getting results for team #19112: 'np_opr'
+2025-03-05 05:18:28,038 - INFO - Team #19112 UNDEFINED done
+2025-03-05 05:18:30,756 - INFO - Team #17873 VECTRON started
+2025-03-05 05:21:01,547 - ERROR - Error getting results for team #17873: 'np_opr'
+2025-03-05 05:21:01,551 - INFO - Team #17873 VECTRON done
+2025-03-05 05:21:02,298 - INFO - Team #24033 Alphatronic started
+2025-03-05 05:27:07,268 - ERROR - Error processing match 2425-ROU-NM3-Q002-1 for team 24033: 'NoneType' object is not subscriptable
+2025-03-05 05:28:11,887 - ERROR - Error getting results for team #24033: 'np_opr'
+2025-03-05 05:28:11,890 - INFO - Team #24033 Alphatronic done
+2025-03-05 05:28:12,619 - INFO - Team #19116 VV Robots started
+2025-03-05 05:30:11,432 - ERROR - Error getting results for team #19116: 'np_opr'
+2025-03-05 05:30:11,435 - INFO - Team #19116 VV Robots done
+2025-03-05 05:30:12,166 - INFO - Team #19099 H-tech started
+2025-03-05 05:32:19,331 - ERROR - Error getting results for team #19099: 'np_opr'
+2025-03-05 05:32:19,334 - INFO - Team #19099 H-tech done
+2025-03-05 05:32:19,819 - INFO - Team #15965 Esentza Robotics started
+2025-03-05 05:34:11,396 - ERROR - Error getting results for team #15965: 'np_opr'
+2025-03-05 05:34:11,400 - INFO - Team #15965 Esentza Robotics done
+2025-03-05 05:34:12,148 - INFO - Team #23015 ROBOT TEAM ALPHA started
+2025-03-05 05:36:09,507 - ERROR - Error getting results for team #23015: 'np_opr'
+2025-03-05 05:36:09,512 - INFO - Team #23015 ROBOT TEAM ALPHA done
+2025-03-05 05:36:09,965 - INFO - Team #24566 LTTV started
+2025-03-05 05:36:17,095 - ERROR - Error getting results for team #24566: 'np_opr'
+2025-03-05 05:36:17,099 - INFO - Team #24566 LTTV done
+2025-03-05 05:36:17,610 - INFO - Team #19081 Bots' Brain started
+2025-03-05 05:38:09,072 - ERROR - Error getting results for team #19081: 'np_opr'
+2025-03-05 05:38:09,075 - INFO - Team #19081 Bots' Brain done
+2025-03-05 05:38:09,752 - INFO - Team #24446 LAZARUS ASCENDING started
+2025-03-05 05:39:27,242 - ERROR - Error getting results for team #24446: 'np_opr'
+2025-03-05 05:39:27,246 - INFO - Team #24446 LAZARUS ASCENDING done
+2025-03-05 05:40:08,010 - INFO - Team #22226 Renaissance Robotics started
+2025-03-05 05:42:12,226 - ERROR - Error getting results for team #22226: 'np_opr'
+2025-03-05 05:42:12,229 - INFO - Team #22226 Renaissance Robotics done
+2025-03-05 05:42:12,683 - WARNING - No matches found for team #25113
+2025-03-05 05:42:13,141 - WARNING - No matches found for team #23156
+2025-03-05 05:42:13,843 - INFO - Team #19055 TITANS started
+2025-03-05 05:44:17,424 - ERROR - Error getting results for team #19055: 'np_opr'
+2025-03-05 05:44:17,427 - INFO - Team #19055 TITANS done
+2025-03-05 05:44:17,887 - WARNING - No matches found for team #22184
+2025-03-05 05:44:18,858 - INFO - Team #15972 TehnoZ started
+2025-03-05 05:46:24,092 - ERROR - Error getting results for team #15972: 'np_opr'
+2025-03-05 05:46:24,096 - INFO - Team #15972 TehnoZ done
+2025-03-05 05:46:24,549 - WARNING - No matches found for team #28404
+2025-03-05 05:46:26,812 - INFO - Team #23473 Helios Robotics started
+2025-03-05 05:47:11,914 - ERROR - Error getting results for team #23473: list index out of range
+2025-03-05 05:47:11,919 - INFO - Team #23473 Helios Robotics done
+2025-03-05 05:47:12,807 - INFO - Team #15975 ROBOTX HUNEDOARA started
+2025-03-05 05:49:13,615 - ERROR - Error getting results for team #15975: 'np_opr'
+2025-03-05 05:49:13,617 - INFO - Team #15975 ROBOTX HUNEDOARA done
+2025-03-05 05:49:14,316 - INFO - Team #19242 RO169 RoboPeda started
+2025-03-05 05:51:21,207 - ERROR - Error getting results for team #19242: 'np_opr'
+2025-03-05 05:51:21,210 - INFO - Team #19242 RO169 RoboPeda done
+2025-03-05 05:51:21,645 - WARNING - No matches found for team #19060
+2025-03-05 05:51:22,095 - WARNING - No matches found for team #27852
+2025-03-05 05:51:22,638 - INFO - Team #27835 RoboBarbu started
+2025-03-05 05:53:14,849 - ERROR - Error getting results for team #27835: 'np_opr'
+2025-03-05 05:53:14,853 - INFO - Team #27835 RoboBarbu done
+2025-03-05 05:53:15,574 - INFO - Team #19053 Homosapiens started
+2025-03-05 05:55:24,872 - ERROR - Error getting results for team #19053: 'np_opr'
+2025-03-05 05:55:24,876 - INFO - Team #19053 Homosapiens done
+2025-03-05 05:55:25,315 - WARNING - No matches found for team #28410
+2025-03-05 05:55:26,015 - INFO - Team #19098 Eastern Foxes started
+2025-03-05 05:58:08,084 - ERROR - Error getting results for team #19098: 'np_opr'
+2025-03-05 05:58:08,086 - INFO - Team #19098 Eastern Foxes done
+2025-03-05 05:58:08,650 - INFO - Team #23800 Robozzi started
+2025-03-05 05:59:22,787 - ERROR - Error getting results for team #23800: 'np_opr'
+2025-03-05 05:59:22,790 - INFO - Team #23800 Robozzi done
+2025-03-05 05:59:23,238 - WARNING - No matches found for team #20043
+2025-03-05 05:59:23,784 - INFO - Team #19087 MironoBot started
+2025-03-05 06:01:18,617 - ERROR - Error getting results for team #19087: 'np_opr'
+2025-03-05 06:01:18,620 - INFO - Team #19087 MironoBot done
+2025-03-05 06:01:19,110 - WARNING - No matches found for team #26093
+2025-03-05 06:01:19,673 - INFO - Team #17871 Thobor RO 068 started
+2025-03-05 06:02:31,016 - ERROR - Error getting results for team #17871: 'np_opr'
+2025-03-05 06:02:31,020 - INFO - Team #17871 Thobor RO 068 done
+2025-03-05 06:03:07,757 - WARNING - No matches found for team #11058
+2025-03-05 06:03:08,634 - WARNING - No matches found for team #24273
+2025-03-05 06:03:09,900 - INFO - Team #20936 Royal Engineers started
+2025-03-05 06:05:21,846 - ERROR - Error getting results for team #20936: 'np_opr'
+2025-03-05 06:05:21,849 - INFO - Team #20936 Royal Engineers done
+2025-03-05 06:05:22,609 - INFO - Team #19141 BraveBots started
+2025-03-05 06:07:29,309 - ERROR - Error getting results for team #19141: 'np_opr'
+2025-03-05 06:07:29,313 - INFO - Team #19141 BraveBots done
+2025-03-05 06:07:30,044 - INFO - Team #25225 Afton Robotics started
+2025-03-05 06:10:14,548 - ERROR - Error getting results for team #25225: 'np_opr'
+2025-03-05 06:10:14,552 - INFO - Team #25225 Afton Robotics done
+2025-03-05 06:10:15,551 - INFO - Team #18026 SGBOTS started
+2025-03-05 06:12:08,964 - ERROR - Error getting results for team #18026: 'np_opr'
+2025-03-05 06:12:08,968 - INFO - Team #18026 SGBOTS done
+2025-03-05 06:12:09,403 - WARNING - No matches found for team #5843
+2025-03-05 06:12:09,866 - WARNING - No matches found for team #19077
+2025-03-05 06:12:11,188 - INFO - Team #19152 Brainstorms started
+2025-03-05 06:13:32,162 - ERROR - Error getting results for team #19152: 'np_opr'
+2025-03-05 06:13:32,166 - INFO - Team #19152 Brainstorms done
+2025-03-05 06:13:32,892 - INFO - Team #25352 Schwefel Robotics started
+2025-03-05 06:15:30,864 - ERROR - Error getting results for team #25352: 'np_opr'
+2025-03-05 06:15:30,868 - INFO - Team #25352 Schwefel Robotics done
+2025-03-05 06:15:31,410 - INFO - Team #25841 Hansei Junior started
+2025-03-05 06:16:28,298 - INFO - Team #25841 Hansei Junior done
+2025-03-05 06:16:28,761 - WARNING - No matches found for team #28405
+2025-03-05 06:16:29,319 - INFO - Team #17869 ERcast2020 started
+2025-03-05 06:18:17,376 - ERROR - Error getting results for team #17869: 'np_opr'
+2025-03-05 06:18:17,380 - INFO - Team #17869 ERcast2020 done
+2025-03-05 06:18:17,979 - WARNING - No matches found for team #17857
+2025-03-05 06:18:19,498 - INFO - Team #20265 Heart of RoBots started
+2025-03-05 06:21:08,074 - ERROR - Error getting results for team #20265: 'np_opr'
+2025-03-05 06:21:08,078 - INFO - Team #20265 Heart of RoBots done
+2025-03-05 06:21:09,484 - INFO - Team #22697 CreativityR started
+2025-03-05 06:22:15,605 - ERROR - Error getting results for team #22697: 'np_opr'
+2025-03-05 06:22:15,608 - INFO - Team #22697 CreativityR done
+2025-03-05 06:22:17,022 - WARNING - No matches found for team #19072
+2025-03-05 06:22:18,271 - INFO - Team #17861 CSH started
+2025-03-05 06:24:29,075 - ERROR - Error getting results for team #17861: 'np_opr'
+2025-03-05 06:24:29,079 - INFO - Team #17861 CSH done
+2025-03-05 06:24:29,542 - WARNING - No matches found for team #17532
+2025-03-05 06:24:30,275 - INFO - Team #19234 ByteForce started
+2025-03-05 06:26:26,470 - ERROR - Error getting results for team #19234: 'np_opr'
+2025-03-05 06:26:26,473 - INFO - Team #19234 ByteForce done
+2025-03-05 06:26:26,988 - INFO - Team #19082 RoboAS started
+2025-03-05 06:28:15,623 - ERROR - Error getting results for team #19082: 'np_opr'
+2025-03-05 06:28:15,626 - INFO - Team #19082 RoboAS done
+2025-03-05 06:28:17,285 - INFO - Team #19121 Tea Borgs started
+2025-03-05 06:30:21,668 - ERROR - Error getting results for team #19121: 'np_opr'
+2025-03-05 06:30:21,671 - INFO - Team #19121 Tea Borgs done
+2025-03-05 06:30:22,124 - WARNING - No matches found for team #19246
+2025-03-05 06:30:23,928 - WARNING - No matches found for team #28140
+2025-03-05 06:30:24,837 - INFO - Team #16000 Gear Maniacs started
+2025-03-05 06:31:36,755 - ERROR - Error getting results for team #16000: 'np_opr'
+2025-03-05 06:31:36,759 - INFO - Team #16000 Gear Maniacs done
+2025-03-05 06:31:37,219 - WARNING - No matches found for team #19134
+2025-03-05 06:31:37,706 - INFO - Team #24032 Kodikas Robotics started
+2025-03-05 06:33:28,006 - ERROR - Error getting results for team #24032: 'np_opr'
+2025-03-05 06:33:28,009 - INFO - Team #24032 Kodikas Robotics done
+2025-03-05 06:33:28,808 - INFO - Team #19257 Unplugged started
+2025-03-05 06:35:07,711 - ERROR - Error processing match 2425-ROU-VM14-Q005-1 for team 19257: 'NoneType' object is not subscriptable
+2025-03-05 06:35:36,369 - ERROR - Error getting results for team #19257: 'np_opr'
+2025-03-05 06:35:36,373 - INFO - Team #19257 Unplugged done
+2025-03-05 06:35:36,827 - WARNING - No matches found for team #22018
+2025-03-05 06:35:37,531 - INFO - Team #20974 Hardwired started
+2025-03-05 06:37:36,084 - ERROR - Error getting results for team #20974: 'np_opr'
+2025-03-05 06:37:36,087 - INFO - Team #20974 Hardwired done
+2025-03-05 06:37:36,529 - INFO - Team #19106 Dark Energy started
+2025-03-05 06:39:17,471 - ERROR - Error getting results for team #19106: 'np_opr'
+2025-03-05 06:39:17,474 - INFO - Team #19106 Dark Energy done
+2025-03-05 06:39:18,232 - INFO - Team #19061 Boogeybots started
+2025-03-05 06:41:30,279 - ERROR - Error getting results for team #19061: 'np_opr'
+2025-03-05 06:41:30,283 - INFO - Team #19061 Boogeybots done
+2025-03-05 06:41:30,736 - WARNING - No matches found for team #21973
+2025-03-05 06:41:31,181 - WARNING - No matches found for team #19096
+2025-03-05 06:41:32,885 - WARNING - No matches found for team #23103
+2025-03-05 06:41:33,324 - WARNING - No matches found for team #23202
+2025-03-05 06:41:36,439 - INFO - Team #28274 EliaTech started
+2025-03-05 06:43:40,739 - ERROR - Error getting results for team #28274: 'np_opr'
+2025-03-05 06:43:40,742 - INFO - Team #28274 EliaTech done
+2025-03-05 06:43:41,460 - INFO - Team #22044 Aces started
+2025-03-05 06:45:39,533 - ERROR - Error getting results for team #22044: 'np_opr'
+2025-03-05 06:45:39,537 - INFO - Team #22044 Aces done
+2025-03-05 06:45:40,196 - INFO - Team #19054 NeuroBotix started
+2025-03-05 06:47:37,295 - ERROR - Error getting results for team #19054: 'np_opr'
+2025-03-05 06:47:37,299 - INFO - Team #19054 NeuroBotix done
+2025-03-05 06:47:37,771 - WARNING - No matches found for team #25401
+2025-03-05 06:47:39,479 - WARNING - No matches found for team #17341
+2025-03-05 06:47:40,227 - INFO - Team #13713 CBC Robotics started
+2025-03-05 06:47:43,091 - ERROR - Error processing match 2425-MO-STLMM9-Q014-1 for team 13713: 'NoneType' object is not subscriptable
+2025-03-05 06:48:07,667 - ERROR - Error processing match 2425-MO-STLMM9-Q009-1 for team 13713: 'NoneType' object is not subscriptable
+2025-03-05 06:48:10,163 - ERROR - Error processing match 2425-MO-STLMM9-Q011-1 for team 13713: 'NoneType' object is not subscriptable
+2025-03-05 06:49:40,486 - ERROR - Error getting results for team #13713: 'np_opr'
+2025-03-05 06:49:40,488 - INFO - Team #13713 CBC Robotics done
+2025-03-05 06:49:41,206 - INFO - Team #25788 Byte Brawlers started
+2025-03-05 06:51:43,771 - ERROR - Error getting results for team #25788: 'np_opr'
+2025-03-05 06:51:43,775 - INFO - Team #25788 Byte Brawlers done
+2025-03-05 06:51:44,242 - WARNING - No matches found for team #11211
+2025-03-05 06:51:44,757 - INFO - Team #4885 OmegaBotz started
+2025-03-05 06:52:26,063 - ERROR - Error processing match 2425-TX-MDM1-Q024-1 for team 4885: 'NoneType' object is not subscriptable
+2025-03-05 06:52:31,545 - ERROR - Error processing match 2425-TX-MDM1-Q033-1 for team 4885: 'NoneType' object is not subscriptable
+2025-03-05 06:53:36,857 - INFO - Team #4885 OmegaBotz done
+2025-03-05 06:53:37,781 - INFO - Team #6366 T-Robots started
+2025-03-05 06:54:13,360 - ERROR - Error getting results for team #6366: 'np_opr'
+2025-03-05 06:54:13,364 - INFO - Team #6366 T-Robots done
+2025-03-05 06:54:14,166 - WARNING - No matches found for team #24630
+2025-03-05 06:54:15,327 - WARNING - No matches found for team #27677
+2025-03-05 06:54:17,048 - INFO - Team #23815 RoboKrakens started
+2025-03-05 06:54:36,857 - INFO - Team #23815 RoboKrakens done
+2025-03-05 06:54:37,847 - INFO - Team #27991 IMAGenius started
+2025-03-05 06:55:47,241 - ERROR - Error getting results for team #27991: 'np_opr'
+2025-03-05 06:55:47,245 - INFO - Team #27991 IMAGenius done
+2025-03-05 06:55:47,834 - WARNING - No matches found for team #22539
+2025-03-05 06:56:07,832 - INFO - Team #26514 PorygonZ started
+2025-03-05 06:57:26,174 - INFO - Team #26514 PorygonZ done
+2025-03-05 06:57:28,473 - WARNING - No matches found for team #14158
+2025-03-05 06:57:30,758 - WARNING - No matches found for team #19975
+2025-03-05 06:57:31,306 - INFO - Team #17567 The Brogrammers started
+2025-03-05 06:59:12,103 - ERROR - Error getting results for team #17567: 'np_opr'
+2025-03-05 06:59:12,106 - INFO - Team #17567 The Brogrammers done
+2025-03-05 06:59:14,190 - INFO - Team #24818 Cyberdogz started
+2025-03-05 06:59:22,052 - ERROR - Error processing match 2425-IL-CCM3-Q008-1 for team 24818: 'NoneType' object is not subscriptable
+2025-03-05 06:59:24,692 - ERROR - Error processing match 2425-IL-CCM3-Q010-1 for team 24818: 'NoneType' object is not subscriptable
+2025-03-05 06:59:28,399 - ERROR - Error processing match 2425-IL-CCM3-Q014-1 for team 24818: 'NoneType' object is not subscriptable
+2025-03-05 06:59:43,939 - ERROR - Error getting results for team #24818: 'np_opr'
+2025-03-05 06:59:43,942 - INFO - Team #24818 Cyberdogz done
+2025-03-05 06:59:44,570 - WARNING - No matches found for team #22176
+2025-03-05 06:59:45,095 - INFO - Team #15776 Mech Eagles started
+2025-03-05 07:01:10,589 - ERROR - Error getting results for team #15776: 'np_opr'
+2025-03-05 07:01:10,593 - INFO - Team #15776 Mech Eagles done
+2025-03-05 07:01:11,421 - INFO - Team #18671 Faraday started
+2025-03-05 07:02:48,091 - ERROR - Error getting results for team #18671: 'np_opr'
+2025-03-05 07:02:48,096 - INFO - Team #18671 Faraday done
+2025-03-05 07:02:49,428 - WARNING - No matches found for team #15931
+2025-03-05 07:02:51,110 - INFO - Team #8569 RoboKnights started
+2025-03-05 07:04:33,604 - INFO - Team #8569 RoboKnights done
+2025-03-05 07:04:34,045 - INFO - Team #24105 Lake Robotics started
+2025-03-05 07:04:53,379 - INFO - Team #24105 Lake Robotics done
+2025-03-05 07:05:07,758 - INFO - Team #28285 Buy-N-Large started
+2025-03-05 07:06:11,273 - INFO - Team #28285 Buy-N-Large done
+2025-03-05 07:06:14,628 - INFO - Team #22778 Portland Christian Robotics started
+2025-03-05 07:07:08,000 - ERROR - Error getting results for team #22778: 'np_opr'
+2025-03-05 07:07:08,005 - INFO - Team #22778 Portland Christian Robotics done
+2025-03-05 07:07:09,485 - WARNING - No matches found for team #22185
+2025-03-05 07:07:10,271 - INFO - Team #17533 Anderson Vikings started
+2025-03-05 07:07:34,747 - INFO - Team #17533 Anderson Vikings done
+2025-03-05 07:07:35,667 - INFO - Team #23779 'Lectric Lemons started
+2025-03-05 07:09:35,174 - ERROR - Error getting results for team #23779: 'np_opr'
+2025-03-05 07:09:35,178 - INFO - Team #23779 'Lectric Lemons done
+2025-03-05 07:09:35,615 - WARNING - No matches found for team #26629
+2025-03-05 07:09:36,882 - INFO - Team #24594 ParaPlats started
+2025-03-05 07:09:53,664 - INFO - Team #24594 ParaPlats done
+2025-03-05 07:10:07,744 - INFO - Team #26449 Garfield started
+2025-03-05 07:10:19,089 - ERROR - Error processing match 2425-OH-CMSDM1-Q015-1 for team 26449: 'NoneType' object is not subscriptable
+2025-03-05 07:10:22,056 - ERROR - Error processing match 2425-OH-CMSDM1-Q019-1 for team 26449: 'NoneType' object is not subscriptable
+2025-03-05 07:10:37,999 - ERROR - Error getting results for team #26449: 'np_opr'
+2025-03-05 07:10:38,003 - INFO - Team #26449 Garfield done
+2025-03-05 07:10:39,512 - WARNING - No matches found for team #25121
+2025-03-05 07:10:40,964 - INFO - Team #23456 101 Robomatians started
+2025-03-05 07:11:24,944 - INFO - Team #23456 101 Robomatians done
+2025-03-05 07:11:26,180 - WARNING - No matches found for team #14771
+2025-03-05 07:11:28,755 - INFO - Team #14706 Armada Pi-Gears started
+2025-03-05 07:11:39,397 - ERROR - Error processing match 2425-FIM-ROQ-Q041-1 for team 14706: 'NoneType' object is not subscriptable
+2025-03-05 07:13:10,334 - INFO - Team #14706 Armada Pi-Gears done
+2025-03-05 07:13:11,148 - WARNING - No matches found for team #15819
+2025-03-05 07:13:14,182 - WARNING - No matches found for team #26271
+2025-03-05 07:13:15,359 - INFO - Team #27554 St. Patrick's Robotics started
+2025-03-05 07:13:34,031 - ERROR - Error getting results for team #27554: 'np_opr'
+2025-03-05 07:13:34,034 - INFO - Team #27554 St. Patrick's Robotics done
+2025-03-05 07:13:35,011 - INFO - Team #13277 STEAMpunks Bravo started
+2025-03-05 07:15:23,818 - INFO - Team #13277 STEAMpunks Bravo done
+2025-03-05 07:15:25,277 - INFO - Team #14167 The Savage Penguins started
+2025-03-05 07:16:28,932 - ERROR - Error getting results for team #14167: 'np_opr'
+2025-03-05 07:16:28,936 - INFO - Team #14167 The Savage Penguins done
+2025-03-05 07:16:30,758 - WARNING - No matches found for team #6606
+2025-03-05 07:16:33,268 - INFO - Team #18996 S.T.A.T.I.C. started
+2025-03-05 07:18:07,717 - INFO - Team #18996 S.T.A.T.I.C. done
+2025-03-05 07:18:09,483 - WARNING - No matches found for team #21381
+2025-03-05 07:18:11,225 - INFO - Team #19889 Robo-Sapiens started
+2025-03-05 07:18:28,871 - INFO - Team #19889 Robo-Sapiens done
+2025-03-05 07:18:31,447 - INFO - Team #6596 Robotic Rams started
+2025-03-05 07:20:23,820 - INFO - Team #6596 Robotic Rams done
+2025-03-05 07:20:24,979 - INFO - Team #27557 Crane Freakbots started
+2025-03-05 07:20:43,900 - ERROR - Error getting results for team #27557: 'np_opr'
+2025-03-05 07:20:43,905 - INFO - Team #27557 Crane Freakbots done
+2025-03-05 07:20:44,600 - INFO - Team #5411 G3 Geeks, Gears, and Gadgets Green started
+2025-03-05 07:21:15,292 - INFO - Team #5411 G3 Geeks, Gears, and Gadgets Green done
+2025-03-05 07:21:17,123 - INFO - Team #25868 York Team 2 (7th) started
+2025-03-05 07:22:18,379 - ERROR - Error getting results for team #25868: 'np_opr'
+2025-03-05 07:22:18,383 - INFO - Team #25868 York Team 2 (7th) done
+2025-03-05 07:22:19,338 - INFO - Team #15707 Bots by the Creek started
+2025-03-05 07:23:24,876 - ERROR - Error processing match 2425-NC-FAQ-E701-1 for team 15707: 'NoneType' object is not subscriptable
+2025-03-05 07:28:37,534 - ERROR - Error processing match 2425-NC-CMP-Q040-1 for team 15707: 'NoneType' object is not subscriptable
+2025-03-05 07:28:38,837 - INFO - Team #15707 Bots by the Creek done
+2025-03-05 07:28:39,561 - INFO - Team #9000 Rangers started
+2025-03-05 07:29:48,264 - INFO - Team #9000 Rangers done
+2025-03-05 07:29:48,716 - WARNING - No matches found for team #21726
+2025-03-05 07:29:49,428 - INFO - Team #8400 Perfect Paradox started
+2025-03-05 07:31:54,494 - INFO - Team #8400 Perfect Paradox done
+2025-03-05 07:31:54,955 - WARNING - No matches found for team #26068
+2025-03-05 07:31:55,486 - INFO - Team #24703 Celestial Robotics started
+2025-03-05 07:32:56,954 - INFO - Team #24703 Celestial Robotics done
+2025-03-05 07:32:57,415 - WARNING - No matches found for team #27482
+2025-03-05 07:32:58,087 - INFO - Team #15004 Tech KNOW Logic started
+2025-03-05 07:33:56,223 - ERROR - Error processing match 2425-FIM-BEQ-Q033-1 for team 15004: 'NoneType' object is not subscriptable
+2025-03-05 07:33:57,328 - ERROR - Error processing match 2425-FIM-BEQ-Q043-1 for team 15004: 'NoneType' object is not subscriptable
+2025-03-05 07:34:55,880 - ERROR - Error getting results for team #15004: 'np_opr'
+2025-03-05 07:34:55,884 - INFO - Team #15004 Tech KNOW Logic done
+2025-03-05 07:34:56,352 - WARNING - No matches found for team #25923
+2025-03-05 07:34:56,808 - INFO - Team #17558 Vilseck Roboraptors started
+2025-03-05 07:35:47,034 - INFO - Team #17558 Vilseck Roboraptors done
+2025-03-05 07:35:51,979 - WARNING - No matches found for team #25311
+2025-03-05 07:35:53,090 - INFO - Team #26431 Northern Knights started
+2025-03-05 07:37:37,944 - INFO - Team #26431 Northern Knights done
+2025-03-05 07:37:38,974 - INFO - Team #21797 Hack City started
+2025-03-05 07:38:52,861 - INFO - Team #21797 Hack City done
+2025-03-05 07:38:53,830 - WARNING - No matches found for team #21967
+2025-03-05 07:38:54,372 - INFO - Team #27368 Ti Titans started
+2025-03-05 07:38:57,340 - ERROR - Error processing match 2425-PA-GIS-Q023-1 for team 27368: 'NoneType' object is not subscriptable
+2025-03-05 07:38:58,121 - ERROR - Error processing match 2425-PA-GIS-Q034-1 for team 27368: 'NoneType' object is not subscriptable
+2025-03-05 07:39:39,942 - ERROR - Error processing match 2425-PA-PIS-Q023-1 for team 27368: 'NoneType' object is not subscriptable
+2025-03-05 07:39:55,479 - INFO - Team #27368 Ti Titans done
+2025-03-05 07:39:56,017 - INFO - Team #18554 Sea Turtles started
+2025-03-05 07:41:40,932 - INFO - Team #18554 Sea Turtles done
+2025-03-05 07:41:41,403 - INFO - Team #27448 MechaGrizzlies started
+2025-03-05 07:41:55,569 - INFO - Team #27448 MechaGrizzlies done
+2025-03-05 07:41:56,317 - INFO - Team #19844 ElectroCorns started
+2025-03-05 07:43:42,511 - INFO - Team #19844 ElectroCorns done
+2025-03-05 07:43:44,664 - INFO - Team #13416 JagWIRES started
+2025-03-05 07:45:41,368 - ERROR - Error getting results for team #13416: 'np_opr'
+2025-03-05 07:45:41,373 - INFO - Team #13416 JagWIRES done
+2025-03-05 07:45:41,818 - INFO - Team #10963 Binary started
+2025-03-05 07:45:56,083 - ERROR - Error processing match 2425-TX-NM1-Q019-1 for team 10963: 'NoneType' object is not subscriptable
+2025-03-05 07:46:01,514 - ERROR - Error getting results for team #10963: 'np_opr'
+2025-03-05 07:46:01,517 - INFO - Team #10963 Binary done
+2025-03-05 07:46:02,199 - WARNING - No matches found for team #26846
+2025-03-05 07:46:02,639 - INFO - Team #27401 Jenkins started
+2025-03-05 07:46:57,106 - ERROR - Error getting results for team #27401: 'np_opr'
+2025-03-05 07:46:57,111 - INFO - Team #27401 Jenkins done
+2025-03-05 07:46:57,569 - WARNING - No matches found for team #13271
+2025-03-05 07:46:58,070 - INFO - Team #22563 Bots of Steele Team Sword started
+2025-03-05 07:47:03,434 - ERROR - Error processing match 2425-TX-CNM1-Q016-1 for team 22563: 'NoneType' object is not subscriptable
+2025-03-05 07:48:39,535 - INFO - Team #22563 Bots of Steele Team Sword done
+2025-03-05 07:48:40,026 - INFO - Team #12718 Lions started
+2025-03-05 07:49:00,674 - INFO - Team #12718 Lions done
+2025-03-05 07:49:01,204 - INFO - Team #27048 Phoenix Rising started
+2025-03-05 07:49:59,711 - INFO - Team #27048 Phoenix Rising done
+2025-03-05 07:50:00,177 - WARNING - No matches found for team #28395
+2025-03-05 07:50:00,718 - INFO - Team #12130 Cavebots started
+2025-03-05 07:50:56,513 - INFO - Team #12130 Cavebots done
+2025-03-05 07:50:57,775 - INFO - Team #14775 Dossin Elite Eagles started
+2025-03-05 07:51:04,431 - INFO - Team #14775 Dossin Elite Eagles done
+2025-03-05 07:51:04,908 - WARNING - No matches found for team #28125
+2025-03-05 07:51:38,014 - WARNING - No matches found for team #18882
+2025-03-05 07:51:39,148 - INFO - Team #16632 Pantheon started
+2025-03-05 07:53:41,825 - INFO - Team #16632 Pantheon done
+2025-03-05 07:53:42,624 - INFO - Team #15747 \"El Robo\" started
+2025-03-05 07:54:53,789 - INFO - Team #15747 \"El Robo\" done
+2025-03-05 07:54:54,962 - INFO - Team #8696 Trobotix started
+2025-03-05 07:54:56,466 - ERROR - Error processing match 2425-IA-COS-Q001-1 for team 8696: 'NoneType' object is not subscriptable
+2025-03-05 07:55:02,054 - ERROR - Error processing match 2425-IA-COS-Q002-1 for team 8696: 'NoneType' object is not subscriptable
+2025-03-05 07:55:02,848 - ERROR - Error processing match 2425-IA-COS-Q003-1 for team 8696: 'NoneType' object is not subscriptable
+2025-03-05 07:55:03,568 - ERROR - Error processing match 2425-IA-COS-Q005-1 for team 8696: 'NoneType' object is not subscriptable
+2025-03-05 07:55:04,279 - ERROR - Error processing match 2425-IA-COS-Q007-1 for team 8696: 'NoneType' object is not subscriptable
+2025-03-05 07:58:07,462 - ERROR - Error getting results for team #8696: 'np_opr'
+2025-03-05 07:58:07,465 - INFO - Team #8696 Trobotix done
+2025-03-05 07:58:07,996 - INFO - Team #22733 Cyber Paws started
+2025-03-05 07:59:06,442 - INFO - Team #22733 Cyber Paws done
+2025-03-05 07:59:06,966 - INFO - Team #23980 Digital Dragons started
+2025-03-05 07:59:42,482 - ERROR - Error processing match 2425-OR-EUS-Q022-1 for team 23980: 'NoneType' object is not subscriptable
+2025-03-05 08:00:57,531 - INFO - Team #23980 Digital Dragons done
+2025-03-05 08:01:01,762 - INFO - Team #8421 Tigers started
+2025-03-05 08:02:07,860 - ERROR - Error getting results for team #8421: 'np_opr'
+2025-03-05 08:02:07,864 - INFO - Team #8421 Tigers done
+2025-03-05 08:02:08,361 - INFO - Team #9113 Minimum Cache started
+2025-03-05 08:02:46,791 - ERROR - Error getting results for team #9113: 'np_opr'
+2025-03-05 08:02:46,795 - INFO - Team #9113 Minimum Cache done
+2025-03-05 08:02:47,601 - INFO - Team #13085 Bionic Dutch started
+2025-03-05 08:02:56,466 - ERROR - Error processing match 2425-IA-CORM4-Q019-1 for team 13085: 'NoneType' object is not subscriptable
+2025-03-05 08:03:01,515 - ERROR - Error processing match 2425-IA-CORM4-Q023-1 for team 13085: 'NoneType' object is not subscriptable
+2025-03-05 08:03:03,330 - ERROR - Error processing match 2425-IA-CORM4-Q029-1 for team 13085: 'NoneType' object is not subscriptable
+2025-03-05 08:05:57,531 - INFO - Team #13085 Bionic Dutch done
+2025-03-05 08:06:01,896 - INFO - Team #17198 The Shrimpletons started
+2025-03-05 08:06:44,316 - ERROR - Error processing match 2425-TX-AMS-Q026-1 for team 17198: 'NoneType' object is not subscriptable
+2025-03-05 08:06:46,505 - ERROR - Error processing match 2425-TX-AMS-Q034-1 for team 17198: 'NoneType' object is not subscriptable
+2025-03-05 08:06:47,966 - ERROR - Error processing match 2425-TX-AMS-Q038-1 for team 17198: 'NoneType' object is not subscriptable
+2025-03-05 08:08:01,580 - INFO - Team #17198 The Shrimpletons done
+2025-03-05 08:08:02,600 - INFO - Team #24843 The Wired Bears started
+2025-03-05 08:09:12,290 - ERROR - Error getting results for team #24843: 'np_opr'
+2025-03-05 08:09:12,294 - INFO - Team #24843 The Wired Bears done
+2025-03-05 08:09:13,039 - INFO - Team #11000 Pink Mambas started
+2025-03-05 08:11:12,329 - INFO - Team #11000 Pink Mambas done
+2025-03-05 08:11:12,801 - WARNING - No matches found for team #24427
+2025-03-05 08:11:13,257 - WARNING - No matches found for team #23447
+2025-03-05 08:11:14,894 - INFO - Team #11353 Lightning Robotics started
+2025-03-05 08:12:09,315 - INFO - Team #11353 Lightning Robotics done
+2025-03-05 08:12:10,102 - INFO - Team #18291 Mech Warriors started
+2025-03-05 08:14:47,634 - INFO - Team #18291 Mech Warriors done
+2025-03-05 08:14:48,539 - WARNING - No matches found for team #24448
+2025-03-05 08:14:48,982 - WARNING - No matches found for team #26197
+2025-03-05 08:14:52,041 - INFO - Team #24385 The Mech Mages started
+2025-03-05 08:16:15,285 - ERROR - Error getting results for team #24385: 'np_opr'
+2025-03-05 08:16:15,286 - INFO - Team #24385 The Mech Mages done
+2025-03-05 08:16:15,789 - INFO - Team #11409 Kraken Koders started
+2025-03-05 08:17:58,556 - ERROR - Error getting results for team #11409: 'np_opr'
+2025-03-05 08:17:58,560 - INFO - Team #11409 Kraken Koders done
+2025-03-05 08:18:02,071 - INFO - Team #11208 Kardia Robotics started
+2025-03-05 08:19:08,369 - INFO - Team #11208 Kardia Robotics done
+2025-03-05 08:19:09,359 - INFO - Team #689 Avenge Bots started
+2025-03-05 08:19:53,991 - INFO - Team #689 Avenge Bots done
+2025-03-05 08:19:54,734 - WARNING - No matches found for team #21504
+2025-03-05 08:19:55,892 - INFO - Team #26235 RoboGenesis started
+2025-03-05 08:21:43,942 - ERROR - Error getting results for team #26235: 'np_opr'
+2025-03-05 08:21:43,946 - INFO - Team #26235 RoboGenesis done
+2025-03-05 08:21:44,407 - INFO - Team #6383 HCPS Robotics - Error Code 301 started
+2025-03-05 08:21:58,221 - INFO - Team #6383 HCPS Robotics - Error Code 301 done
+2025-03-05 08:22:01,870 - INFO - Team #22327 CSP Ecliptic started
+2025-03-05 08:23:49,396 - INFO - Team #22327 CSP Ecliptic done
+2025-03-05 08:23:52,561 - WARNING - No matches found for team #16798
+2025-03-05 08:23:53,019 - WARNING - No matches found for team #12467
+2025-03-05 08:23:54,172 - INFO - Team #25819 Viking Force started
+2025-03-05 08:26:39,208 - ERROR - Error getting results for team #25819: 'np_opr'
+2025-03-05 08:26:39,212 - INFO - Team #25819 Viking Force done
+2025-03-05 08:26:39,738 - INFO - Team #7083 TundraBots started
+2025-03-05 08:27:53,924 - INFO - Team #7083 TundraBots done
+2025-03-05 08:27:54,758 - WARNING - No matches found for team #28112
+2025-03-05 08:27:55,714 - INFO - Team #27035 Leon Taylor Technos started
+2025-03-05 08:29:03,617 - ERROR - Error processing match 2425-TX-CCS-Q002-1 for team 27035: 'NoneType' object is not subscriptable
+2025-03-05 08:29:05,277 - ERROR - Error processing match 2425-TX-CCS-Q006-1 for team 27035: 'NoneType' object is not subscriptable
+2025-03-05 08:29:09,698 - ERROR - Error processing match 2425-TX-CCS-Q009-1 for team 27035: 'NoneType' object is not subscriptable
+2025-03-05 08:29:12,266 - ERROR - Error processing match 2425-TX-CCS-Q013-1 for team 27035: 'NoneType' object is not subscriptable
+2025-03-05 08:29:14,460 - ERROR - Error processing match 2425-TX-CCS-Q017-1 for team 27035: 'NoneType' object is not subscriptable
+2025-03-05 08:29:46,037 - ERROR - Error getting results for team #27035: 'np_opr'
+2025-03-05 08:29:46,038 - INFO - Team #27035 Leon Taylor Technos done
+2025-03-05 08:29:46,570 - WARNING - No matches found for team #13991
+2025-03-05 08:29:47,669 - WARNING - No matches found for team #18457
+2025-03-05 08:29:48,206 - INFO - Team #23853 Cyber Waffles (White) started
+2025-03-05 08:30:04,266 - INFO - Team #23853 Cyber Waffles (White) done
+2025-03-05 08:30:05,435 - INFO - Team #25682 FancyTyphoonCrabs started
+2025-03-05 08:31:43,360 - INFO - Team #25682 FancyTyphoonCrabs done
+2025-03-05 08:31:44,678 - INFO - Team #10383 RoboWarriors started
+2025-03-05 08:33:51,900 - ERROR - Error processing match 2425-IA-BALLT-Q035-1 for team 10383: 'NoneType' object is not subscriptable
+2025-03-05 08:33:53,314 - ERROR - Error getting results for team #10383: 'np_opr'
+2025-03-05 08:33:53,319 - INFO - Team #10383 RoboWarriors done
+2025-03-05 08:33:53,955 - INFO - Team #16222 Thunderbots FTC started
+2025-03-05 08:34:10,236 - INFO - Team #16222 Thunderbots FTC done
+2025-03-05 08:34:12,376 - INFO - Team #27656 Polar Cubs Robotics started
+2025-03-05 08:34:44,365 - INFO - Team #27656 Polar Cubs Robotics done
+2025-03-05 08:34:45,420 - WARNING - No matches found for team #22324
+2025-03-05 08:34:46,646 - INFO - Team #25912 St. William Crusaderbots started
+2025-03-05 08:35:43,493 - INFO - Team #25912 St. William Crusaderbots done
+2025-03-05 08:35:44,400 - WARNING - No matches found for team #24590
+2025-03-05 08:35:45,438 - WARNING - No matches found for team #27347
+2025-03-05 08:35:46,600 - INFO - Team #354 Velvet Velocity started
+2025-03-05 08:36:39,735 - INFO - Team #354 Velvet Velocity done
+2025-03-05 08:36:40,522 - WARNING - No matches found for team #18687
+2025-03-05 08:36:41,500 - INFO - Team #22448 R.A.T.S. (Robotics and Technology Squad) started
+2025-03-05 08:37:48,590 - INFO - Team #22448 R.A.T.S. (Robotics and Technology Squad) done
+2025-03-05 08:37:49,458 - INFO - Team #24375 Nuclear Necromancers started
+2025-03-05 08:38:39,863 - INFO - Team #24375 Nuclear Necromancers done
+2025-03-05 08:38:40,327 - INFO - Team #15008 The Eclipse started
+2025-03-05 08:39:05,336 - INFO - Team #15008 The Eclipse done
+2025-03-05 08:39:08,437 - WARNING - No matches found for team #20098
+2025-03-05 08:39:09,369 - INFO - Team #12758 Derryfield Binary Bots started
+2025-03-05 08:39:58,244 - INFO - Team #12758 Derryfield Binary Bots done
+2025-03-05 08:40:01,620 - WARNING - No matches found for team #15657
+2025-03-05 08:40:02,671 - INFO - Team #27586 Avondale RoboJackets [36] started
+2025-03-05 08:41:02,859 - ERROR - Error getting results for team #27586: 'np_opr'
+2025-03-05 08:41:02,863 - INFO - Team #27586 Avondale RoboJackets [36] done
+2025-03-05 08:41:03,460 - WARNING - No matches found for team #6989
+2025-03-05 08:41:04,321 - INFO - Team #20076 Le Jardin Academy started
+2025-03-05 08:41:39,260 - ERROR - Error getting results for team #20076: 'np_opr'
+2025-03-05 08:41:39,264 - INFO - Team #20076 Le Jardin Academy done
+2025-03-05 08:41:40,307 - WARNING - No matches found for team #26683
+2025-03-05 08:41:41,709 - INFO - Team #25021 Thunder Cats started
+2025-03-05 08:43:03,363 - INFO - Team #25021 Thunder Cats done
+2025-03-05 08:43:04,317 - INFO - Team #4328 C'est la vie started
+2025-03-05 08:43:52,266 - ERROR - Error getting results for team #4328: 'np_opr'
+2025-03-05 08:43:52,270 - INFO - Team #4328 C'est la vie done
+2025-03-05 08:43:53,028 - INFO - Team #15982 NORTH Robotics Freshman Team 2 started
+2025-03-05 08:44:14,521 - INFO - Team #15982 NORTH Robotics Freshman Team 2 done
+2025-03-05 08:44:15,543 - INFO - Team #24286 Shash started
+2025-03-05 08:46:04,438 - INFO - Team #24286 Shash done
+2025-03-05 08:46:05,387 - INFO - Team #23292 SuperPowered Jalapenos started
+2025-03-05 08:46:44,155 - INFO - Team #23292 SuperPowered Jalapenos done
+2025-03-05 08:46:44,612 - WARNING - No matches found for team #15850
+2025-03-05 08:46:45,105 - WARNING - No matches found for team #23945
+2025-03-05 08:46:45,583 - WARNING - No matches found for team #26423
+2025-03-05 08:46:46,584 - INFO - Team #11248 //Cougars started
+2025-03-05 08:47:45,450 - ERROR - Error getting results for team #11248: 'np_opr'
+2025-03-05 08:47:45,454 - INFO - Team #11248 //Cougars done
+2025-03-05 08:47:45,910 - INFO - Team #7079 FalTech started
+2025-03-05 08:49:05,724 - ERROR - Error getting results for team #7079: 'np_opr'
+2025-03-05 08:49:05,728 - INFO - Team #7079 FalTech done
+2025-03-05 08:49:08,415 - INFO - Team #24079 Stratus started
+2025-03-05 08:50:58,260 - INFO - Team #24079 Stratus done
+2025-03-05 08:51:01,615 - INFO - Team #20729 ShroomBotics started
+2025-03-05 08:51:51,940 - INFO - Team #20729 ShroomBotics done
+2025-03-05 08:51:53,298 - INFO - Team #21394 Top Hat Robotics started
+2025-03-05 08:53:10,336 - INFO - Team #21394 Top Hat Robotics done
+2025-03-05 08:53:12,373 - WARNING - No matches found for team #21927
+2025-03-05 08:53:13,747 - INFO - Team #11456 Blair Academy started
+2025-03-05 08:55:04,331 - ERROR - Error getting results for team #11456: 'np_opr'
+2025-03-05 08:55:04,335 - INFO - Team #11456 Blair Academy done
+2025-03-05 08:55:04,796 - INFO - Team #27153 Flat Rock Ram Robotics started
+2025-03-05 08:55:40,280 - INFO - Team #27153 Flat Rock Ram Robotics done
+2025-03-05 08:55:41,227 - INFO - Team #27537 HyperDrive started
+2025-03-05 08:56:08,457 - INFO - Team #27537 HyperDrive done
+2025-03-05 08:56:09,383 - INFO - Team #27135 Gompers FTC started
+2025-03-05 08:56:44,168 - INFO - Team #27135 Gompers FTC done
+2025-03-05 08:56:47,398 - INFO - Team #12362 Tractor Technicians in Training (Blue) started
+2025-03-05 08:57:43,450 - ERROR - Error getting results for team #12362: 'np_opr'
+2025-03-05 08:57:43,453 - INFO - Team #12362 Tractor Technicians in Training (Blue) done
+2025-03-05 08:57:44,280 - INFO - Team #5971 Brain Bots started
+2025-03-05 08:58:52,835 - INFO - Team #5971 Brain Bots done
+2025-03-05 08:58:53,533 - INFO - Team #12000 The Automated Skeleton started
+2025-03-05 09:00:52,671 - INFO - Team #12000 The Automated Skeleton done
+2025-03-05 09:00:53,118 - WARNING - No matches found for team #21919
+2025-03-05 09:00:54,449 - INFO - Team #22055 Avondale RoboJackets [10] started
+2025-03-05 09:02:08,734 - ERROR - Error getting results for team #22055: 'np_opr'
+2025-03-05 09:02:08,738 - INFO - Team #22055 Avondale RoboJackets [10] done
+2025-03-05 09:02:09,357 - INFO - Team #17228 Team Rocket started
+2025-03-05 09:03:40,259 - INFO - Team #17228 Team Rocket done
+2025-03-05 09:03:41,221 - INFO - Team #15301 Valkyries started
+2025-03-05 09:03:50,756 - ERROR - Error processing match 2425-FIM-AAQ-Q027-1 for team 15301: 'NoneType' object is not subscriptable
+2025-03-05 09:03:52,637 - ERROR - Error processing match 2425-FIM-AAQ-Q034-1 for team 15301: 'NoneType' object is not subscriptable
+2025-03-05 09:03:53,480 - ERROR - Error processing match 2425-FIM-AAQ-Q039-1 for team 15301: 'NoneType' object is not subscriptable
+2025-03-05 09:04:08,390 - INFO - Team #15301 Valkyries done
+2025-03-05 09:04:09,381 - INFO - Team #4605 RoboHackerz started
+2025-03-05 09:04:58,254 - INFO - Team #4605 RoboHackerz done
+2025-03-05 09:05:01,607 - INFO - Team #26810 WILDCAT 1 started
+2025-03-05 09:05:50,410 - ERROR - Error getting results for team #26810: 'np_opr'
+2025-03-05 09:05:50,414 - INFO - Team #26810 WILDCAT 1 done
+2025-03-05 09:05:51,100 - INFO - Team #26184 SparKings started
+2025-03-05 09:07:48,443 - INFO - Team #26184 SparKings done
+2025-03-05 09:07:50,030 - INFO - Team #22100 Maximum Overdrive started
+2025-03-05 09:08:39,060 - INFO - Team #22100 Maximum Overdrive done
+2025-03-05 09:08:40,603 - INFO - Team #26100 Warrior Bots started
+2025-03-05 09:10:15,565 - INFO - Team #26100 Warrior Bots done
+2025-03-05 09:10:17,053 - INFO - Team #17072 WLA Vernon Middle School: Robo-Scorpions 17072 started
+2025-03-05 09:11:02,058 - ERROR - Error getting results for team #17072: 'np_opr'
+2025-03-05 09:11:02,061 - INFO - Team #17072 WLA Vernon Middle School: Robo-Scorpions 17072 done
+2025-03-05 09:11:02,929 - INFO - Team #15173 Robotic Eagles started
+2025-03-05 09:12:54,246 - ERROR - Error getting results for team #15173: 'np_opr'
+2025-03-05 09:12:54,251 - INFO - Team #15173 Robotic Eagles done
+2025-03-05 09:12:56,925 - INFO - Team #27468 ITKAN Robotics of Sachse- SMS Knights started
+2025-03-05 09:15:40,289 - INFO - Team #27468 ITKAN Robotics of Sachse- SMS Knights done
+2025-03-05 09:15:41,215 - WARNING - No matches found for team #23967
+2025-03-05 09:15:43,022 - WARNING - No matches found for team #22004
+2025-03-05 09:15:44,301 - INFO - Team #26347 Mary B. Martin started
+2025-03-05 09:15:52,771 - ERROR - Error processing match 2425-OH-CMSDM1-Q009-1 for team 26347: 'NoneType' object is not subscriptable
+2025-03-05 09:15:56,513 - ERROR - Error processing match 2425-OH-CMSDM1-Q015-1 for team 26347: 'NoneType' object is not subscriptable
+2025-03-05 09:15:58,431 - ERROR - Error processing match 2425-OH-CMSDM1-Q017-1 for team 26347: 'NoneType' object is not subscriptable
+2025-03-05 09:16:15,039 - ERROR - Error getting results for team #26347: 'np_opr'
+2025-03-05 09:16:15,043 - INFO - Team #26347 Mary B. Martin done
+2025-03-05 09:16:15,655 - INFO - Team #8899 EP Robo Raiders started
+2025-03-05 09:17:38,259 - ERROR - Error getting results for team #8899: 'np_opr'
+2025-03-05 09:17:38,263 - INFO - Team #8899 EP Robo Raiders done
+2025-03-05 09:17:39,091 - WARNING - No matches found for team #28137
+2025-03-05 09:17:40,395 - INFO - Team #22059 Overclocked started
+2025-03-05 09:18:41,335 - INFO - Team #22059 Overclocked done
+2025-03-05 09:18:43,033 - WARNING - No matches found for team #18149
+2025-03-05 09:18:44,290 - INFO - Team #18365 Dapper RoboNoodles started
+2025-03-05 09:20:03,543 - ERROR - Error getting results for team #18365: 'np_opr'
+2025-03-05 09:20:03,546 - INFO - Team #18365 Dapper RoboNoodles done
+2025-03-05 09:20:04,007 - INFO - Team #10601 CBA RoboKings started
+2025-03-05 09:20:52,840 - INFO - Team #10601 CBA RoboKings done
+2025-03-05 09:20:54,012 - INFO - Team #27087 Robo Tech FTC started
+2025-03-05 09:21:05,587 - INFO - Team #27087 Robo Tech FTC done
+2025-03-05 09:21:08,712 - INFO - Team #19838 Brute Force started
+2025-03-05 09:23:03,052 - ERROR - Error getting results for team #19838: 'np_opr'
+2025-03-05 09:23:03,055 - INFO - Team #19838 Brute Force done
+2025-03-05 09:23:03,493 - WARNING - No matches found for team #28150
+2025-03-05 09:23:04,007 - INFO - Team #17333 MAMS Brave Bots started
+2025-03-05 09:23:52,308 - ERROR - Error getting results for team #17333: 'np_opr'
+2025-03-05 09:23:52,312 - INFO - Team #17333 MAMS Brave Bots done
+2025-03-05 09:23:52,872 - WARNING - No matches found for team #25761
+2025-03-05 09:23:54,346 - INFO - Team #6152 Oysterminators started
+2025-03-05 09:25:47,312 - INFO - Team #6152 Oysterminators done
+2025-03-05 09:25:48,569 - INFO - Team #22472 Mechahorn started
+2025-03-05 09:27:12,364 - INFO - Team #22472 Mechahorn done
+2025-03-05 09:27:13,684 - WARNING - No matches found for team #3093
+2025-03-05 09:27:14,837 - WARNING - No matches found for team #16791
+2025-03-05 09:27:15,637 - WARNING - No matches found for team #16012
+2025-03-05 09:27:17,330 - INFO - Team #4347 NanoGurus started
+2025-03-05 09:29:38,444 - ERROR - Error getting results for team #4347: 'np_opr'
+2025-03-05 09:29:38,448 - INFO - Team #4347 NanoGurus done
+2025-03-05 09:29:39,281 - WARNING - No matches found for team #18990
+2025-03-05 09:29:40,321 - WARNING - No matches found for team #26483
+2025-03-05 09:29:41,220 - WARNING - No matches found for team #23210
+2025-03-05 09:29:43,020 - WARNING - No matches found for team #20345
+2025-03-05 09:29:44,219 - WARNING - No matches found for team #27335
+2025-03-05 09:29:47,500 - WARNING - No matches found for team #21880
+2025-03-05 09:29:48,506 - INFO - Team #24535 RoboMegalodons started
+2025-03-05 09:30:06,045 - INFO - Team #24535 RoboMegalodons done
+2025-03-05 09:30:06,577 - INFO - Team #13269 Mustang MegaBytes started
+2025-03-05 09:31:38,021 - INFO - Team #13269 Mustang MegaBytes done
+2025-03-05 09:31:39,284 - INFO - Team #27509 FMHS Trial & Error started
+2025-03-05 09:33:12,330 - INFO - Team #27509 FMHS Trial & Error done
+2025-03-05 09:33:13,946 - INFO - Team #21485 ScrapHeads started
+2025-03-05 09:35:07,783 - ERROR - Error getting results for team #21485: 'np_opr'
+2025-03-05 09:35:07,786 - INFO - Team #21485 ScrapHeads done
+2025-03-05 09:35:08,248 - WARNING - No matches found for team #23306
+2025-03-05 09:35:08,769 - INFO - Team #24450 TC-Bot started
+2025-03-05 09:36:41,482 - ERROR - Error getting results for team #24450: 'np_opr'
+2025-03-05 09:36:41,484 - INFO - Team #24450 TC-Bot done
+2025-03-05 09:36:43,115 - INFO - Team #9853 Chatham Cougars started
+2025-03-05 09:37:50,558 - ERROR - Error getting results for team #9853: 'np_opr'
+2025-03-05 09:37:50,563 - INFO - Team #9853 Chatham Cougars done
+2025-03-05 09:37:51,026 - WARNING - No matches found for team #27712
+2025-03-05 09:37:52,023 - WARNING - No matches found for team #22687
+2025-03-05 09:37:52,896 - INFO - Team #25861 PantherBots2 1/2 started
+2025-03-05 09:38:10,582 - INFO - Team #25861 PantherBots2 1/2 done
+2025-03-05 09:38:11,045 - INFO - Team #12804 LED: Ladies of Engineering Design started
+2025-03-05 09:38:40,278 - ERROR - Error getting results for team #12804: list index out of range
+2025-03-05 09:38:40,281 - INFO - Team #12804 LED: Ladies of Engineering Design done
+2025-03-05 09:38:41,250 - INFO - Team #19970 The 3rd Turtle started
+2025-03-05 09:39:14,084 - INFO - Team #19970 The 3rd Turtle done
+2025-03-05 09:39:14,891 - INFO - Team #18153 NDACouGears started
+2025-03-05 09:40:40,556 - INFO - Team #18153 NDACouGears done
+2025-03-05 09:40:41,518 - INFO - Team #7719 RISE started
+2025-03-05 09:42:48,548 - INFO - Team #7719 RISE done
+2025-03-05 09:42:49,979 - INFO - Team #24549 Canine Crew started
+2025-03-05 09:43:39,087 - INFO - Team #24549 Canine Crew done
+2025-03-05 09:43:40,583 - INFO - Team #20629 Rancho Dominguez Preparatory School started
+2025-03-05 09:43:58,122 - INFO - Team #20629 Rancho Dominguez Preparatory School done
+2025-03-05 09:43:59,957 - INFO - Team #20385 The Abundant Sheep started
+2025-03-05 09:44:54,101 - INFO - Team #20385 The Abundant Sheep done
+2025-03-05 09:44:56,541 - WARNING - No matches found for team #21362
+2025-03-05 09:44:58,270 - INFO - Team #27253 BASIS May Contain Small Parts started
+2025-03-05 09:46:41,738 - ERROR - Error getting results for team #27253: 'np_opr'
+2025-03-05 09:46:41,742 - INFO - Team #27253 BASIS May Contain Small Parts done
+2025-03-05 09:46:43,365 - INFO - Team #10974 IronMariners started
+2025-03-05 09:47:43,370 - ERROR - Error getting results for team #10974: 'np_opr'
+2025-03-05 09:47:43,374 - INFO - Team #10974 IronMariners done
+2025-03-05 09:47:44,286 - INFO - Team #16344 Servo Squad started
+2025-03-05 09:49:15,298 - INFO - Team #16344 Servo Squad done
+2025-03-05 09:49:16,822 - INFO - Team #11201 Piedmont Pioneers started
+2025-03-05 09:50:04,502 - ERROR - Error getting results for team #11201: 'np_opr'
+2025-03-05 09:50:04,506 - INFO - Team #11201 Piedmont Pioneers done
+2025-03-05 09:50:06,261 - INFO - Team #13266 Droid Rage - Apex started
+2025-03-05 09:51:16,657 - ERROR - Error processing match 2425-TX-CCS-Q005-1 for team 13266: 'NoneType' object is not subscriptable
+2025-03-05 09:51:18,534 - ERROR - Error processing match 2425-TX-CCS-Q011-1 for team 13266: 'NoneType' object is not subscriptable
+2025-03-05 09:51:19,261 - ERROR - Error processing match 2425-TX-CCS-Q013-1 for team 13266: 'NoneType' object is not subscriptable
+2025-03-05 09:51:20,944 - ERROR - Error processing match 2425-TX-CCS-Q016-1 for team 13266: 'NoneType' object is not subscriptable
+2025-03-05 09:51:37,942 - ERROR - Error processing match 2425-TX-CCS-E201-1 for team 13266: 'NoneType' object is not subscriptable
+2025-03-05 09:52:18,238 - INFO - Team #13266 Droid Rage - Apex done
+2025-03-05 09:52:18,768 - INFO - Team #23349 Raiders started
+2025-03-05 09:53:41,445 - INFO - Team #23349 Raiders done
+2025-03-05 09:53:43,314 - INFO - Team #92 Junior Bomb Squad started
+2025-03-05 09:55:21,351 - INFO - Team #92 Junior Bomb Squad done
+2025-03-05 09:55:21,817 - INFO - Team #7473 Code Crusher started
+2025-03-05 09:55:59,869 - INFO - Team #7473 Code Crusher done
+2025-03-05 09:56:01,154 - INFO - Team #22187 A.I.R. started
+2025-03-05 09:56:44,146 - ERROR - Error processing match 2425-IA-CORM4-Q021-1 for team 22187: 'NoneType' object is not subscriptable
+2025-03-05 09:56:48,530 - ERROR - Error processing match 2425-IA-CORM4-Q030-1 for team 22187: 'NoneType' object is not subscriptable
+2025-03-05 09:58:48,582 - INFO - Team #22187 A.I.R. done
+2025-03-05 09:58:50,236 - WARNING - No matches found for team #18572
+2025-03-05 09:58:51,312 - INFO - Team #4115 Men in Kilts started
+2025-03-05 10:00:45,077 - INFO - Team #4115 Men in Kilts done
+2025-03-05 10:00:47,366 - INFO - Team #27804 Pike RoboDevils FTC 27804 started
+2025-03-05 10:01:20,931 - INFO - Team #27804 Pike RoboDevils FTC 27804 done
+2025-03-05 10:01:21,450 - INFO - Team #15369 Robo Pilots started
+2025-03-05 10:02:15,291 - INFO - Team #15369 Robo Pilots done
+2025-03-05 10:02:16,842 - WARNING - No matches found for team #21312
+2025-03-05 10:02:18,576 - INFO - Team #26743 Lion Robotics 7th Grade started
+2025-03-05 10:04:24,794 - ERROR - Error getting results for team #26743: 'np_opr'
+2025-03-05 10:04:24,797 - INFO - Team #26743 Lion Robotics 7th Grade done
+2025-03-05 10:04:25,522 - WARNING - No matches found for team #23420
+2025-03-05 10:04:38,099 - WARNING - No matches found for team #27956
+2025-03-05 10:04:39,127 - WARNING - No matches found for team #24755
+2025-03-05 10:04:40,899 - INFO - Team #13968 Herberger Howlers started
+2025-03-05 10:06:24,773 - INFO - Team #13968 Herberger Howlers done
+2025-03-05 10:06:25,616 - INFO - Team #5285 Robo Knights started
+2025-03-05 10:07:49,952 - INFO - Team #5285 Robo Knights done
+2025-03-05 10:07:51,030 - WARNING - No matches found for team #13099
+2025-03-05 10:07:52,073 - WARNING - No matches found for team #15031
+2025-03-05 10:07:52,889 - WARNING - No matches found for team #13305
+2025-03-05 10:07:54,131 - WARNING - No matches found for team #13293
+2025-03-05 10:07:56,800 - INFO - Team #10169 Mineola Manatees started
+2025-03-05 10:08:42,998 - INFO - Team #10169 Mineola Manatees done
+2025-03-05 10:08:45,179 - INFO - Team #5292 Red Storm Robotics-White started
+2025-03-05 10:09:49,936 - INFO - Team #5292 Red Storm Robotics-White done
+2025-03-05 10:09:51,030 - WARNING - No matches found for team #20304
+2025-03-05 10:09:52,100 - WARNING - No matches found for team #25988
+2025-03-05 10:09:52,886 - WARNING - No matches found for team #11890
+2025-03-05 10:09:54,492 - INFO - Team #9626 Hockabots started
+2025-03-05 10:12:23,674 - INFO - Team #9626 Hockabots done
+2025-03-05 10:12:26,499 - INFO - Team #26288 Clovis West started
+2025-03-05 10:12:52,038 - INFO - Team #26288 Clovis West done
+2025-03-05 10:12:52,890 - INFO - Team #24758 Robo-Cardinals started
+2025-03-05 10:13:14,061 - INFO - Team #24758 Robo-Cardinals done
+2025-03-05 10:13:15,334 - INFO - Team #25149 Incredibelles started
+2025-03-05 10:13:56,474 - INFO - Team #25149 Incredibelles done
+2025-03-05 10:13:58,183 - WARNING - No matches found for team #24832
+2025-03-05 10:13:59,969 - INFO - Team #26394 Mecha Minds started
+2025-03-05 10:15:18,253 - INFO - Team #26394 Mecha Minds done
+2025-03-05 10:15:19,827 - INFO - Team #10309 Jefferson TechnoHuskies started
+2025-03-05 10:16:23,685 - INFO - Team #10309 Jefferson TechnoHuskies done
+2025-03-05 10:16:24,824 - INFO - Team #5196 Robo Yetis started
+2025-03-05 10:17:56,470 - INFO - Team #5196 Robo Yetis done
+2025-03-05 10:17:58,181 - WARNING - No matches found for team #20374
+2025-03-05 10:17:59,937 - WARNING - No matches found for team #8291
+2025-03-05 10:18:00,795 - INFO - Team #22005 Bubbling Buffoons started
+2025-03-05 10:18:23,313 - ERROR - Error getting results for team #22005: 'np_opr'
+2025-03-05 10:18:23,317 - INFO - Team #22005 Bubbling Buffoons done
+2025-03-05 10:18:24,098 - INFO - Team #13895 Team Medusa started
+2025-03-05 10:21:10,376 - ERROR - Error getting results for team #13895: 'np_opr'
+2025-03-05 10:21:10,380 - INFO - Team #13895 Team Medusa done
+2025-03-05 10:21:14,445 - INFO - Team #15024 Cougarbots Bravo started
+2025-03-05 10:23:39,404 - ERROR - Error getting results for team #15024: 'np_opr'
+2025-03-05 10:23:39,406 - INFO - Team #15024 Cougarbots Bravo done
+2025-03-05 10:23:40,602 - WARNING - No matches found for team #24050
+2025-03-05 10:23:42,490 - INFO - Team #28232 MV roboPride2 started
+2025-03-05 10:24:16,709 - INFO - Team #28232 MV roboPride2 done
+2025-03-05 10:24:18,287 - INFO - Team #28218 Chaffey Tigers Orange - CJUHSD started
+2025-03-05 10:24:45,087 - INFO - Team #28218 Chaffey Tigers Orange - CJUHSD done
+2025-03-05 10:24:47,379 - INFO - Team #28325 The Dracos started
+2025-03-05 10:25:43,308 - ERROR - Error getting results for team #28325: 'np_opr'
+2025-03-05 10:25:43,313 - INFO - Team #28325 The Dracos done
+2025-03-05 10:25:45,117 - WARNING - No matches found for team #15159
+2025-03-05 10:25:47,368 - INFO - Team #11412 Green Stop Signs started
+2025-03-05 10:26:04,557 - ERROR - Error getting results for team #11412: 'np_opr'
+2025-03-05 10:26:04,561 - INFO - Team #11412 Green Stop Signs done
+2025-03-05 10:26:06,355 - INFO - Team #18147 The Imposters started
+2025-03-05 10:27:14,015 - ERROR - Error processing match 2425-FL-FLACM4-Q004-1 for team 18147: 'NoneType' object is not subscriptable
+2025-03-05 10:27:16,651 - ERROR - Error processing match 2425-FL-FLACM4-Q006-1 for team 18147: 'NoneType' object is not subscriptable
+2025-03-05 10:27:19,155 - ERROR - Error processing match 2425-FL-FLACM4-Q010-1 for team 18147: 'NoneType' object is not subscriptable
+2025-03-05 10:27:22,126 - ERROR - Error processing match 2425-FL-FLACM4-Q014-1 for team 18147: 'NoneType' object is not subscriptable
+2025-03-05 10:27:24,705 - ERROR - Error processing match 2425-FL-FLACM4-Q022-1 for team 18147: 'NoneType' object is not subscriptable
+2025-03-05 10:27:38,304 - ERROR - Error processing match 2425-FL-FLACM4-Q026-1 for team 18147: 'NoneType' object is not subscriptable
+2025-03-05 10:28:39,358 - ERROR - Error getting results for team #18147: 'np_opr'
+2025-03-05 10:28:39,362 - INFO - Team #18147 The Imposters done
+2025-03-05 10:28:39,834 - WARNING - No matches found for team #26645
+2025-03-05 10:28:40,901 - INFO - Team #19589 Falcons Robotics - Green started
+2025-03-05 10:30:42,999 - INFO - Team #19589 Falcons Robotics - Green done
+2025-03-05 10:30:45,387 - INFO - Team #15569 RoboRattlers Green started
+2025-03-05 10:32:54,562 - ERROR - Error getting results for team #15569: 'np_opr'
+2025-03-05 10:32:54,567 - INFO - Team #15569 RoboRattlers Green done
+2025-03-05 10:32:56,619 - INFO - Team #27396 Douglas Macarthur Girls' Leadership Academy (More Monarchs) started
+2025-03-05 10:33:04,217 - ERROR - Error processing match 2425-OH-CMSDM1-Q010-1 for team 27396: 'NoneType' object is not subscriptable
+2025-03-05 10:33:08,174 - ERROR - Error processing match 2425-OH-CMSDM1-Q013-1 for team 27396: 'NoneType' object is not subscriptable
+2025-03-05 10:33:14,051 - ERROR - Error processing match 2425-OH-CMSDM1-Q018-1 for team 27396: 'NoneType' object is not subscriptable
+2025-03-05 10:34:14,355 - ERROR - Error getting results for team #27396: 'np_opr'
+2025-03-05 10:34:14,358 - INFO - Team #27396 Douglas Macarthur Girls' Leadership Academy (More Monarchs) done
+2025-03-05 10:34:15,345 - WARNING - No matches found for team #24978
+2025-03-05 10:34:16,733 - INFO - Team #24579 Gonzaga Eagles Robotics started
+2025-03-05 10:34:58,494 - INFO - Team #24579 Gonzaga Eagles Robotics done
+2025-03-05 10:34:59,990 - INFO - Team #8942 Team Max started
+2025-03-05 10:36:05,954 - INFO - Team #8942 Team Max done
+2025-03-05 10:36:08,246 - WARNING - No matches found for team #20146
+2025-03-05 10:36:10,050 - INFO - Team #1138 Eagle Engineering started
+2025-03-05 10:37:54,761 - INFO - Team #1138 Eagle Engineering done
+2025-03-05 10:37:56,535 - WARNING - No matches found for team #22243
+2025-03-05 10:37:58,465 - INFO - Team #17181 Vibranium Vikings started
+2025-03-05 10:40:03,858 - ERROR - Error getting results for team #17181: 'np_opr'
+2025-03-05 10:40:03,862 - INFO - Team #17181 Vibranium Vikings done
+2025-03-05 10:40:04,403 - INFO - Team #27136 SHARK BOT Robotics started
+2025-03-05 10:41:08,214 - INFO - Team #27136 SHARK BOT Robotics done
+2025-03-05 10:41:10,314 - INFO - Team #9821 Girls of Steel Hopper started
+2025-03-05 10:41:23,701 - ERROR - Error processing match 2425-PA-GIS-Q024-1 for team 9821: 'NoneType' object is not subscriptable
+2025-03-05 10:41:26,876 - ERROR - Error processing match 2425-PA-GIS-Q034-1 for team 9821: 'NoneType' object is not subscriptable
+2025-03-05 10:42:58,158 - INFO - Team #9821 Girls of Steel Hopper done
+2025-03-05 10:42:59,926 - WARNING - No matches found for team #28528
+2025-03-05 10:43:00,832 - WARNING - No matches found for team #20889
+2025-03-05 10:43:01,756 - INFO - Team #20428 South Iredell High School - FUSE started
+2025-03-05 10:43:58,144 - INFO - Team #20428 South Iredell High School - FUSE done
+2025-03-05 10:43:59,944 - INFO - Team #27363 LOS A.R.I.E.S started
+2025-03-05 10:44:19,600 - INFO - Team #27363 LOS A.R.I.E.S done
+2025-03-05 10:44:21,000 - INFO - Team #15510 Pioneer Robotics 15510 started
+2025-03-05 10:45:05,093 - INFO - Team #15510 Pioneer Robotics 15510 done
+2025-03-05 10:45:08,027 - ERROR - Failed to retrieve data: 502
+2025-03-05 10:45:08,027 - WARNING - No matches found for team #8733
+2025-03-05 10:45:08,472 - WARNING - No matches found for team #22432
+2025-03-05 10:45:10,008 - WARNING - No matches found for team #15837
+2025-03-05 10:45:14,453 - INFO - Team #21900 MŌC Atronics started
+2025-03-05 10:45:58,122 - ERROR - Error processing match 2425-IA-TASM4-Q015-1 for team 21900: 'NoneType' object is not subscriptable
+2025-03-05 10:48:14,475 - ERROR - Error getting results for team #21900: 'np_opr'
+2025-03-05 10:48:14,478 - INFO - Team #21900 MŌC Atronics done
+2025-03-05 10:48:15,327 - WARNING - No matches found for team #24671
+2025-03-05 10:48:16,836 - INFO - Team #18438 Wolfpack Machina started
+2025-03-05 10:49:23,749 - INFO - Team #18438 Wolfpack Machina done
+2025-03-05 10:49:25,137 - INFO - Team #9849 The Small Fries started
+2025-03-05 10:51:18,593 - ERROR - Error getting results for team #9849: 'np_opr'
+2025-03-05 10:51:18,597 - INFO - Team #9849 The Small Fries done
+2025-03-05 10:51:19,757 - INFO - Team #14788 Tech Titans started
+2025-03-05 10:52:48,578 - INFO - Team #14788 Tech Titans done
+2025-03-05 10:52:50,014 - INFO - Team #19388 Metal Mavericks started
+2025-03-05 10:53:08,727 - ERROR - Error getting results for team #19388: 'np_opr'
+2025-03-05 10:53:08,731 - INFO - Team #19388 Metal Mavericks done
+2025-03-05 10:53:09,994 - WARNING - No matches found for team #26594
+2025-03-05 10:53:14,157 - INFO - Team #24100 TheInscrutabl3s started
+2025-03-05 10:54:58,695 - ERROR - Error getting results for team #24100: 'np_opr'
+2025-03-05 10:54:58,699 - INFO - Team #24100 TheInscrutabl3s done
+2025-03-05 10:55:00,015 - INFO - Team #8531 GA Bots started
+2025-03-05 10:56:14,364 - ERROR - Error getting results for team #8531: 'np_opr'
+2025-03-05 10:56:14,368 - INFO - Team #8531 GA Bots done
+2025-03-05 10:56:15,340 - WARNING - No matches found for team #27196
+2025-03-05 10:56:16,813 - INFO - Team #10836 STEMper Fi started
+2025-03-05 10:57:52,491 - INFO - Team #10836 STEMper Fi done
+2025-03-05 10:57:53,399 - WARNING - No matches found for team #14819
+2025-03-05 10:57:55,970 - INFO - Team #10255 RoboDux started
+2025-03-05 10:59:41,876 - INFO - Team #10255 RoboDux done
+2025-03-05 10:59:43,135 - INFO - Team #28118 Robo Stallions started
+2025-03-05 11:00:26,930 - INFO - Team #28118 Robo Stallions done
+2025-03-05 11:00:38,055 - WARNING - No matches found for team #22832
+2025-03-05 11:00:39,834 - WARNING - No matches found for team #27630
+2025-03-05 11:00:40,836 - WARNING - No matches found for team #25128
+2025-03-05 11:00:41,949 - WARNING - No matches found for team #25977
+2025-03-05 11:00:43,128 - INFO - Team #7253 Raging Robots started
+2025-03-05 11:00:58,438 - ERROR - Error processing match 2425-FIM-ROQ-Q040-1 for team 7253: 'NoneType' object is not subscriptable
+2025-03-05 11:02:00,206 - INFO - Team #7253 Raging Robots done
+2025-03-05 11:02:02,014 - INFO - Team #16489 Virtual North started
+2025-03-05 11:03:22,211 - INFO - Team #16489 Virtual North done
+2025-03-05 11:03:23,855 - INFO - Team #19978 Wolverines started
+2025-03-05 11:05:00,562 - ERROR - Error getting results for team #19978: 'np_opr'
+2025-03-05 11:05:00,566 - INFO - Team #19978 Wolverines done
+2025-03-05 11:05:02,279 - INFO - Team #5143 Xcentrics started
+2025-03-05 11:06:37,958 - ERROR - Error processing match 2425-IA-CRS1-Q008-1 for team 5143: 'NoneType' object is not subscriptable
+2025-03-05 11:06:40,720 - ERROR - Error processing match 2425-IA-CRS1-Q009-1 for team 5143: 'NoneType' object is not subscriptable
+2025-03-05 11:06:56,689 - ERROR - Error processing match 2425-IA-CRS2-Q008-1 for team 5143: 'NoneType' object is not subscriptable
+2025-03-05 11:06:58,995 - ERROR - Error processing match 2425-IA-CRS2-Q009-1 for team 5143: 'NoneType' object is not subscriptable
+2025-03-05 11:08:18,610 - ERROR - Error getting results for team #5143: 'np_opr'
+2025-03-05 11:08:18,614 - INFO - Team #5143 Xcentrics done
+2025-03-05 11:08:19,641 - INFO - Team #9725 Clockwork Cardinals started
+2025-03-05 11:09:01,899 - INFO - Team #9725 Clockwork Cardinals done
+2025-03-05 11:09:02,842 - WARNING - No matches found for team #15844
+2025-03-05 11:09:05,132 - INFO - Team #22614 Clute Robotics: Scorpion started
+2025-03-05 11:09:09,910 - ERROR - Error processing match 2425-TX-SM1-Q005-1 for team 22614: 'NoneType' object is not subscriptable
+2025-03-05 11:09:15,250 - ERROR - Error processing match 2425-TX-SM1-Q008-1 for team 22614: 'NoneType' object is not subscriptable
+2025-03-05 11:09:18,220 - ERROR - Error processing match 2425-TX-SM1-Q012-1 for team 22614: 'NoneType' object is not subscriptable
+2025-03-05 11:09:20,904 - ERROR - Error processing match 2425-TX-SM1-Q019-1 for team 22614: 'NoneType' object is not subscriptable
+2025-03-05 11:10:53,367 - INFO - Team #22614 Clute Robotics: Scorpion done
+2025-03-05 11:10:55,907 - WARNING - No matches found for team #27399
+2025-03-05 11:10:56,793 - WARNING - No matches found for team #18382
+2025-03-05 11:10:57,934 - INFO - Team #14707 Zero Logic started
+2025-03-05 11:12:04,412 - ERROR - Error processing match 2425-FL-FLACM4-Q005-1 for team 14707: 'NoneType' object is not subscriptable
+2025-03-05 11:12:07,956 - ERROR - Error processing match 2425-FL-FLACM4-Q008-1 for team 14707: 'NoneType' object is not subscriptable
+2025-03-05 11:12:09,912 - ERROR - Error processing match 2425-FL-FLACM4-Q013-1 for team 14707: 'NoneType' object is not subscriptable
+2025-03-05 11:12:15,259 - ERROR - Error processing match 2425-FL-FLACM4-Q018-1 for team 14707: 'NoneType' object is not subscriptable
+2025-03-05 11:12:18,212 - ERROR - Error processing match 2425-FL-FLACM4-Q022-1 for team 14707: 'NoneType' object is not subscriptable
+2025-03-05 11:12:20,916 - ERROR - Error processing match 2425-FL-FLACM4-Q027-1 for team 14707: 'NoneType' object is not subscriptable
+2025-03-05 11:12:50,340 - ERROR - Error getting results for team #14707: 'np_opr'
+2025-03-05 11:12:50,343 - INFO - Team #14707 Zero Logic done
+2025-03-05 11:12:52,610 - INFO - Team #21925 The Bearded Dragons started
+2025-03-05 11:14:38,470 - ERROR - Error getting results for team #21925: 'np_opr'
+2025-03-05 11:14:38,474 - INFO - Team #21925 The Bearded Dragons done
+2025-03-05 11:14:39,835 - WARNING - No matches found for team #17080
+2025-03-05 11:14:40,823 - INFO - Team #17725 Williamston Middle School RoboHornets started
+2025-03-05 11:15:01,885 - INFO - Team #17725 Williamston Middle School RoboHornets done
+2025-03-05 11:15:03,743 - INFO - Team #24297 Ghost Tigers started
+2025-03-05 11:16:27,153 - INFO - Team #24297 Ghost Tigers done
+2025-03-05 11:16:38,063 - WARNING - No matches found for team #19640
+2025-03-05 11:16:39,836 - WARNING - No matches found for team #27429
+2025-03-05 11:16:41,146 - INFO - Team #22083 Lefty Loosey started
+2025-03-05 11:19:17,066 - ERROR - Error getting results for team #22083: 'np_opr'
+2025-03-05 11:19:17,070 - INFO - Team #22083 Lefty Loosey done
+2025-03-05 11:19:18,365 - INFO - Team #25881 Moorhead Team 2 started
+2025-03-05 11:20:24,073 - ERROR - Error getting results for team #25881: 'np_opr'
+2025-03-05 11:20:24,077 - INFO - Team #25881 Moorhead Team 2 done
+2025-03-05 11:20:25,102 - INFO - Team #19417 Superstellar started
+2025-03-05 11:21:48,792 - INFO - Team #19417 Superstellar done
+2025-03-05 11:21:49,990 - WARNING - No matches found for team #18395
+2025-03-05 11:21:52,520 - WARNING - No matches found for team #24092
+2025-03-05 11:21:53,472 - INFO - Team #23802 Random Engineers started
+2025-03-05 11:23:16,726 - INFO - Team #23802 Random Engineers done
+2025-03-05 11:23:18,374 - INFO - Team #23381 The Marksmen started
+2025-03-05 11:25:03,343 - ERROR - Error getting results for team #23381: 'np_opr'
+2025-03-05 11:25:03,347 - INFO - Team #23381 The Marksmen done
+2025-03-05 11:25:04,508 - WARNING - No matches found for team #22336
+2025-03-05 11:25:05,949 - INFO - Team #8588 Finger Puppet Mafia started
+2025-03-05 11:27:22,513 - ERROR - Error getting results for team #8588: 'np_opr'
+2025-03-05 11:27:22,517 - INFO - Team #8588 Finger Puppet Mafia done
+2025-03-05 11:27:22,977 - WARNING - No matches found for team #24496
+2025-03-05 11:27:23,852 - INFO - Team #8109 RISE Robotics started
+2025-03-05 11:28:40,800 - INFO - Team #8109 RISE Robotics done
+2025-03-05 11:28:41,949 - INFO - Team #12399 Mechanical Devils started
+2025-03-05 11:29:01,135 - INFO - Team #12399 Mechanical Devils done
+2025-03-05 11:29:02,251 - INFO - Team #22420 Scranton TechnoPups Gray started
+2025-03-05 11:34:09,328 - ERROR - Error processing match 2425-FIM-HOQ-Q013-1 for team 22420: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-03-05 11:34:17,963 - INFO - Team #22420 Scranton TechnoPups Gray done
+2025-03-05 11:34:18,475 - INFO - Team #15471 Inferno started
+2025-03-05 11:35:22,236 - ERROR - Error getting results for team #15471: 'np_opr'
+2025-03-05 11:35:22,240 - INFO - Team #15471 Inferno done
+2025-03-05 11:35:23,110 - INFO - Team #13896 Team Battle Stallions started
+2025-03-05 11:38:16,852 - ERROR - Error getting results for team #13896: 'np_opr'
+2025-03-05 11:38:16,856 - INFO - Team #13896 Team Battle Stallions done
+2025-03-05 11:38:17,304 - INFO - Team #23095 B2 - Judgement Day started
+2025-03-05 11:38:21,131 - ERROR - Error getting results for team #23095: list index out of range
+2025-03-05 11:38:21,135 - INFO - Team #23095 B2 - Judgement Day done
+2025-03-05 11:38:21,648 - INFO - Team #12717 JagBotics started
+2025-03-05 11:39:22,736 - ERROR - Error getting results for team #12717: 'np_opr'
+2025-03-05 11:39:22,737 - INFO - Team #12717 JagBotics done
+2025-03-05 11:39:23,192 - INFO - Team #21320 Sentinel Bots started
+2025-03-05 11:40:15,938 - ERROR - Error getting results for team #21320: 'np_opr'
+2025-03-05 11:40:15,942 - INFO - Team #21320 Sentinel Bots done
+2025-03-05 11:40:16,456 - INFO - Team #13334 Spence Light Sabers started
+2025-03-05 11:41:25,460 - INFO - Team #13334 Spence Light Sabers done
+2025-03-05 11:41:26,431 - INFO - Team #13032 Ant Colony started
+2025-03-05 11:43:19,246 - ERROR - Error getting results for team #13032: 'np_opr'
+2025-03-05 11:43:19,251 - INFO - Team #13032 Ant Colony done
+2025-03-05 11:43:19,953 - INFO - Team #14226 Ironic started
+2025-03-05 11:45:18,002 - ERROR - Error getting results for team #14226: 'np_opr'
+2025-03-05 11:45:18,005 - INFO - Team #14226 Ironic done
+2025-03-05 11:45:18,524 - INFO - Team #23892 Waffle Warriors started
+2025-03-05 11:46:29,618 - INFO - Team #23892 Waffle Warriors done
+2025-03-05 11:46:30,124 - WARNING - No matches found for team #18520
+2025-03-05 11:46:30,642 - INFO - Team #23666 Looney Hawks started
+2025-03-05 11:48:14,346 - ERROR - Error getting results for team #23666: 'np_opr'
+2025-03-05 11:48:14,350 - INFO - Team #23666 Looney Hawks done
+2025-03-05 11:48:14,975 - WARNING - No matches found for team #10276
+2025-03-05 11:48:15,888 - INFO - Team #27352 Dapper Ducks started
+2025-03-05 11:49:20,507 - ERROR - Error getting results for team #27352: 'np_opr'
+2025-03-05 11:49:20,511 - INFO - Team #27352 Dapper Ducks done
+2025-03-05 11:49:21,053 - INFO - Team #21239 All Systems Go started
+2025-03-05 11:50:23,595 - INFO - Team #21239 All Systems Go done
+2025-03-05 11:50:24,051 - WARNING - No matches found for team #20196
+2025-03-05 11:50:24,519 - WARNING - No matches found for team #15886
+2025-03-05 11:50:25,248 - INFO - Team #16367 Krypton Warriors started
+2025-03-05 11:52:25,735 - ERROR - Error getting results for team #16367: 'np_opr'
+2025-03-05 11:52:25,739 - INFO - Team #16367 Krypton Warriors done
+2025-03-05 11:52:26,189 - INFO - Team #11434 JagWires started
+2025-03-05 11:54:19,040 - ERROR - Error getting results for team #11434: 'np_opr'
+2025-03-05 11:54:19,044 - INFO - Team #11434 JagWires done
+2025-03-05 11:54:21,957 - INFO - Team #26869 Blue Top Hats started
+2025-03-05 11:55:15,308 - ERROR - Error getting results for team #26869: 'np_opr'
+2025-03-05 11:55:15,313 - INFO - Team #26869 Blue Top Hats done
+2025-03-05 11:55:15,839 - INFO - Team #16010 CrashOuts started
+2025-03-05 11:56:28,988 - INFO - Team #16010 CrashOuts done
+2025-03-05 11:56:29,453 - WARNING - No matches found for team #21965
+2025-03-05 11:56:29,994 - INFO - Team #20177 High Velocity started
+2025-03-05 11:58:16,389 - ERROR - Error getting results for team #20177: 'np_opr'
+2025-03-05 11:58:16,393 - INFO - Team #20177 High Velocity done
+2025-03-05 11:58:17,026 - WARNING - No matches found for team #22000
+2025-03-05 11:58:18,706 - WARNING - No matches found for team #11547
+2025-03-05 11:58:21,979 - INFO - Team #10982 Ulrich Robotics started
+2025-03-05 11:58:32,044 - ERROR - Error getting results for team #10982: 'np_opr'
+2025-03-05 11:58:32,048 - INFO - Team #10982 Ulrich Robotics done
+2025-03-05 11:58:32,499 - INFO - Team #27975 Gardena started
+2025-03-05 11:59:22,856 - INFO - Team #27975 Gardena done
+2025-03-05 11:59:23,833 - WARNING - No matches found for team #14087
+2025-03-05 11:59:24,359 - INFO - Team #23537 Itkan MARVELS of MAS Katy Robotics started
+2025-03-05 12:00:30,833 - INFO - Team #23537 Itkan MARVELS of MAS Katy Robotics done
+2025-03-05 12:00:31,303 - WARNING - No matches found for team #23395
+2025-03-05 12:00:31,860 - INFO - Team #17239 BeachBots started
+2025-03-05 12:02:27,550 - INFO - Team #17239 BeachBots done
+2025-03-05 12:02:28,022 - WARNING - No matches found for team #22633
+2025-03-05 12:02:28,482 - INFO - Team #11246 Victor FTC Team 2 started
+2025-03-05 12:02:36,410 - INFO - Team #11246 Victor FTC Team 2 done
+2025-03-05 12:02:36,869 - INFO - Team #27284 Here Be Dragons started
+2025-03-05 12:03:30,133 - ERROR - Error getting results for team #27284: 'np_opr'
+2025-03-05 12:03:30,136 - INFO - Team #27284 Here Be Dragons done
+2025-03-05 12:03:30,609 - WARNING - No matches found for team #14709
+2025-03-05 12:03:31,080 - WARNING - No matches found for team #9445
+2025-03-05 12:03:31,623 - INFO - Team #26868 SCH FTC The Pride started
+2025-03-05 12:04:27,963 - INFO - Team #26868 SCH FTC The Pride done
+2025-03-05 12:04:28,493 - INFO - Team #18978 SemiPlatinum Penguins started
+2025-03-05 12:06:16,976 - INFO - Team #18978 SemiPlatinum Penguins done
+2025-03-05 12:06:18,777 - WARNING - No matches found for team #24437
+2025-03-05 12:06:22,062 - INFO - Team #22857 Mechanical Mustangs Citation started
+2025-03-05 12:07:40,042 - ERROR - Error getting results for team #22857: 'np_opr'
+2025-03-05 12:07:40,045 - INFO - Team #22857 Mechanical Mustangs Citation done
+2025-03-05 12:07:40,501 - INFO - Team #26521 Canned Fish started
+2025-03-05 12:08:24,587 - ERROR - Error getting results for team #26521: list index out of range
+2025-03-05 12:08:24,592 - INFO - Team #26521 Canned Fish done
+2025-03-05 12:08:25,679 - WARNING - No matches found for team #22506
+2025-03-05 12:08:29,867 - WARNING - No matches found for team #24674
+2025-03-05 12:08:30,324 - INFO - Team #15399 Blue Steel - Shepherd MS Robotics started
+2025-03-05 12:08:35,072 - INFO - Team #15399 Blue Steel - Shepherd MS Robotics done
+2025-03-05 12:08:35,594 - INFO - Team #26103 Innovation High School CyberWolves started
+2025-03-05 12:09:34,682 - ERROR - Error getting results for team #26103: 'np_opr'
+2025-03-05 12:09:34,686 - INFO - Team #26103 Innovation High School CyberWolves done
+2025-03-05 12:09:35,142 - INFO - Team #27496 Team New Mark started
+2025-03-05 12:10:09,706 - ERROR - Error processing match 2425-CA-LAS3-Q020-1 for team 27496: 'NoneType' object is not subscriptable
+2025-03-05 12:10:13,983 - ERROR - Error processing match 2425-CA-LAS3-Q024-1 for team 27496: 'NoneType' object is not subscriptable
+2025-03-05 12:10:15,770 - INFO - Team #27496 Team New Mark done
+2025-03-05 12:10:17,017 - WARNING - No matches found for team #28422
+2025-03-05 12:10:18,686 - WARNING - No matches found for team #14369
+2025-03-05 12:10:21,993 - WARNING - No matches found for team #14223
+2025-03-05 12:10:22,901 - WARNING - No matches found for team #20900
+2025-03-05 12:10:24,298 - WARNING - No matches found for team #28447
+2025-03-05 12:10:24,823 - INFO - Team #23913 Circuit Surfers started
+2025-03-05 12:11:31,433 - ERROR - Error getting results for team #23913: 'np_opr'
+2025-03-05 12:11:31,437 - INFO - Team #23913 Circuit Surfers done
+2025-03-05 12:11:31,894 - WARNING - No matches found for team #22469
+2025-03-05 12:11:32,355 - INFO - Team #20241 Roaring Robotics started
+2025-03-05 12:12:16,977 - INFO - Team #20241 Roaring Robotics done
+2025-03-05 12:12:18,782 - INFO - Team #28289 Digital Lions started
+2025-03-05 12:12:34,319 - INFO - Team #28289 Digital Lions done
+2025-03-05 12:12:34,777 - WARNING - No matches found for team #22425
+2025-03-05 12:12:35,301 - INFO - Team #24077 MechRobots started
+2025-03-05 12:14:25,006 - INFO - Team #24077 MechRobots done
+2025-03-05 12:14:25,686 - WARNING - No matches found for team #10670
+2025-03-05 12:14:29,914 - WARNING - No matches found for team #10532
+2025-03-05 12:14:30,787 - WARNING - No matches found for team #26633
+2025-03-05 12:14:31,698 - INFO - Team #18898 spare_parts started
+2025-03-05 12:14:37,120 - INFO - Team #18898 spare_parts done
+2025-03-05 12:14:37,645 - INFO - Team #23964 Broken Transmission started
+2025-03-05 12:16:35,189 - INFO - Team #23964 Broken Transmission done
+2025-03-05 12:16:36,112 - INFO - Team #24538 CoyoteBOTS started
+2025-03-05 12:17:34,706 - ERROR - Error getting results for team #24538: 'np_opr'
+2025-03-05 12:17:34,711 - INFO - Team #24538 CoyoteBOTS done
+2025-03-05 12:17:35,238 - WARNING - No matches found for team #22088
+2025-03-05 12:17:35,680 - WARNING - No matches found for team #17066
+2025-03-05 12:17:36,817 - INFO - Team #14375 We Over Slept started
+2025-03-05 12:19:40,734 - ERROR - Error getting results for team #14375: 'np_opr'
+2025-03-05 12:19:40,737 - INFO - Team #14375 We Over Slept done
+2025-03-05 12:20:09,859 - INFO - Team #19420 Travis Crab Bots started
+2025-03-05 12:20:15,719 - ERROR - Error processing match 2425-TX-SM1-Q005-1 for team 19420: 'NoneType' object is not subscriptable
+2025-03-05 12:20:18,609 - ERROR - Error processing match 2425-TX-SM1-Q010-1 for team 19420: 'NoneType' object is not subscriptable
+2025-03-05 12:20:22,800 - ERROR - Error processing match 2425-TX-SM1-Q014-1 for team 19420: 'NoneType' object is not subscriptable
+2025-03-05 12:20:25,404 - ERROR - Error processing match 2425-TX-SM1-Q018-1 for team 19420: 'NoneType' object is not subscriptable
+2025-03-05 12:21:24,252 - INFO - Team #19420 Travis Crab Bots done
+2025-03-05 12:21:25,092 - INFO - Team #22334 Four Niners started
+2025-03-05 12:22:34,875 - INFO - Team #22334 Four Niners done
+2025-03-05 12:22:35,322 - INFO - Team #28920 ITKAN Stars started
+2025-03-05 12:22:42,437 - INFO - Team #28920 ITKAN Stars done
+2025-03-05 12:23:09,851 - INFO - Team #20676 Ogden JV started
+2025-03-05 12:24:33,919 - ERROR - Error getting results for team #20676: 'np_opr'
+2025-03-05 12:24:33,922 - INFO - Team #20676 Ogden JV done
+2025-03-05 12:24:34,906 - WARNING - No matches found for team #8375
+2025-03-05 12:24:35,404 - INFO - Team #26022 OctoSquad started
+2025-03-05 12:26:22,851 - INFO - Team #26022 OctoSquad done
+2025-03-05 12:26:24,357 - INFO - Team #16113 Omega Squad started
+2025-03-05 12:27:31,633 - INFO - Team #16113 Omega Squad done
+2025-03-05 12:27:32,652 - INFO - Team #13462 Digital Owls started
+2025-03-05 12:28:36,324 - INFO - Team #13462 Digital Owls done
+2025-03-05 12:28:36,763 - INFO - Team #27567 Mountain Trail Avengers started
+2025-03-05 12:29:14,155 - INFO - Team #27567 Mountain Trail Avengers done
+2025-03-05 12:29:14,988 - INFO - Team #251 Mech-alodons started
+2025-03-05 12:29:40,163 - ERROR - Error getting results for team #251: 'np_opr'
+2025-03-05 12:29:40,167 - INFO - Team #251 Mech-alodons done
+2025-03-05 12:29:40,626 - INFO - Team #7900 Dark Knights started
+2025-03-05 12:30:35,894 - INFO - Team #7900 Dark Knights done
+2025-03-05 12:30:36,857 - INFO - Team #3861 Vashon Pi-r8s \"Pirates\" started
+2025-03-05 12:31:42,756 - INFO - Team #3861 Vashon Pi-r8s \"Pirates\" done
+2025-03-05 12:31:43,408 - INFO - Team #26358 Dark Energy started
+2025-03-05 12:32:29,836 - INFO - Team #26358 Dark Energy done
+2025-03-05 12:32:30,850 - WARNING - No matches found for team #27707
+2025-03-05 12:32:31,698 - WARNING - No matches found for team #22843
+2025-03-05 12:32:33,355 - INFO - Team #28036 Avondale RoboJackets [43] started
+2025-03-05 12:33:43,765 - ERROR - Error getting results for team #28036: 'np_opr'
+2025-03-05 12:33:43,769 - INFO - Team #28036 Avondale RoboJackets [43] done
+2025-03-05 12:33:44,270 - INFO - Team #13084 Robot Raiders started
+2025-03-05 12:35:22,823 - ERROR - Error getting results for team #13084: 'np_opr'
+2025-03-05 12:35:22,826 - INFO - Team #13084 Robot Raiders done
+2025-03-05 12:35:23,283 - WARNING - No matches found for team #21314
+2025-03-05 12:35:25,004 - WARNING - No matches found for team #19032
+2025-03-05 12:35:26,424 - INFO - Team #24836 Gentoo started
+2025-03-05 12:36:14,955 - INFO - Team #24836 Gentoo done
+2025-03-05 12:36:15,804 - INFO - Team #16704 Nano Hornets started
+2025-03-05 12:36:34,362 - INFO - Team #16704 Nano Hornets done
+2025-03-05 12:36:34,933 - INFO - Team #27834 Centerville Robotics started
+2025-03-05 12:37:18,736 - INFO - Team #27834 Centerville Robotics done
+2025-03-05 12:37:21,988 - WARNING - No matches found for team #21949
+2025-03-05 12:37:23,288 - WARNING - No matches found for team #25206
+2025-03-05 12:37:25,077 - INFO - Team #22618 MS Robotics Artemis started
+2025-03-05 12:38:23,272 - INFO - Team #22618 MS Robotics Artemis done
+2025-03-05 12:38:25,073 - INFO - Team #27651 'Lectric Limes started
+2025-03-05 12:39:45,016 - ERROR - Error getting results for team #27651: 'np_opr'
+2025-03-05 12:39:45,020 - INFO - Team #27651 'Lectric Limes done
+2025-03-05 12:39:45,548 - INFO - Team #12629 Stingbotics started
+2025-03-05 12:40:43,931 - INFO - Team #12629 Stingbotics done
+2025-03-05 12:40:44,455 - INFO - Team #16742 Jr.  Byting Bulldogs started
+2025-03-05 12:42:18,676 - INFO - Team #16742 Jr.  Byting Bulldogs done
+2025-03-05 12:42:21,989 - WARNING - No matches found for team #21627
+2025-03-05 12:42:23,289 - INFO - Team #24625 HYDRA started
+2025-03-05 12:42:42,588 - INFO - Team #24625 HYDRA done
+2025-03-05 12:42:44,032 - INFO - Team #14672 μicro μilitia started
+2025-03-05 12:43:13,993 - ERROR - Error processing match 2425-MN-VRM1-Q010-1 for team 14672: 'NoneType' object is not subscriptable
+2025-03-05 12:43:15,731 - ERROR - Error processing match 2425-MN-VRM1-Q013-1 for team 14672: 'NoneType' object is not subscriptable
+2025-03-05 12:43:18,632 - ERROR - Error processing match 2425-MN-VRM1-Q018-1 for team 14672: 'NoneType' object is not subscriptable
+2025-03-05 12:43:23,204 - ERROR - Error processing match 2425-MN-VRM1-Q022-1 for team 14672: 'NoneType' object is not subscriptable
+2025-03-05 12:44:32,025 - ERROR - Error getting results for team #14672: 'np_opr'
+2025-03-05 12:44:32,028 - INFO - Team #14672 μicro μilitia done
+2025-03-05 12:44:33,332 - INFO - Team #11561 The Headless Horsemen started
+2025-03-05 12:45:34,353 - INFO - Team #11561 The Headless Horsemen done
+2025-03-05 12:45:35,004 - INFO - Team #5498 Cougarobotics Omega started
+2025-03-05 12:47:23,701 - ERROR - Error getting results for team #5498: 'np_opr'
+2025-03-05 12:47:23,706 - INFO - Team #5498 Cougarobotics Omega done
+2025-03-05 12:47:25,295 - INFO - Team #10415 Warbots started
+2025-03-05 12:49:27,151 - INFO - Team #10415 Warbots done
+2025-03-05 12:49:29,883 - WARNING - No matches found for team #22626
+2025-03-05 12:49:30,793 - WARNING - No matches found for team #19710
+2025-03-05 12:49:31,742 - INFO - Team #14417 TryHard Robotics started
+2025-03-05 12:50:30,105 - ERROR - Error getting results for team #14417: 'np_opr'
+2025-03-05 12:50:30,108 - INFO - Team #14417 TryHard Robotics done
+2025-03-05 12:50:30,763 - WARNING - No matches found for team #22220
+2025-03-05 12:50:31,757 - INFO - Team #607 Dragoneers started
+2025-03-05 12:51:33,197 - INFO - Team #607 Dragoneers done
+2025-03-05 12:51:34,385 - WARNING - No matches found for team #22500
+2025-03-05 12:51:35,240 - INFO - Team #23466 The Howlers started
+2025-03-05 12:52:33,734 - ERROR - Error getting results for team #23466: 'np_opr'
+2025-03-05 12:52:33,738 - INFO - Team #23466 The Howlers done
+2025-03-05 12:52:34,649 - INFO - Team #5975 CYBOTS? started
+2025-03-05 12:54:46,121 - ERROR - Error getting results for team #5975: 'np_opr'
+2025-03-05 12:54:46,125 - INFO - Team #5975 CYBOTS? done
+2025-03-05 12:54:46,703 - INFO - Team #12099 Stars of the Galaxy started
+2025-03-05 12:55:52,309 - INFO - Team #12099 Stars of the Galaxy done
+2025-03-05 12:55:52,987 - INFO - Team #22266 Poseidon started
+2025-03-05 12:57:52,899 - ERROR - Error getting results for team #22266: 'np_opr'
+2025-03-05 12:57:52,903 - INFO - Team #22266 Poseidon done
+2025-03-05 12:57:53,355 - WARNING - No matches found for team #20282
+2025-03-05 12:57:54,078 - INFO - Team #13744 Enginerds started
+2025-03-05 12:59:46,289 - INFO - Team #13744 Enginerds done
+2025-03-05 12:59:46,743 - WARNING - No matches found for team #22604
+2025-03-05 12:59:50,711 - WARNING - No matches found for team #21895
+2025-03-05 12:59:51,685 - WARNING - No matches found for team #24355
+2025-03-05 12:59:52,565 - WARNING - No matches found for team #4531
+2025-03-05 12:59:53,342 - WARNING - No matches found for team #19646
+2025-03-05 12:59:53,812 - WARNING - No matches found for team #27671
+2025-03-05 12:59:54,799 - INFO - Team #12857 Phantom started
+2025-03-05 13:02:12,252 - INFO - Team #12857 Phantom done
+2025-03-05 13:02:14,262 - WARNING - No matches found for team #25621
+2025-03-05 13:02:15,530 - WARNING - No matches found for team #4326
+2025-03-05 13:02:16,047 - INFO - Team #27517 Raging Reginalds started
+2025-03-05 13:03:45,185 - ERROR - Error getting results for team #27517: 'np_opr'
+2025-03-05 13:03:45,190 - INFO - Team #27517 Raging Reginalds done
+2025-03-05 13:03:46,340 - WARNING - No matches found for team #20513
+2025-03-05 13:03:46,818 - WARNING - No matches found for team #11613
+2025-03-05 13:03:50,833 - INFO - Team #11392 Defenestration started
+2025-03-05 13:05:30,938 - INFO - Team #11392 Defenestration done
+2025-03-05 13:05:31,709 - WARNING - No matches found for team #22265
+2025-03-05 13:05:33,786 - INFO - Team #21324 Hackin Hounds started
+2025-03-05 13:05:46,275 - ERROR - Error processing match 2425-PA-KSS-Q025-1 for team 21324: 'NoneType' object is not subscriptable
+2025-03-05 13:06:47,657 - INFO - Team #21324 Hackin Hounds done
+2025-03-05 13:06:51,014 - INFO - Team #7129 Robo Raiders started
+2025-03-05 13:08:46,299 - INFO - Team #7129 Robo Raiders done
+2025-03-05 13:08:47,938 - INFO - Team #516 Gears of Fire started
+2025-03-05 13:10:52,961 - ERROR - Error getting results for team #516: 'np_opr'
+2025-03-05 13:10:52,965 - INFO - Team #516 Gears of Fire done
+2025-03-05 13:10:53,931 - INFO - Team #19782 Hart Robotics started
+2025-03-05 13:11:36,907 - ERROR - Error processing match 2425-TX-AMS-Q030-1 for team 19782: 'NoneType' object is not subscriptable
+2025-03-05 13:11:40,117 - ERROR - Error processing match 2425-TX-AMS-Q037-1 for team 19782: 'NoneType' object is not subscriptable
+2025-03-05 13:13:12,468 - INFO - Team #19782 Hart Robotics done
+2025-03-05 13:13:14,088 - WARNING - No matches found for team #15488
+2025-03-05 13:13:15,091 - INFO - Team #23535 Tolland County 4-H Titans started
+2025-03-05 13:14:47,645 - INFO - Team #23535 Tolland County 4-H Titans done
+2025-03-05 13:14:50,718 - WARNING - No matches found for team #21667
+2025-03-05 13:14:51,742 - INFO - Team #27929 Fast Charter Team 3 - STEM Snails started
+2025-03-05 13:16:18,692 - INFO - Team #27929 Fast Charter Team 3 - STEM Snails done
+2025-03-05 13:16:22,252 - WARNING - No matches found for team #28662
+2025-03-05 13:16:23,297 - WARNING - No matches found for team #26904
+2025-03-05 13:16:25,060 - INFO - Team #17190 MPHS  P.P.R.  (Pretty Purple Robot) started
+2025-03-05 13:17:26,739 - INFO - Team #17190 MPHS  P.P.R.  (Pretty Purple Robot) done
+2025-03-05 13:17:27,211 - WARNING - No matches found for team #19851
+2025-03-05 13:17:29,923 - INFO - Team #5159 X-bots started
+2025-03-05 13:17:44,221 - ERROR - Error getting results for team #5159: 'np_opr'
+2025-03-05 13:17:44,224 - INFO - Team #5159 X-bots done
+2025-03-05 13:17:44,887 - INFO - Team #21332 Cardinal Coders started
+2025-03-05 13:18:35,136 - INFO - Team #21332 Cardinal Coders done
+2025-03-05 13:18:35,921 - INFO - Team #24015 BOTCAVE started
+2025-03-05 13:19:19,053 - ERROR - Error getting results for team #24015: 'np_opr'
+2025-03-05 13:19:19,057 - INFO - Team #24015 BOTCAVE done
+2025-03-05 13:19:22,074 - INFO - Team #27506 Wired Wildcats started
+2025-03-05 13:20:12,615 - ERROR - Error getting results for team #27506: 'np_opr'
+2025-03-05 13:20:12,617 - INFO - Team #27506 Wired Wildcats done
+2025-03-05 13:20:16,304 - INFO - Team #11344 Merritt Oilers started
+2025-03-05 13:21:43,222 - ERROR - Error getting results for team #11344: 'np_opr'
+2025-03-05 13:21:43,226 - INFO - Team #11344 Merritt Oilers done
+2025-03-05 13:21:43,977 - INFO - Team #26511 Crusader Robo Engineers started
+2025-03-05 13:22:17,056 - ERROR - Error getting results for team #26511: 'np_opr'
+2025-03-05 13:22:17,061 - INFO - Team #26511 Crusader Robo Engineers done
+2025-03-05 13:22:17,534 - INFO - Team #26714 Pantherbots started
+2025-03-05 13:22:47,660 - INFO - Team #26714 Pantherbots done
+2025-03-05 13:22:50,785 - INFO - Team #22261 Hornet Blue started
+2025-03-05 13:24:19,275 - ERROR - Error getting results for team #22261: 'np_opr'
+2025-03-05 13:24:19,279 - INFO - Team #22261 Hornet Blue done
+2025-03-05 13:24:22,000 - INFO - Team #22759 CMPD RoboCops 2.0 started
+2025-03-05 13:24:52,545 - INFO - Team #22759 CMPD RoboCops 2.0 done
+2025-03-05 13:24:53,744 - INFO - Team #21027 AHS Robotics started
+2025-03-05 13:25:45,530 - ERROR - Error getting results for team #21027: 'np_opr'
+2025-03-05 13:25:45,531 - INFO - Team #21027 AHS Robotics done
+2025-03-05 13:25:46,359 - WARNING - No matches found for team #21471
+2025-03-05 13:25:47,700 - WARNING - No matches found for team #20005
+2025-03-05 13:25:50,720 - WARNING - No matches found for team #18599
+2025-03-05 13:25:51,679 - WARNING - No matches found for team #18627
+2025-03-05 13:25:52,589 - WARNING - No matches found for team #8610
+2025-03-05 13:25:53,675 - WARNING - No matches found for team #14026
+2025-03-05 13:25:54,877 - INFO - Team #5108 Amish Electricians started
+2025-03-05 13:28:27,600 - ERROR - Error getting results for team #5108: 'np_opr'
+2025-03-05 13:28:27,604 - INFO - Team #5108 Amish Electricians done
+2025-03-05 13:28:29,896 - WARNING - No matches found for team #20013
+2025-03-05 13:28:30,988 - INFO - Team #24288 BeaverBots started
+2025-03-05 13:29:21,368 - INFO - Team #24288 BeaverBots done
+2025-03-05 13:29:22,361 - INFO - Team #14172 Disco Duckbots started
+2025-03-05 13:32:19,843 - ERROR - Error getting results for team #14172: 'np_opr'
+2025-03-05 13:32:19,848 - INFO - Team #14172 Disco Duckbots done
+2025-03-05 13:32:21,990 - INFO - Team #21618 Circuit Breakers 4-H Robotics started
+2025-03-05 13:32:44,961 - INFO - Team #21618 Circuit Breakers 4-H Robotics done
+2025-03-05 13:32:46,372 - WARNING - No matches found for team #20430
+2025-03-05 13:32:47,698 - WARNING - No matches found for team #24505
+2025-03-05 13:32:50,725 - WARNING - No matches found for team #20051
+2025-03-05 13:32:51,744 - INFO - Team #18697 Monke Bang Rock started
+2025-03-05 13:34:29,845 - INFO - Team #18697 Monke Bang Rock done
+2025-03-05 13:34:30,972 - INFO - Team #25823 Gear Gladiators started
+2025-03-05 13:34:46,334 - INFO - Team #25823 Gear Gladiators done
+2025-03-05 13:34:47,784 - INFO - Team #13908 B.O.B. started
+2025-03-05 13:36:26,292 - INFO - Team #13908 B.O.B. done
+2025-03-05 13:36:27,230 - WARNING - No matches found for team #24013
+2025-03-05 13:36:29,980 - INFO - Team #15356 BEASTBOTZ started
+2025-03-05 13:37:40,161 - INFO - Team #15356 BEASTBOTZ done
+2025-03-05 13:37:42,659 - WARNING - No matches found for team #23868
+2025-03-05 13:37:44,047 - INFO - Team #21692 SME Knights started
+2025-03-05 13:39:22,655 - ERROR - Error getting results for team #21692: 'np_opr'
+2025-03-05 13:39:22,658 - INFO - Team #21692 SME Knights done
+2025-03-05 13:39:23,128 - WARNING - No matches found for team #12721
+2025-03-05 13:39:23,672 - INFO - Team #25795 Architechs started
+2025-03-05 13:40:23,558 - INFO - Team #25795 Architechs done
+2025-03-05 13:40:24,103 - INFO - Team #26411 Royal Robotics started
+2025-03-05 13:41:50,697 - INFO - Team #26411 Royal Robotics done
+2025-03-05 13:41:51,684 - WARNING - No matches found for team #22286
+2025-03-05 13:41:52,676 - INFO - Team #23305 Creative Minds started
+2025-03-05 13:43:30,938 - INFO - Team #23305 Creative Minds done
+2025-03-05 13:43:32,347 - INFO - Team #23776 Lab Rats started
+2025-03-05 13:45:14,065 - INFO - Team #23776 Lab Rats done
+2025-03-05 13:45:16,782 - INFO - Team #22534 The Function Machine started
+2025-03-05 13:45:50,696 - INFO - Team #22534 The Function Machine done
+2025-03-05 13:45:51,803 - INFO - Team #8535 Shark Bytes started
+2025-03-05 13:46:55,016 - INFO - Team #8535 Shark Bytes done
+2025-03-05 13:46:55,672 - INFO - Team #27583 Avondale RoboJackets [34] started
+2025-03-05 13:48:37,187 - ERROR - Error getting results for team #27583: 'np_opr'
+2025-03-05 13:48:37,190 - INFO - Team #27583 Avondale RoboJackets [34] done
+2025-03-05 13:48:39,403 - INFO - Team #23479 Red Dragon Robotics started
+2025-03-05 13:49:36,115 - ERROR - Error getting results for team #23479: 'np_opr'
+2025-03-05 13:49:36,120 - INFO - Team #23479 Red Dragon Robotics done
+2025-03-05 13:49:37,163 - INFO - Team #24586 Tulip Tech started
+2025-03-05 13:50:26,842 - ERROR - Error processing match 2425-IA-TASM4-Q016-1 for team 24586: 'NoneType' object is not subscriptable
+2025-03-05 13:52:33,629 - ERROR - Error getting results for team #24586: 'np_opr'
+2025-03-05 13:52:33,632 - INFO - Team #24586 Tulip Tech done
+2025-03-05 13:52:34,755 - INFO - Team #18227 Area 52 started
+2025-03-05 13:54:56,678 - INFO - Team #18227 Area 52 done
+2025-03-05 13:55:09,896 - INFO - Team #25677 Robo Genies started
+2025-03-05 13:56:24,839 - ERROR - Error getting results for team #25677: 'np_opr'
+2025-03-05 13:56:24,843 - INFO - Team #25677 Robo Genies done
+2025-03-05 13:56:26,018 - INFO - Team #40 HAX Robotics started
+2025-03-05 13:57:26,900 - INFO - Team #40 HAX Robotics done
+2025-03-05 13:57:28,106 - INFO - Team #4193 Those Guys started
+2025-03-05 13:59:18,123 - ERROR - Error getting results for team #4193: 'np_opr'
+2025-03-05 13:59:18,127 - INFO - Team #4193 Those Guys done
+2025-03-05 13:59:19,392 - INFO - Team #6037 W.A.G.S. (We Are Girl Scouts) Robotics started
+2025-03-05 13:59:52,650 - ERROR - Error getting results for team #6037: 'np_opr'
+2025-03-05 13:59:52,654 - INFO - Team #6037 W.A.G.S. (We Are Girl Scouts) Robotics done
+2025-03-05 13:59:53,191 - INFO - Team #8129 Sons of Liberty started
+2025-03-05 14:00:47,663 - INFO - Team #8129 Sons of Liberty done
+2025-03-05 14:00:50,796 - INFO - Team #18445 BinaryBots started
+2025-03-05 14:02:25,970 - INFO - Team #18445 BinaryBots done
+2025-03-05 14:02:26,999 - INFO - Team #16668 4-Gear Clovers started
+2025-03-05 14:03:19,338 - INFO - Team #16668 4-Gear Clovers done
+2025-03-05 14:03:21,482 - INFO - Team #19452 Robocats started
+2025-03-05 14:04:32,588 - ERROR - Error getting results for team #19452: 'np_opr'
+2025-03-05 14:04:32,591 - INFO - Team #19452 Robocats done
+2025-03-05 14:04:35,623 - INFO - Team #20749 The LHS Hive started
+2025-03-05 14:04:50,670 - INFO - Team #20749 The LHS Hive done
+2025-03-05 14:04:51,752 - INFO - Team #24679 JC Wright Panthers started
+2025-03-05 14:05:43,937 - INFO - Team #24679 JC Wright Panthers done
+2025-03-05 14:05:44,962 - INFO - Team #5158 T.I.T.A.N.S. started
+2025-03-05 14:06:45,293 - ERROR - Error getting results for team #5158: 'np_opr'
+2025-03-05 14:06:45,297 - INFO - Team #5158 T.I.T.A.N.S. done
+2025-03-05 14:06:46,367 - INFO - Team #27670 Take 2 started
+2025-03-05 14:07:25,921 - ERROR - Error getting results for team #27670: list index out of range
+2025-03-05 14:07:25,925 - INFO - Team #27670 Take 2 done
+2025-03-05 14:07:26,914 - INFO - Team #6221 Panther Bots Alpha started
+2025-03-05 14:08:45,161 - ERROR - Error getting results for team #6221: 'np_opr'
+2025-03-05 14:08:45,162 - INFO - Team #6221 Panther Bots Alpha done
+2025-03-05 14:08:46,640 - INFO - Team #21386 Tx-Rx started
+2025-03-05 14:10:39,515 - INFO - Team #21386 Tx-Rx done
+2025-03-05 14:10:39,972 - INFO - Team #7988 Control Alt Defeat started
+2025-03-05 14:11:25,982 - INFO - Team #7988 Control Alt Defeat done
+2025-03-05 14:11:27,224 - INFO - Team #23762 APERTURE ROBOTICS started
+2025-03-05 14:13:29,851 - INFO - Team #23762 APERTURE ROBOTICS done
+2025-03-05 14:13:31,007 - INFO - Team #26710 HSE-SL BLAZING STARS started
+2025-03-05 14:14:47,673 - INFO - Team #26710 HSE-SL BLAZING STARS done
+2025-03-05 14:14:50,814 - INFO - Team #18460 Patriotic Robotics started
+2025-03-05 14:16:27,762 - INFO - Team #18460 Patriotic Robotics done
+2025-03-05 14:16:29,902 - WARNING - No matches found for team #21920
+2025-03-05 14:16:31,147 - WARNING - No matches found for team #24660
+2025-03-05 14:16:32,270 - WARNING - No matches found for team #25277
+2025-03-05 14:16:35,631 - WARNING - No matches found for team #15831
+2025-03-05 14:16:36,867 - INFO - Team #12397 High Voltage Rattlers started
+2025-03-05 14:18:36,553 - INFO - Team #12397 High Voltage Rattlers done
+2025-03-05 14:18:37,514 - WARNING - No matches found for team #26200
+2025-03-05 14:18:38,489 - INFO - Team #25872 Martian Mechanics started
+2025-03-05 14:20:14,057 - INFO - Team #25872 Martian Mechanics done
+2025-03-05 14:20:17,023 - INFO - Team #6832 Iron Reign started
+2025-03-05 14:21:53,511 - ERROR - Error getting results for team #6832: 'np_opr'
+2025-03-05 14:21:53,515 - INFO - Team #6832 Iron Reign done
+2025-03-05 14:21:53,983 - INFO - Team #25986 St. Anne's Belfield started
+2025-03-05 14:22:39,518 - INFO - Team #25986 St. Anne's Belfield done
+2025-03-05 14:22:41,526 - INFO - Team #13581 Fang Gang started
+2025-03-05 14:24:38,380 - INFO - Team #13581 Fang Gang done
+2025-03-05 14:24:39,625 - INFO - Team #21807 INCINERATORS started
+2025-03-05 14:25:39,894 - ERROR - Error getting results for team #21807: 'np_opr'
+2025-03-05 14:25:39,898 - INFO - Team #21807 INCINERATORS done
+2025-03-05 14:25:41,252 - WARNING - No matches found for team #12330
+2025-03-05 14:25:42,962 - INFO - Team #26277 Circuit Breakers 4-H Robotics started
+2025-03-05 14:26:09,789 - INFO - Team #26277 Circuit Breakers 4-H Robotics done
+2025-03-05 14:26:12,620 - INFO - Team #11563 Robo-Wranglers started
+2025-03-05 14:27:36,253 - ERROR - Error getting results for team #11563: 'np_opr'
+2025-03-05 14:27:36,256 - INFO - Team #11563 Robo-Wranglers done
+2025-03-05 14:27:36,715 - INFO - Team #19892 Digital Duks started
+2025-03-05 14:28:26,928 - INFO - Team #19892 Digital Duks done
+2025-03-05 14:28:27,383 - INFO - Team #25894 Scarlet Serpents started
+2025-03-05 14:28:57,815 - INFO - Team #25894 Scarlet Serpents done
+2025-03-05 14:29:09,943 - INFO - Team #10577 Thunder Chicks started
+2025-03-05 14:30:14,309 - ERROR - Error getting results for team #10577: 'np_opr'
+2025-03-05 14:30:14,313 - INFO - Team #10577 Thunder Chicks done
+2025-03-05 14:30:16,823 - INFO - Team #23237 Adroit Robotics Alpha started
+2025-03-05 14:30:23,525 - ERROR - Error processing match 2425-TX-SM1-Q006-1 for team 23237: 'NoneType' object is not subscriptable
+2025-03-05 14:30:25,921 - ERROR - Error processing match 2425-TX-SM1-Q011-1 for team 23237: 'NoneType' object is not subscriptable
+2025-03-05 14:30:27,748 - ERROR - Error processing match 2425-TX-SM1-Q014-1 for team 23237: 'NoneType' object is not subscriptable
+2025-03-05 14:30:30,884 - ERROR - Error processing match 2425-TX-SM1-Q017-1 for team 23237: 'NoneType' object is not subscriptable
+2025-03-05 14:31:52,333 - INFO - Team #23237 Adroit Robotics Alpha done
+2025-03-05 14:31:53,115 - INFO - Team #23584 Mini FridgeBots started
+2025-03-05 14:32:24,419 - INFO - Team #23584 Mini FridgeBots done
+2025-03-05 14:32:26,011 - INFO - Team #25122 Panther TechSupport started
+2025-03-05 14:33:14,076 - INFO - Team #25122 Panther TechSupport done
+2025-03-05 14:33:16,836 - INFO - Team #18748 The Coconuts started
+2025-03-05 14:34:31,355 - ERROR - Error getting results for team #18748: 'np_opr'
+2025-03-05 14:34:31,358 - INFO - Team #18748 The Coconuts done
+2025-03-05 14:34:32,256 - INFO - Team #24441 Code Red Robotics: Milan started
+2025-03-05 14:34:43,967 - ERROR - Error processing match 2425-FIM-AAQ-Q029-1 for team 24441: 'NoneType' object is not subscriptable
+2025-03-05 14:34:46,030 - ERROR - Error processing match 2425-FIM-AAQ-Q042-1 for team 24441: 'NoneType' object is not subscriptable
+2025-03-05 14:35:16,739 - INFO - Team #24441 Code Red Robotics: Milan done
+2025-03-05 14:35:17,724 - INFO - Team #22250 Knights of the Ground Cable started
+2025-03-05 14:36:25,983 - INFO - Team #22250 Knights of the Ground Cable done
+2025-03-05 14:36:27,732 - INFO - Team #5968 WR That Hertz started
+2025-03-05 14:38:45,229 - ERROR - Error getting results for team #5968: 'np_opr'
+2025-03-05 14:38:45,233 - INFO - Team #5968 WR That Hertz done
+2025-03-05 14:38:46,173 - INFO - Team #12211 Trial & Error started
+2025-03-05 14:39:53,243 - INFO - Team #12211 Trial & Error done
+2025-03-05 14:39:53,963 - WARNING - No matches found for team #27582
+2025-03-05 14:39:54,880 - WARNING - No matches found for team #24947
+2025-03-05 14:39:56,696 - INFO - Team #27124 Robo Owls started
+2025-03-05 14:40:30,086 - ERROR - Error getting results for team #27124: 'np_opr'
+2025-03-05 14:40:30,090 - INFO - Team #27124 Robo Owls done
+2025-03-05 14:40:30,971 - INFO - Team #13002 Screaming Eagles started
+2025-03-05 14:40:44,867 - ERROR - Error processing match 2425-FIM-ROQ-Q039-1 for team 13002: 'NoneType' object is not subscriptable
+2025-03-05 14:40:47,766 - INFO - Team #13002 Screaming Eagles done
+2025-03-05 14:40:49,486 - WARNING - No matches found for team #8887
+2025-03-05 14:40:50,782 - INFO - Team #19298 BV Bulldogs 100 started
+2025-03-05 14:42:35,599 - INFO - Team #19298 BV Bulldogs 100 done
+2025-03-05 14:42:36,781 - INFO - Team #3296 Bots in Blue started
+2025-03-05 14:43:56,193 - ERROR - Error getting results for team #3296: 'np_opr'
+2025-03-05 14:43:56,197 - INFO - Team #3296 Bots in Blue done
+2025-03-05 14:43:56,924 - INFO - Team #21707 MinerBots started
+2025-03-05 14:46:12,662 - ERROR - Error getting results for team #21707: 'np_opr'
+2025-03-05 14:46:12,666 - INFO - Team #21707 MinerBots done
+2025-03-05 14:46:14,111 - INFO - Team #19458 Equilibrium.exe started
+2025-03-05 14:46:44,368 - INFO - Team #19458 Equilibrium.exe done
+2025-03-05 14:46:45,122 - WARNING - No matches found for team #21835
+2025-03-05 14:46:46,188 - INFO - Team #21372 Robarks started
+2025-03-05 14:47:52,624 - ERROR - Error getting results for team #21372: 'np_opr'
+2025-03-05 14:47:52,628 - INFO - Team #21372 Robarks done
+2025-03-05 14:47:53,372 - INFO - Team #21867 Door of Hope started
+2025-03-05 14:48:49,459 - INFO - Team #21867 Door of Hope done
+2025-03-05 14:48:50,746 - WARNING - No matches found for team #25969
+2025-03-05 14:48:52,463 - INFO - Team #26175 Circuit Breakers started
+2025-03-05 14:50:17,026 - ERROR - Error getting results for team #26175: 'np_opr'
+2025-03-05 14:50:17,030 - INFO - Team #26175 Circuit Breakers done
+2025-03-05 14:50:17,787 - INFO - Team #19728 Carbo-Knights started
+2025-03-05 14:51:16,739 - INFO - Team #19728 Carbo-Knights done
+2025-03-05 14:51:17,720 - WARNING - No matches found for team #23475
+2025-03-05 14:51:19,415 - WARNING - No matches found for team #22419
+2025-03-05 14:51:21,797 - WARNING - No matches found for team #23211
+2025-03-05 14:51:23,881 - INFO - Team #7924 Red Toques started
+2025-03-05 14:53:14,445 - ERROR - Error getting results for team #7924: 'np_opr'
+2025-03-05 14:53:14,449 - INFO - Team #7924 Red Toques done
+2025-03-05 14:53:16,781 - WARNING - No matches found for team #27791
+2025-03-05 14:53:17,994 - INFO - Team #22377 SigmaCorns started
+2025-03-05 14:55:14,047 - INFO - Team #22377 SigmaCorns done
+2025-03-05 14:55:16,767 - INFO - Team #23543 The Architects started
+2025-03-05 14:55:44,928 - INFO - Team #23543 The Architects done
+2025-03-05 14:55:46,163 - INFO - Team #15773 Robodogs started
+2025-03-05 14:56:39,528 - INFO - Team #15773 Robodogs done
+2025-03-05 14:56:41,602 - INFO - Team #22370 The Covenant started
+2025-03-05 14:59:10,176 - ERROR - Error getting results for team #22370: 'np_opr'
+2025-03-05 14:59:10,180 - INFO - Team #22370 The Covenant done
+2025-03-05 14:59:12,385 - INFO - Team #16252 LFR FTC - Ruh-Roh Robotics started
+2025-03-05 15:00:14,602 - INFO - Team #16252 LFR FTC - Ruh-Roh Robotics done
+2025-03-05 15:00:17,133 - INFO - Team #23307 Zenith started
+2025-03-05 15:02:32,573 - ERROR - Error getting results for team #23307: 'np_opr'
+2025-03-05 15:02:32,577 - INFO - Team #23307 Zenith done
+2025-03-05 15:02:35,639 - WARNING - No matches found for team #17637
+2025-03-05 15:02:36,696 - WARNING - No matches found for team #23171
+2025-03-05 15:02:37,529 - INFO - Team #18209 Full Stop started
+2025-03-05 15:03:21,728 - INFO - Team #18209 Full Stop done
+2025-03-05 15:03:23,621 - WARNING - No matches found for team #12563
+2025-03-05 15:03:24,916 - WARNING - No matches found for team #13661
+2025-03-05 15:03:27,101 - INFO - Team #20355 Keep It Simple 2 started
+2025-03-05 15:04:48,161 - ERROR - Error getting results for team #20355: 'np_opr'
+2025-03-05 15:04:48,164 - INFO - Team #20355 Keep It Simple 2 done
+2025-03-05 15:04:49,758 - INFO - Team #12390 The Robotic Raiders started
+2025-03-05 15:06:43,983 - INFO - Team #12390 The Robotic Raiders done
+2025-03-05 15:06:44,959 - WARNING - No matches found for team #24788
+2025-03-05 15:06:46,259 - WARNING - No matches found for team #13886
+2025-03-05 15:06:48,144 - INFO - Team #10588 The LUXONS started
+2025-03-05 15:07:09,729 - ERROR - Error processing match 2425-MO-STLMM9-Q014-1 for team 10588: 'NoneType' object is not subscriptable
+2025-03-05 15:07:14,014 - ERROR - Error processing match 2425-MO-STLMM9-Q010-1 for team 10588: 'NoneType' object is not subscriptable
+2025-03-05 15:07:17,617 - ERROR - Error processing match 2425-MO-STLMM9-Q011-1 for team 10588: 'NoneType' object is not subscriptable
+2025-03-05 15:09:17,113 - ERROR - Error getting results for team #10588: 'np_opr'
+2025-03-05 15:09:17,116 - INFO - Team #10588 The LUXONS done
+2025-03-05 15:09:17,721 - WARNING - No matches found for team #20904
+2025-03-05 15:09:21,331 - INFO - Team #16400 Rising Phoenix started
+2025-03-05 15:11:37,488 - INFO - Team #16400 Rising Phoenix done
+2025-03-05 15:11:38,679 - INFO - Team #18230 luminUs started
+2025-03-05 15:12:37,481 - INFO - Team #18230 luminUs done
+2025-03-05 15:12:38,469 - INFO - Team #26651 LoCo Lions started
+2025-03-05 15:13:23,579 - INFO - Team #26651 LoCo Lions done
+2025-03-05 15:13:24,919 - INFO - Team #2836 Trobots started
+2025-03-05 15:13:48,021 - ERROR - Error getting results for team #2836: 'np_opr'
+2025-03-05 15:13:48,024 - INFO - Team #2836 Trobots done
+2025-03-05 15:13:49,510 - WARNING - No matches found for team #24114
+2025-03-05 15:13:51,547 - INFO - Team #13303 SMES Robotics started
+2025-03-05 15:15:20,352 - ERROR - Error processing match 2425-CA-O1M3-Q021-1 for team 13303: 'NoneType' object is not subscriptable
+2025-03-05 15:15:47,844 - INFO - Team #13303 SMES Robotics done
+2025-03-05 15:15:49,576 - INFO - Team #20530 Lincoln Tigerbots Black started
+2025-03-05 15:16:00,772 - ERROR - Error processing match 2425-CA-LAS3-Q014-1 for team 20530: 'NoneType' object is not subscriptable
+2025-03-05 15:16:12,246 - ERROR - Error processing match 2425-CA-LAS3-Q017-1 for team 20530: 'NoneType' object is not subscriptable
+2025-03-05 15:16:16,690 - ERROR - Error processing match 2425-CA-LAS3-Q021-1 for team 20530: 'NoneType' object is not subscriptable
+2025-03-05 15:16:51,220 - INFO - Team #20530 Lincoln Tigerbots Black done
+2025-03-05 15:16:52,409 - WARNING - No matches found for team #19688
+2025-03-05 15:16:53,315 - WARNING - No matches found for team #21753
+2025-03-05 15:16:55,747 - WARNING - No matches found for team #27016
+2025-03-05 15:16:59,150 - WARNING - No matches found for team #27004
+2025-03-05 15:17:02,544 - WARNING - No matches found for team #18914
+2025-03-05 15:17:09,910 - INFO - Team #24007 NBRC started
+2025-03-05 15:18:37,482 - INFO - Team #24007 NBRC done
+2025-03-05 15:18:38,546 - INFO - Team #24316 Voltzwagen started
+2025-03-05 15:19:59,077 - INFO - Team #24316 Voltzwagen done
+2025-03-05 15:20:00,849 - INFO - Team #26338 Bit 0' Bytes started
+2025-03-05 15:20:28,162 - INFO - Team #26338 Bit 0' Bytes done
+2025-03-05 15:20:29,909 - WARNING - No matches found for team #19950
+2025-03-05 15:20:30,987 - WARNING - No matches found for team #20585
+2025-03-05 15:20:32,349 - INFO - Team #12915 System Override started
+2025-03-05 15:21:27,573 - INFO - Team #12915 System Override done
+2025-03-05 15:21:28,099 - INFO - Team #16208 Crimson Crusaders started
+2025-03-05 15:22:23,588 - INFO - Team #16208 Crimson Crusaders done
+2025-03-05 15:22:24,928 - WARNING - No matches found for team #5514
+2025-03-05 15:22:27,151 - INFO - Team #26812 CATIONS started
+2025-03-05 15:23:48,114 - ERROR - Error getting results for team #26812: 'np_opr'
+2025-03-05 15:23:48,117 - INFO - Team #26812 CATIONS done
+2025-03-05 15:23:49,598 - INFO - Team #27481 SpongeBots started
+2025-03-05 15:25:14,049 - INFO - Team #27481 SpongeBots done
+2025-03-05 15:25:16,853 - INFO - Team #13893 Team Citrus Circuit started
+2025-03-05 15:26:17,658 - INFO - Team #13893 Team Citrus Circuit done
+2025-03-05 15:26:20,411 - WARNING - No matches found for team #21433
+2025-03-05 15:26:21,867 - INFO - Team #23269 GigaBite Gators started
+2025-03-05 15:27:32,469 - INFO - Team #23269 GigaBite Gators done
+2025-03-05 15:27:32,967 - INFO - Team #15321 Green Machine started
+2025-03-05 15:28:53,272 - INFO - Team #15321 Green Machine done
+2025-03-05 15:28:55,748 - INFO - Team #14666 Inverse Polarity FTC started
+2025-03-05 15:29:40,094 - INFO - Team #14666 Inverse Polarity FTC done
+2025-03-05 15:29:41,376 - INFO - Team #21916 Hive Voltage started
+2025-03-05 15:30:00,809 - INFO - Team #21916 Hive Voltage done
+2025-03-05 15:30:10,103 - INFO - Team #23842 TeamOKC Awesome Possums started
+2025-03-05 15:32:21,761 - INFO - Team #23842 TeamOKC Awesome Possums done
+2025-03-05 15:32:23,629 - WARNING - No matches found for team #21775
+2025-03-05 15:32:24,999 - INFO - Team #10077 Cyber Bears started
+2025-03-05 15:33:41,693 - ERROR - Error getting results for team #10077: 'np_opr'
+2025-03-05 15:33:41,697 - INFO - Team #10077 Cyber Bears done
+2025-03-05 15:33:42,980 - WARNING - No matches found for team #9470
+2025-03-05 15:33:44,769 - INFO - Team #26595 Robostangs started
+2025-03-05 15:34:26,996 - ERROR - Error processing match 2425-TX-AMS-Q025-1 for team 26595: 'NoneType' object is not subscriptable
+2025-03-05 15:34:28,809 - ERROR - Error processing match 2425-TX-AMS-Q030-1 for team 26595: 'NoneType' object is not subscriptable
+2025-03-05 15:34:32,424 - ERROR - Error processing match 2425-TX-AMS-Q035-1 for team 26595: 'NoneType' object is not subscriptable
+2025-03-05 15:34:35,562 - ERROR - Error processing match 2425-TX-AMS-Q041-1 for team 26595: 'NoneType' object is not subscriptable
+2025-03-05 15:35:33,384 - INFO - Team #26595 Robostangs done
+2025-03-05 15:35:35,716 - INFO - Team #14491 Nerdettes FTC started
+2025-03-05 15:36:49,476 - INFO - Team #14491 Nerdettes FTC done
+2025-03-05 15:36:51,267 - WARNING - No matches found for team #27442
+2025-03-05 15:36:52,490 - INFO - Team #24432 Cyber Savants started
+2025-03-05 15:37:59,093 - INFO - Team #24432 Cyber Savants done
+2025-03-05 15:38:00,900 - INFO - Team #27190 WD Sesame Street started
+2025-03-05 15:38:40,041 - ERROR - Error processing match 2425-TX-AMS-Q025-1 for team 27190: 'NoneType' object is not subscriptable
+2025-03-05 15:38:42,896 - ERROR - Error processing match 2425-TX-AMS-Q032-1 for team 27190: 'NoneType' object is not subscriptable
+2025-03-05 15:38:45,359 - ERROR - Error processing match 2425-TX-AMS-Q041-1 for team 27190: 'NoneType' object is not subscriptable
+2025-03-05 15:39:44,634 - INFO - Team #27190 WD Sesame Street done
+2025-03-05 15:39:45,423 - WARNING - No matches found for team #14000
+2025-03-05 15:39:46,111 - WARNING - No matches found for team #16479
+2025-03-05 15:39:47,883 - WARNING - No matches found for team #27654
+2025-03-05 15:39:49,582 - INFO - Team #6600 Ballen Pretzels Central Lyon started
+2025-03-05 15:40:37,451 - ERROR - Error processing match 2425-IA-TASM4-Q017-1 for team 6600: 'NoneType' object is not subscriptable
+2025-03-05 15:41:27,961 - ERROR - Error getting results for team #6600: 'np_opr'
+2025-03-05 15:41:27,965 - INFO - Team #6600 Ballen Pretzels Central Lyon done
+2025-03-05 15:41:28,402 - WARNING - No matches found for team #7797
+2025-03-05 15:41:28,909 - INFO - Team #8133 Laker Robotics, Bionic Sailors Team 8133 started
+2025-03-05 15:41:45,931 - INFO - Team #8133 Laker Robotics, Bionic Sailors Team 8133 done
+2025-03-05 15:41:46,389 - INFO - Team #23570 Saber Dynamics started
+2025-03-05 15:42:33,705 - ERROR - Error getting results for team #23570: 'np_opr'
+2025-03-05 15:42:33,709 - INFO - Team #23570 Saber Dynamics done
+2025-03-05 15:42:36,332 - INFO - Team #14343 Escape Velocity started
+2025-03-05 15:45:37,123 - INFO - Team #14343 Escape Velocity done
+2025-03-05 15:45:38,607 - WARNING - No matches found for team #27145
+2025-03-05 15:45:39,044 - WARNING - No matches found for team #26584
+2025-03-05 15:45:40,352 - WARNING - No matches found for team #8709
+2025-03-05 15:45:41,414 - WARNING - No matches found for team #28055
+2025-03-05 15:45:42,984 - WARNING - No matches found for team #23782
+2025-03-05 15:45:44,755 - INFO - Team #12982 Bionic Bulldogs started
+2025-03-05 15:46:46,023 - INFO - Team #12982 Bionic Bulldogs done
+2025-03-05 15:46:46,524 - INFO - Team #15749 OHMS Baconators started
+2025-03-05 15:47:59,098 - INFO - Team #15749 OHMS Baconators done
+2025-03-05 15:48:00,870 - INFO - Team #12014 FireWires started
+2025-03-05 15:48:42,936 - INFO - Team #12014 FireWires done
+2025-03-05 15:48:45,025 - INFO - Team #26163 Red White and Bots started
+2025-03-05 15:49:29,071 - INFO - Team #26163 Red White and Bots done
+2025-03-05 15:49:31,413 - WARNING - No matches found for team #9778
+2025-03-05 15:49:32,520 - WARNING - No matches found for team #4962
+2025-03-05 15:49:33,517 - INFO - Team #21890 NEMO started
+2025-03-05 15:51:28,382 - INFO - Team #21890 NEMO done
+2025-03-05 15:51:29,115 - INFO - Team #16862 Terabyte Triceratops started
+2025-03-05 15:52:09,796 - INFO - Team #16862 Terabyte Triceratops done
+2025-03-05 15:52:12,630 - INFO - Team #27604 ThunderBytes started
+2025-03-05 15:54:46,637 - INFO - Team #27604 ThunderBytes done
+2025-03-05 15:54:47,164 - INFO - Team #20540 John C. Fremont H.S. 2 started
+2025-03-05 15:55:48,933 - INFO - Team #20540 John C. Fremont H.S. 2 done
+2025-03-05 15:55:49,499 - WARNING - No matches found for team #7065
+2025-03-05 15:55:51,344 - INFO - Team #24312 EGG started
+2025-03-05 15:57:28,752 - ERROR - Error getting results for team #24312: 'np_opr'
+2025-03-05 15:57:28,756 - INFO - Team #24312 EGG done
+2025-03-05 15:57:29,210 - WARNING - No matches found for team #23313
+2025-03-05 15:57:31,484 - INFO - Team #22344 Catfish started
+2025-03-05 15:58:49,769 - ERROR - Error getting results for team #22344: 'np_opr'
+2025-03-05 15:58:49,774 - INFO - Team #22344 Catfish done
+2025-03-05 15:58:51,270 - WARNING - No matches found for team #18873
+2025-03-05 15:58:52,685 - INFO - Team #3033 Techno Riderz started
+2025-03-05 16:00:38,419 - ERROR - Error getting results for team #3033: 'np_opr'
+2025-03-05 16:00:38,422 - INFO - Team #3033 Techno Riderz done
+2025-03-05 16:00:39,071 - WARNING - No matches found for team #26004
+2025-03-05 16:00:40,149 - INFO - Team #20748 Nobles started
+2025-03-05 16:01:31,373 - INFO - Team #20748 Nobles done
+2025-03-05 16:01:32,587 - INFO - Team #6382 Batman's Car (WHS) started
+2025-03-05 16:02:43,373 - INFO - Team #6382 Batman's Car (WHS) done
+2025-03-05 16:02:46,985 - INFO - Team #8813 The Winter Soldiers started
+2025-03-05 16:05:31,357 - INFO - Team #8813 The Winter Soldiers done
+2025-03-05 16:05:32,593 - INFO - Team #25685 Pulsar started
+2025-03-05 16:06:55,715 - INFO - Team #25685 Pulsar done
+2025-03-05 16:06:59,142 - WARNING - No matches found for team #22371
+2025-03-05 16:07:00,865 - WARNING - No matches found for team #22098
+2025-03-05 16:07:09,864 - INFO - Team #18980 RaiderBots started
+2025-03-05 16:07:33,408 - INFO - Team #18980 RaiderBots done
+2025-03-05 16:07:35,979 - WARNING - No matches found for team #20888
+2025-03-05 16:07:37,197 - WARNING - No matches found for team #22561
+2025-03-05 16:07:38,071 - WARNING - No matches found for team #26638
+2025-03-05 16:07:39,111 - INFO - Team #16688 Wolfbotics started
+2025-03-05 16:08:50,815 - ERROR - Error getting results for team #16688: 'np_opr'
+2025-03-05 16:08:50,819 - INFO - Team #16688 Wolfbotics done
+2025-03-05 16:08:51,275 - WARNING - No matches found for team #28197
+2025-03-05 16:08:52,481 - INFO - Team #18340 Polaris Robotics started
+2025-03-05 16:09:48,395 - INFO - Team #18340 Polaris Robotics done
+2025-03-05 16:09:49,319 - WARNING - No matches found for team #24434
+2025-03-05 16:09:50,720 - WARNING - No matches found for team #24996
+2025-03-05 16:09:51,210 - INFO - Team #479 Stuy Fusion started
+2025-03-05 16:11:43,356 - INFO - Team #479 Stuy Fusion done
+2025-03-05 16:11:46,689 - WARNING - No matches found for team #25844
+2025-03-05 16:11:47,549 - WARNING - No matches found for team #22631
+2025-03-05 16:11:48,690 - INFO - Team #21718 UngaBungaBongos started
+2025-03-05 16:12:09,754 - ERROR - Error processing match 2425-IA-CORM4-Q026-1 for team 21718: 'NoneType' object is not subscriptable
+2025-03-05 16:12:14,025 - ERROR - Error processing match 2425-IA-CORM4-Q024-1 for team 21718: 'NoneType' object is not subscriptable
+2025-03-05 16:13:39,506 - ERROR - Error getting results for team #21718: 'np_opr'
+2025-03-05 16:13:39,511 - INFO - Team #21718 UngaBungaBongos done
+2025-03-05 16:13:40,121 - INFO - Team #8732 Thunderbotz started
+2025-03-05 16:14:59,481 - ERROR - Error getting results for team #8732: 'np_opr'
+2025-03-05 16:14:59,486 - INFO - Team #8732 Thunderbotz done
+2025-03-05 16:15:00,863 - WARNING - No matches found for team #5907
+2025-03-05 16:15:09,853 - WARNING - No matches found for team #18274
+2025-03-05 16:15:12,593 - INFO - Team #18570 Swift PowerMech started
+2025-03-05 16:16:09,761 - ERROR - Error processing match 2425-TX-AMM3-Q039-1 for team 18570: 'NoneType' object is not subscriptable
+2025-03-05 16:17:00,816 - INFO - Team #18570 Swift PowerMech done
+2025-03-05 16:17:10,188 - INFO - Team #19502 The Moment Makers started
+2025-03-05 16:19:28,388 - INFO - Team #19502 The Moment Makers done
+2025-03-05 16:19:29,219 - INFO - Team #15256 Techno Knights started
+2025-03-05 16:19:40,064 - ERROR - Error processing match 2425-FIM-BEQ-Q033-1 for team 15256: 'NoneType' object is not subscriptable
+2025-03-05 16:19:46,597 - ERROR - Error processing match 2425-FIM-BEQ-Q038-1 for team 15256: 'NoneType' object is not subscriptable
+2025-03-05 16:20:09,789 - INFO - Team #15256 Techno Knights done
+2025-03-05 16:20:12,346 - WARNING - No matches found for team #24985
+2025-03-05 16:20:14,192 - INFO - Team #11244 The LEAPING LEGENDS started
+2025-03-05 16:20:28,344 - ERROR - Error processing match 2425-FIM-BEQ-Q036-1 for team 11244: 'NoneType' object is not subscriptable
+2025-03-05 16:20:31,322 - ERROR - Error processing match 2425-FIM-BEQ-Q044-1 for team 11244: 'NoneType' object is not subscriptable
+2025-03-05 16:21:27,024 - INFO - Team #11244 The LEAPING LEGENDS done
+2025-03-05 16:21:28,429 - INFO - Team #7897 The Lost Robots started
+2025-03-05 16:22:16,873 - INFO - Team #7897 The Lost Robots done
+2025-03-05 16:22:18,099 - WARNING - No matches found for team #21637
+2025-03-05 16:22:20,507 - INFO - Team #24177 Duct Taping Dreams started
+2025-03-05 16:22:51,995 - INFO - Team #24177 Duct Taping Dreams done
+2025-03-05 16:22:52,914 - WARNING - No matches found for team #12448
+2025-03-05 16:22:55,459 - INFO - Team #5321 TechHeroes started
+2025-03-05 16:23:24,905 - INFO - Team #5321 TechHeroes done
+2025-03-05 16:23:27,522 - WARNING - No matches found for team #24727
+2025-03-05 16:23:28,436 - WARNING - No matches found for team #13466
+2025-03-05 16:23:29,221 - INFO - Team #24466 Circuit Breakers started
+2025-03-05 16:23:40,076 - ERROR - Error processing match 2425-FIM-BEQ-Q032-1 for team 24466: 'NoneType' object is not subscriptable
+2025-03-05 16:23:46,598 - ERROR - Error processing match 2425-FIM-BEQ-Q038-1 for team 24466: 'NoneType' object is not subscriptable
+2025-03-05 16:23:48,729 - INFO - Team #24466 Circuit Breakers done
+2025-03-05 16:23:49,616 - INFO - Team #20726 Tobor the Viking started
+2025-03-05 16:25:22,842 - INFO - Team #20726 Tobor the Viking done
+2025-03-05 16:25:23,707 - INFO - Team #2818 G-FORCE started
+2025-03-05 16:26:28,388 - INFO - Team #2818 G-FORCE done
+2025-03-05 16:26:29,343 - INFO - Team #14291 Small Town Robotics started
+2025-03-05 16:27:33,415 - INFO - Team #14291 Small Town Robotics done
+2025-03-05 16:27:36,447 - INFO - Team #202 BroncoBotsTOO started
+2025-03-05 16:29:12,307 - INFO - Team #202 BroncoBotsTOO done
+2025-03-05 16:29:14,195 - INFO - Team #16557 Honey K-Ohms started
+2025-03-05 16:30:32,277 - ERROR - Error getting results for team #16557: 'np_opr'
+2025-03-05 16:30:32,281 - INFO - Team #16557 Honey K-Ohms done
+2025-03-05 16:30:33,078 - INFO - Team #9978 Avengers Tech started
+2025-03-05 16:32:52,430 - ERROR - Error getting results for team #9978: 'np_opr'
+2025-03-05 16:32:52,434 - INFO - Team #9978 Avengers Tech done
+2025-03-05 16:32:52,895 - INFO - Team #24610 SJND Pilots started
+2025-03-05 16:33:37,565 - ERROR - Error getting results for team #24610: 'np_opr'
+2025-03-05 16:33:37,569 - INFO - Team #24610 SJND Pilots done
