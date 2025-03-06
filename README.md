@@ -1,19 +1,28 @@
 # Orange Alliance Dataset
 
-Welcome to the Orange Alliance Dataset repository. This dataset contains valuable information for analyzing and understanding various aspects of the FTC(FIRST Tech Challenge) game and teams.
+Welcome to the Orange Alliance Dataset repository. This dataset was created by scraping the Orange Alliance API, which is a website that contains data about the FTC([FIRST Tech Challenge](https://www.firstinspires.org/robotics/ftc)) teams.
 
-## Table of Contents
+## Dataset
 
-- [Introduction](#introduction)
-- [Disclaimer](#Disclaimer)
-- [License](#License)
+The dataset is stored as the `dataset.csv` file. To include it in your project, you can use the following code:
 
-## Introduction
-The Orange Alliance Dataset is a comprehensive collection of data from the Orange Alliance API, which is ready for further analysis and use.
-With this dataset it is possible to further analyse FTC(FIRST Tech Challenge) teams, using tools like pandas, sklearn and more.
+```python
+import pandas as pd
 
-## Disclaimer
-This dataset is not an official dataset of the Orange Alliance. It is independently compiled and maintained for educational and analytical purposes.
+df = pd.read_csv('https://raw.githubusercontent.com/AdarWa/OrangeAllianceDataset/refs/heads/main/dataset.csv')
+```
 
-## License
-This project is licensed under the GPL-3.0 License. See the [LICENSE](LICENSE) file for more details.
+## Running the script
+
+To run the script, you can use the following commands:
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+python3 main.py
+```
+
+It'll ask you for the number of teams you want to process, and then it'll save the selected teams to the `selected_teams.json` file.
+After that, it'll process the data for each team and save the results to the `data.csv` file.
+

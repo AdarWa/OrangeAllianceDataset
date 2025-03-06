@@ -24,10 +24,10 @@ class Match:
         self.red["robot1"]["auto_park"] = det["red"]["robot1Auto"] != "NONE"
         self.red["robot2"]["auto_park"] = det["red"]["robot2Auto"] != "NONE"
         
-        self.blue["robot1"]["tele_ascent"] = utils.get_ascent_level(det["blue"]["robot1Teleop"])
-        self.blue["robot2"]["tele_ascent"] = utils.get_ascent_level(det["blue"]["robot2Teleop"])
-        self.red["robot1"]["tele_ascent"] = utils.get_ascent_level(det["red"]["robot1Teleop"])
-        self.red["robot2"]["tele_ascent"] = utils.get_ascent_level(det["red"]["robot2Teleop"])
+        self.blue["robot1"]["tele_ascent"] = det["blue"]["robot1Teleop"]
+        self.blue["robot2"]["tele_ascent"] = det["blue"]["robot2Teleop"]
+        self.red["robot1"]["tele_ascent"] = det["red"]["robot1Teleop"]
+        self.red["robot2"]["tele_ascent"] = det["red"]["robot2Teleop"]
         
         self.blue["auto"] = {}
         self.blue["teleop"] = {}
@@ -56,8 +56,10 @@ class Match:
         self.red["teleop"]["specimen_low"] = det["red"]["teleopSpecimenLow"]
         self.red["teleop"]["specimen_high"] = det["red"]["teleopSpecimenHigh"]
         
-        self.blue["foul_points"] = det["blue"]["foulPointsCommitted"]
-        self.red["foul_points"] = det["red"]["foulPointsCommitted"]
+        self.blue["minor_fouls"] = det["blue"]["minorFouls"]
+        self.blue["major_fouls"] = det["blue"]["majorFouls"]
+        self.red["minor_fouls"] = det["red"]["minorFouls"]
+        self.red["major_fouls"] = det["red"]["majorFouls"]
         
         self.blue["auto_points"] = det["blue"]["autoPoints"]
         self.red["auto_points"] = det["red"]["autoPoints"]

@@ -1,5 +1,4 @@
 import api
-import filter_utils
 import utils
 from match import Match
 import pandas as pd
@@ -37,40 +36,20 @@ def process_match_data(team_num, match_key):
         match = Match(match_key)
         raw_data = utils.get_team_data(team_num, match)
         data = {}
-        data["auto_park"] = 3 if raw_data["team"]["auto_park"] else 0
-        data["tele_ascent"] = utils.get_points_from_ascent_level(raw_data["team"]["tele_ascent"])
+        data["auto_park"] = raw_data["team"]["auto_park"]
+        data["tele_ascent"] = raw_data["team"]["tele_ascent"]
         for i, auto in enumerate(raw_data["alliance"]["auto"]):
             data[f"auto_{auto}"] = raw_data["alliance"]["auto"][auto]
         for i, auto in enumerate(raw_data["alliance"]["teleop"]):
             data[f"teleop_{auto}"] = raw_data["alliance"]["teleop"][auto]
-        data["foul_points"] = raw_data["alliance"]["foul_points"]
+        data["minor_fouls"] = raw_data["alliance"]["minor_fouls"]
+        data["major_fouls"] = raw_data["alliance"]["major_fouls"]
         data["auto_points"] = raw_data["alliance"]["auto_points"]
         data["teleop_points"] = raw_data["alliance"]["teleop_points"]
-        data["total_points"] = raw_data["alliance"]["total_points"]
         return data
     except Exception as e:
         logging.error(f"Error processing match {match_key} for team {team_num}: {str(e)}")
         return None
-
-def calculate_consistency(df):
-    auto_std = df["auto_points"].std()
-    teleop_std = df["teleop_points"].std()
-
-    min_std = 0 
-    max_auto_std = df["auto_points"].max() - df["auto_points"].min()
-    max_teleop_std = df["teleop_points"].max() - df["teleop_points"].min()
-
-    auto_consistency = 1 - normalize_std(auto_std, min_std, max_auto_std)
-    teleop_consistency = 1 - normalize_std(teleop_std, min_std, max_teleop_std)
-    
-    return auto_consistency, teleop_consistency
-
-def handle_outliers(df):
-    mean_tele_ascent = df["tele_ascent"].mean()
-    std_tele_ascent = df["tele_ascent"].std()
-    outlier_threshold = mean_tele_ascent + 2 * std_tele_ascent
-    df["tele_ascent"] = df["tele_ascent"].apply(lambda x: mean_tele_ascent if x > outlier_threshold else x)
-    return df
 
 def process_team(team):
     try:
@@ -78,7 +57,8 @@ def process_team(team):
             return None
             
         t = {"number": team['team_number'], "name": team['team_name_short'], 
-             "seniority": 2025 - team['rookie_year'], "country": team['country'], "has_website": team['website'] != ""}
+             "rookie_year": team['rookie_year'], "country": team['country'], 
+             "has_website": team['website'] != ""}
         team_num = str(t["number"])
             
         matches = api.get_team_matches(team_num)
@@ -101,23 +81,11 @@ def process_team(team):
             
         teams[team_num]["matches"] = valid_matches
         
-        total_points = [match["total_points"] for match in teams[team_num]["matches"]]
-        estimated_contribution = filter_utils.estimate_contribution(total_points)
-        teams[team_num]["details"]["estimated_contribution_minimize"] = estimated_contribution
-        
         df = pd.DataFrame(teams[team_num]["matches"])
         
-        try:
-            auto_consistency, teleop_consistency = calculate_consistency(df)
-            teams[team_num]["details"]["auto_consistency"] = auto_consistency
-            teams[team_num]["details"]["teleop_consistency"] = teleop_consistency
-        except Exception as e:
-            logging.error(f"Error calculating consistency for team #{team_num}: {str(e)}")
-            teams[team_num]["details"]["auto_consistency"] = 0
-            teams[team_num]["details"]["teleop_consistency"] = 0
         
-        df = handle_outliers(df)
-        game_data = df.mean().to_dict()
+        game_data = df.to_dict(orient="list")
+        game_data = {key: ",".join(map(str, value)) for key, value in game_data.items()}
         team_data = teams[team_num]["details"]
         
         try:
@@ -133,8 +101,8 @@ def process_team(team):
             teams_data_df = pd.DataFrame([all_data])
             if not os.path.exists("data.csv"):
                 headers = pd.DataFrame([all_data]).columns
-                pd.DataFrame(columns=headers).to_csv("data.csv")
-            teams_data_df.to_csv("data.csv", mode="a", header=False)
+                pd.DataFrame(columns=headers).to_csv("data.csv", index=True)
+            teams_data_df.to_csv("data.csv", mode="a", header=False, index=True)
         except Exception as e:
             logging.error(f"Error saving data for team #{team_num}: {str(e)}")
         
@@ -145,9 +113,6 @@ def process_team(team):
     except Exception as e:
         logging.error(f"Error processing team {team.get('team_number', 'unknown')}: {str(e)}")
         return None
-
-def normalize_std(std, min_std, max_std):
-    return (std - min_std) / (max_std - min_std)
 
 def main():
     logging.info("Starting...")
@@ -209,7 +174,6 @@ def main():
         for team in teams_data:
             if team['team_key'].strip() == last_processed_team:
                 resume = True
-                print(type(team['team_number']))
                 print(f"Resuming from team #{team['team_number']} {team['team_name_short']}")
                 continue
             if resume:
