@@ -101,8 +101,8 @@ def process_team(team):
             teams_data_df = pd.DataFrame([all_data])
             if not os.path.exists("data.csv"):
                 headers = pd.DataFrame([all_data]).columns
-                pd.DataFrame(columns=headers).to_csv("data.csv", index=True)
-            teams_data_df.to_csv("data.csv", mode="a", header=False, index=True)
+                pd.DataFrame(columns=headers).to_csv("data.csv", index=False)
+            teams_data_df.to_csv("data.csv", mode="a", header=False, index=False)
         except Exception as e:
             logging.error(f"Error saving data for team #{team_num}: {str(e)}")
         

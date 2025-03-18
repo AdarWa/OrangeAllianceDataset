@@ -10,8 +10,8 @@ class Results:
     
     def __init__(self, json_data):
         if json_data:
-            self.ranks = [data["rank"] for data in json_data]
-            self.opr = [data["np_opr"] for data in json_data]
+            self.ranks = [data.get("rank",0) for data in json_data]
+            self.opr = [data.get("np_opr",0) for data in json_data]
             self.wins = sum(data["wins"] for data in json_data)
             self.losses = sum(data["losses"] for data in json_data)
             self.ties = sum(data["ties"] for data in json_data)
